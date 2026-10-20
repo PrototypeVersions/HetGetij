@@ -236,7 +236,23 @@
     "asset": "assets/editions/2026-10-20/ahold-doet-aangifte-cyberaanval.svg",
     "alt": "Een lege boodschappentas naast een opengebroken hangslot, bij de cyberaanval die de bezorging van Albert Heijn stillegde.",
     "credit": "Redactionele illustratie"
-   }
+   },
+   "updates": [
+    {
+     "at": "2026-10-20T18:50:00+02:00",
+     "label": "Avondupdate · 18.50 uur",
+     "text": "Albert Heijn houdt vast aan vrijdag: online bestellingen worden tot en met donderdag geannuleerd, daarna gaan de eigen bezorgers geleidelijk weer de weg op. De klantenservice is volgens het bedrijf nog niet bereikbaar en de persoonlijke Bonus Box werkt nog niet.",
+     "sources": [
+      {
+       "publisher": "Albert Heijn",
+       "title": "Mediastatement inzake cybersecurity incident",
+       "url": "https://nieuws.ah.nl/mediastatement-inzake-it-incident/",
+       "publishedAt": "bijgewerkt 20 oktober 2026, 13.30 uur",
+       "kind": "primaire bron"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "psychiatrische-patienten-strengste-azc",
@@ -665,6 +681,22 @@
      "publishedAt": "20 oktober 2026, 00.40 uur",
      "kind": "verslaggeving"
     }
+   ],
+   "updates": [
+    {
+     "at": "2026-10-20T18:50:00+02:00",
+     "label": "Avondupdate · 18.50 uur",
+     "text": "Dinsdag ruimden schoonmakers van de gemeente de resten van de nacht op, waaronder een grote brandplek van pallets in de Sneeuwbalstraat; NOS meldt dat er bij de onrust van maandagavond in totaal drie verdachten zijn aangehouden. Bewoners blijven verdeeld: sommigen willen een klein vuur toestaan, anderen steunen het verbod van burgemeester Halsema.",
+     "sources": [
+      {
+       "publisher": "NOS",
+       "title": "Na rellen zijn straten Amsterdamse Floradorp weer schoon, discussie vreugdevuur blijft",
+       "url": "https://nos.nl/artikel/2635987-na-rellen-zijn-straten-amsterdamse-floradorp-weer-schoon-discussie-vreugdevuur-blijft",
+       "publishedAt": "20 oktober 2026, 18.07 uur",
+       "kind": "verslaggeving"
+      }
+     ]
+    }
    ]
   },
   {
@@ -687,6 +719,68 @@
      "title": "Eerste openlijk homoseksuele parlementslid, Coos Huijsen (87), overleden",
      "url": "https://nos.nl/artikel/2635877-eerste-openlijk-homoseksuele-parlementslid-coos-huijsen-87-overleden",
      "publishedAt": "19 oktober 2026, 21.04 uur",
+     "kind": "verslaggeving"
+    }
+   ]
+  },
+  {
+   "id": "ns-kaartjes-duurder-2027",
+   "section": "more",
+   "title": "Treinkaartjes van NS worden volgend jaar gemiddeld 4,7 procent duurder",
+   "whatChanged": "NS verhoogt de tarieven per 2027 opnieuw fors, maar geeft buiten de spits meer korting dan nu.",
+   "body": "De verhoging volgt op een stijging van gemiddeld 6,52 procent dit jaar. NS zegt het geld nodig te hebben voor nieuwe treinen, hogere kosten en een eerder afgesproken inhaalslag, omdat de prijzen in 2020 tot en met 2023 achterbleven bij de inflatie. Met de PrijsTijd Deals loopt de korting in de daluren op tot 80 procent, en die kaartjes zijn in de loop van 2027 ook op de dag van vertrek te koop. Reizigersorganisatie Rover is blij met die korting, maar directeur Daan Zieren vindt de verhoging onterecht: ‘Nu NS eindelijk weer reizigersgroei ziet, wordt de reiziger weer gestraft met een grote tariefverhoging.’",
+   "eventDate": "2026-10-20",
+   "category": "Openbaar vervoer",
+   "region": "Landelijk",
+   "regions": [],
+   "status": "Belangrijke ontwikkeling",
+   "threadId": "prijs-van-de-trein",
+   "threadTitle": "De prijs van de trein",
+   "threadSummary": "De jaarlijkse tariefverhogingen van NS en de discussie over betaalbaar treinreizen.",
+   "sources": [
+    {
+     "publisher": "NOS",
+     "title": "Treinkaartjes NS opnieuw stuk duurder, stijging van gemiddeld 4,7 procent",
+     "url": "https://nos.nl/artikel/2635929-treinkaartjes-ns-opnieuw-stuk-duurder-stijging-van-gemiddeld-4-7-procent",
+     "publishedAt": "20 oktober 2026, 11.02 uur",
+     "kind": "verslaggeving"
+    },
+    {
+     "publisher": "NL Times",
+     "title": "Dutch rail operator NS to raise ticket prices 4.7% starting January 2027",
+     "url": "https://nltimes.nl/2026/10/20/dutch-rail-operator-ns-raise-ticket-prices-47-starting-january-2027",
+     "publishedAt": "20 oktober 2026",
+     "kind": "verslaggeving"
+    }
+   ]
+  },
+  {
+   "id": "kerken-vangen-statushouders-op",
+   "section": "more",
+   "title": "Kerken willen statushouders drie maanden onderdak geven om azc’s te ontlasten",
+   "whatChanged": "De Raad van Kerken vraagt alle plaatselijke kerken en parochies om gezinnen met een verblijfsvergunning tijdelijk te huisvesten, zodat er in de opvang plek vrijkomt.",
+   "body": "Met Actie Onderdak vraagt de Raad van Kerken, waarbij negentien kerken en organisaties zijn aangesloten, om bijvoorbeeld een bijgebouw of lege pastorie drie maanden beschikbaar te stellen. Statushouders blijven nu vaak lang in een azc omdat hun gemeente geen woning heeft, waardoor er te weinig plek is voor nieuwe asielzoekers. Het plan is uitgewerkt met het ministerie en het COA, dat ervoor zorgt dat de gezinnen na drie maanden kunnen doorstromen. Hoeveel plaatsen het oplevert, is nog niet bekend.",
+   "eventDate": "2026-10-20",
+   "category": "Asielopvang",
+   "region": "Landelijk",
+   "regions": [],
+   "status": "In ontwikkeling",
+   "threadId": "asielopvang",
+   "threadTitle": "Asielopvang en de nieuwe asielwetten",
+   "threadSummary": "Hoe Nederland asielzoekers opvangt en behandelt, en hoe de nieuwe asielwetten het stelsel veranderen.",
+   "sources": [
+    {
+     "publisher": "NOS",
+     "title": "Kerken slaan handen ineen om statushouders tijdelijk te huisvesten",
+     "url": "https://nos.nl/artikel/2635948-kerken-slaan-handen-ineen-om-statushouders-tijdelijk-te-huisvesten",
+     "publishedAt": "20 oktober 2026, 13.49 uur",
+     "kind": "verslaggeving"
+    },
+    {
+     "publisher": "NL Times",
+     "title": "More Dutch people step up, taking in nearly 450 refugees as asylum centers overflow",
+     "url": "https://nltimes.nl/2026/10/20/dutch-people-step-taking-nearly-450-refugees-asylum-centers-overflow",
+     "publishedAt": "20 oktober 2026",
      "kind": "verslaggeving"
     }
    ]
@@ -978,7 +1072,7 @@
  ],
  "regions": {
   "groningen": {
-   "summary": "De overheden in de regio verzetten zich tegen een plan van JA21 om het gasveld achter de hand te houden, terwijl de Nedersaksenlijn naar Twente zijn geld behoudt. In de stad wil een partij onderzoek naar twee sterfgevallen in een vervuild zorgpand.",
+   "summary": "De overheden in de regio verzetten zich tegen een plan van JA21 om het gasveld achter de hand te houden, en de politie onderzoekt onbekende drones boven de Eemshaven en Oost-Groningen. De Nedersaksenlijn naar Twente behoudt zijn geld.",
    "briefs": [
     {
      "title": "Stadspartij wil onderzoek naar sterfgevallen in zorgpand in Vinkhuizen",
@@ -1018,6 +1112,27 @@
        "title": "No funding for 29 projects in gov't infrastructure plans, €16 billion for maintenance",
        "url": "https://nltimes.nl/2026/10/16/funding-29-projects-govt-infrastructure-plans-eu16-billion-maintenance",
        "publishedAt": "16 oktober 2026, 08.38 uur",
+       "kind": "verslaggeving"
+      }
+     ]
+    },
+    {
+     "title": "Politie onderzoekt onbekende drones boven Eemshaven en Oost-Groningen",
+     "eventDate": "2026-10-17 / 2026-10-20",
+     "text": "Boven de Eemshaven zijn sinds begin oktober herhaaldelijk drones gezien, ook in het afgelopen weekend; volgens Groningen Seaports had niemand toestemming om daar te vliegen. Ook boven Meeden, Scheemda en Zuidbroek, waar een hoogspanningsstation, een groot zonnepark en een stikstofinstallatie voor het gasnet staan, zijn drones gemeld. De politie onderzoekt alle meldingen en ziet voorlopig geen verband tussen beide gebieden; waar de drones vandaan komen, is onduidelijk.",
+     "sources": [
+      {
+       "publisher": "Schuttevaer",
+       "title": "Politie krijgt opnieuw meldingen over drones bij Eemshaven",
+       "url": "https://www.schuttevaer.nl/nieuws/actueel/2026/10/20/politie-krijgt-opnieuw-meldingen-over-drones-bij-eemshaven/",
+       "publishedAt": "20 oktober 2026, 15.18 uur",
+       "kind": "verslaggeving"
+      },
+      {
+       "publisher": "NL Times",
+       "title": "Mystery drones spotted over Eemshaven, elsewhere in Groningen province",
+       "url": "https://nltimes.nl/2026/10/20/mystery-drones-spotted-eemshaven-elsewhere-groningen-province",
+       "publishedAt": "20 oktober 2026",
        "kind": "verslaggeving"
       }
      ]
@@ -1366,7 +1481,7 @@
    ]
   },
   "zeeland": {
-   "summary": "Bij een flatbrand in Terneuzen kwam een man om, een Belgisch hof veroordeelde de man die het lichaam van de vierjarige Dean op Neeltje Jans achterliet, en verdacht poeder bij het terrein van Covra bleek onschuldig.",
+   "summary": "Bij een flatbrand in Terneuzen kwam een man om, een Belgisch hof veroordeelde de man die het lichaam van de vierjarige Dean op Neeltje Jans achterliet, en in Rilland wachten inwoners al weken op hun post.",
    "briefs": [
     {
      "title": "Man (50) komt om bij flatbrand in Terneuzen",
@@ -1406,6 +1521,27 @@
        "title": "Onderzoek na aantreffen verdachte stof bij Nieuwdorp",
        "url": "https://www.hvzeeland.nl/nieuws/70638-onderzoek-na-aantreffen-verdachte-stof-bij-nieuwdorp/",
        "publishedAt": "19 oktober 2026, 11.54 uur",
+       "kind": "verslaggeving"
+      }
+     ]
+    },
+    {
+     "title": "Rilland wacht al weken op post nu alle drie de bezorgers zijn gestopt",
+     "eventDate": "2026-10-20",
+     "text": "Sinds het depot in Rilland dichtging, moeten de postbezorgers hun post in Krabbendijke ophalen, volgens Omroep Zeeland zo’n twintig minuten extra fietsen per rit. Alle drie de vaste bezorgers zijn gestopt en sommige inwoners kregen drie weken geen brief. PostNL noemt de situatie onacceptabel, zet een andere bezorger in en controleert extra. Hetzelfde PostNL vroeg het kabinet dinsdag opnieuw om 80 miljoen euro om de postbezorging rond te krijgen.",
+     "sources": [
+      {
+       "publisher": "NOS",
+       "title": "In Zeeuws dorp wachten inwoners al weken op post, drie bezorgers gestopt",
+       "url": "https://nos.nl/artikel/2635963-in-zeeuws-dorp-wachten-inwoners-al-weken-op-post-drie-bezorgers-gestopt",
+       "publishedAt": "20 oktober 2026, 15.33 uur",
+       "kind": "verslaggeving"
+      },
+      {
+       "publisher": "NOS",
+       "title": "PostNL vraagt opnieuw om extra geld voor postbezorging",
+       "url": "https://nos.nl/artikel/2635911-postnl-vraagt-opnieuw-om-extra-geld-voor-postbezorging",
+       "publishedAt": "20 oktober 2026, 08.36 uur",
        "kind": "verslaggeving"
       }
      ]
@@ -1517,8 +1653,24 @@
        "kind": "verslaggeving"
       }
      ]
+    },
+    {
+     "title": "Universiteit Maastricht heft schorsing op van student uit Gaza",
+     "eventDate": "2026-10-20",
+     "text": "Een student uit Gaza werd eind september geschorst nadat een Instagramvideo de indruk wekte dat hij ‘This is me’ zei bij beelden van gemaskerde strijders. Volgens Arabischtaligen die NOS raadpleegde, zegt hij in Gazaans dialect iets wat ruwweg ‘breng me naar buiten’ betekent, en het OM zag begin oktober geen aanwijzingen voor betrokkenheid bij de aanslagen van 7 oktober 2023. De universiteit heeft de schorsing na een gesprek met hem opgeheven en spreekt van een misverstand.",
+     "sources": [
+      {
+       "publisher": "NOS",
+       "title": "Maastrichtse student uit Gaza zei niet 'This is me' op video",
+       "url": "https://nos.nl/artikel/2635976-maastrichtse-student-uit-gaza-zei-niet-this-is-me-op-video",
+       "publishedAt": "20 oktober 2026, 16.48 uur",
+       "kind": "verslaggeving"
+      }
+     ]
     }
    ]
   }
- }
+ },
+ "updatedAt": "2026-10-20T18:50:00+02:00",
+ "updatedLabel": "18.50 uur"
 }
