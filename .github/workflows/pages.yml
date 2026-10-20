@@ -1,3 +1,4 @@
+# Builds Het Getij from data/ and deploys it to GitHub Pages on every push to main.
 name: Publish Het Getij
 on:
   push:
