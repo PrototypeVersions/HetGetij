@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Een lege boodschappentas naast een opengebroken hangslot, bij de cyberaanval die de bezorging van Albert Heijn stillegde.">
+<title>Een lege boodschappentas naast een opengebroken hangslot, bij de cyberaanval die de bezorging van Albert Heijn stillegde.</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#102335"/><stop offset="1" stop-color="#09131d"/></linearGradient>
+<radialGradient id="vig" cx=".5" cy=".45" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".5"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1200" height="800" fill="url(#bg)"/>
+<path d="M0 640 H1200 V800 H0 Z" fill="#0b1824"/>
+<path d="M0 640 H1200" stroke="#2a4155" stroke-width="3"/>
+<circle cx="760" cy="470" r="120" fill="#f0954a" opacity=".14" filter="url(#glow)"/><path d="M360 360 H600 L580 640 H380 Z" fill="#1d3b57" stroke="#b3c6d6" stroke-width="5" stroke-linejoin="round"/><path d="M420 360 C420 290, 540 290, 540 360" fill="none" stroke="#b3c6d6" stroke-width="7" stroke-linecap="round"/><path d="M395 420 H565" stroke="#2f4a62" stroke-width="4" stroke-dasharray="10 10"/><rect x="680" y="440" width="170" height="140" rx="18" fill="#c9d9e6" stroke="#f0954a" stroke-width="5"/><circle cx="765" cy="500" r="16" fill="#1d3b57"/><path d="M765 510 V545" stroke="#1d3b57" stroke-width="10" stroke-linecap="round"/><path d="M715 440 V395 C715 345, 790 340, 805 380" fill="none" stroke="#d9dee4" stroke-width="16" stroke-linecap="round"/><path d="M832 372 L840 420" stroke="#d9dee4" stroke-width="16" stroke-linecap="round"/><path d="M808 360 L822 352 M814 386 L830 384" stroke="#f0954a" stroke-width="4" stroke-linecap="round"/><rect width="1200" height="800" fill="url(#vig)"/>
+</svg>

@@ -2,67 +2,67 @@
  "date": "2026-10-20",
  "number": 1,
  "cutoff": "2026-10-20T00:40:00Z",
- "cutoffLabel": "2:40 AM CEST",
- "opening": "The cabinet has chosen to fix ageing bridges and locks over building new ones, leaving Friesland, Brabant and Amsterdam without projects they were promised. Ahold Delhaize has finally gone to the police over its cyberattack, regional buses strike again on Thursday, and doctors have quit an asylum shelter where people with severe mental illness are being housed.",
- "leadStoryId": "infrastructure-repairs-first",
+ "cutoffLabel": "02.40 uur",
+ "opening": "Het kabinet kiest voor het opknappen van oude bruggen en sluizen in plaats van nieuwbouw, waardoor Friesland, Brabant en Amsterdam beloofde projecten zien sneuvelen. Ahold Delhaize stapt eindelijk naar de politie na de cyberaanval, het streekvervoer staakt donderdag opnieuw en artsen vertrekken bij een opvanglocatie waar asielzoekers met zware psychische problemen zitten.",
+ "leadStoryId": "onderhoud-gaat-voor",
  "stories": [
   {
-   "id": "infrastructure-repairs-first",
-   "threadId": "infrastructure-budget",
-   "threadTitle": "Roads, rail and the repair bill",
-   "threadSummary": "How the cabinet pays to keep ageing bridges, locks and tunnels safe, and which new projects have to wait.",
+   "id": "onderhoud-gaat-voor",
+   "threadId": "infrastructuur-en-onderhoud",
+   "threadTitle": "Wegen, spoor en de rekening voor onderhoud",
+   "threadSummary": "Hoe het kabinet het onderhoud van verouderde bruggen, sluizen en tunnels betaalt, en welke nieuwe projecten moeten wachten.",
    "section": "world",
-   "title": "The cabinet puts repairs first and shelves 29 road, rail and water projects",
-   "category": "Infrastructure",
-   "region": "National · Friesland, Brabant, Amsterdam",
+   "title": "Kabinet kiest voor onderhoud en schuift 29 projecten voor weg, spoor en water op de lange baan",
+   "category": "Infrastructuur",
+   "region": "Landelijk · Friesland, Brabant, Amsterdam",
    "regions": [
     "friesland",
-    "north-brabant",
-    "north-holland",
+    "noord-brabant",
+    "noord-holland",
     "utrecht",
-    "south-holland",
+    "zuid-holland",
     "zeeland"
    ],
-   "status": "Major development",
+   "status": "Belangrijke ontwikkeling",
    "eventDate": "2026-10-16 / 2026-10-19",
-   "body": "Infrastructure Minister Vincent Karremans and State Secretary Bertram will spend about €18 billion renovating and replacing ageing bridges, locks, viaducts and tunnels, most of them built between the 1950s and the 1970s. To pay for it, 29 planned projects lose their funding for now, among them a wider lock at Kornwerderzand in the Afsluitdijk, a faster ferry to Ameland, a new rail bridge at Leeuwarden, the N65 between Den Bosch and Tilburg and the northern part of Amsterdam's Zuidasdok. Provinces and cities spent the weekend voicing their frustration.",
-   "whatChanged": "The cabinet has chosen maintenance over expansion: money set aside for 29 new projects now goes to fixing structures that are wearing out.",
-   "whyMatters": "Many of the 175 structures in the plan are near the end of their working life, so delay risks closures; but the projects pushed back were meant to ease traffic, shipping and access to the islands, and some will cost more when they restart.",
-   "uncertainty": "Reports differ on the total (€16 billion or €18 billion), only some of the 29 postponed projects have been named, and parliament has not yet debated the plan.",
-   "watchNext": "The Tweede Kamer debate after the autumn recess, Amsterdam's talks with the minister on Zuidasdok, and whether provinces offer their own money to rescue projects.",
+   "body": "Minister Vincent Karremans en staatssecretaris Bertram van Infrastructuur en Waterstaat trekken ongeveer 18 miljard euro uit om verouderde bruggen, sluizen, viaducten en tunnels op te knappen of te vervangen, de meeste gebouwd tussen de jaren vijftig en zeventig. Om dat te betalen verliezen 29 geplande projecten voorlopig hun geld, onder meer een bredere sluis bij Kornwerderzand, een snellere veerdienst naar Ameland, een nieuwe spoorbrug in Leeuwarden, de N65 tussen Den Bosch en Tilburg en het noordelijke deel van de Zuidasdok in Amsterdam. Provincies en gemeenten reageerden het hele weekend teleurgesteld.",
+   "whatChanged": "Het kabinet kiest voor onderhoud boven uitbreiding: geld dat klaarlag voor 29 nieuwe projecten gaat nu naar het herstel van bouwwerken die op raken.",
+   "whyMatters": "Veel van de 175 bouwwerken in het plan naderen het einde van hun levensduur, dus uitstel betekent kans op afsluitingen; maar de geschrapte projecten moesten files, scheepvaart en de bereikbaarheid van de eilanden verbeteren, en sommige worden duurder als ze later alsnog doorgaan.",
+   "uncertainty": "De berichten verschillen over het totaalbedrag (16 of 18 miljard euro), nog niet alle 29 uitgestelde projecten zijn bekend en de Tweede Kamer moet het plan nog bespreken.",
+   "watchNext": "Het Kamerdebat na het herfstreces, het overleg van Amsterdam met de minister over de Zuidasdok en de vraag of provincies zelf geld bijleggen om projecten te redden.",
    "keyFacts": [
-    "175 roads, locks, bridges, viaducts and tunnels are in the plan; most date from the 1950s to the 1970s",
-    "29 planned projects lose their funding for now; 16 new projects are still funded this term",
-    "Friesland misses about €635 million in investment, by the Leeuwarder Courant's count",
-    "€81 million had been reserved for the N65 between Den Bosch and Tilburg, now delayed for the sixth time in under three years, Brabant says",
-    "Still funded: the Nedersaksenlijn rail link between Groningen and Twente, and five A76 viaducts in South Limburg"
+    "Het plan omvat 175 wegen, sluizen, bruggen, viaducten en tunnels, de meeste uit de jaren vijftig tot zeventig",
+    "29 geplande projecten verliezen voorlopig hun financiering; deze kabinetsperiode krijgen nog 16 nieuwe projecten geld",
+    "Friesland loopt volgens de Leeuwarder Courant zo’n 635 miljoen euro aan investeringen mis",
+    "Voor de N65 tussen Den Bosch en Tilburg lag 81 miljoen euro klaar; Brabant spreekt van de zesde vertraging in nog geen drie jaar",
+    "Wel gefinancierd: de Nedersaksenlijn tussen Groningen en Twente en vijf viaducten van de A76 in Zuid-Limburg"
    ],
    "report": [
     {
-     "heading": "What the cabinet decided",
+     "heading": "Wat het kabinet besloot",
      "paragraphs": [
-      "On Friday 16 October, Minister Vincent Karremans and State Secretary Bertram of Infrastructure and Water Management presented a plan to spend about €18 billion maintaining and renewing the country's ageing infrastructure. It covers 175 roads, locks, bridges, viaducts and tunnels, most of them built in the 1950s, 1960s and 1970s, as well as money for the rail network. RTL Nieuws, quoted by NL Times, put the maintenance and renewal part at €16 billion. Rijkswaterstaat's roadmap lists 169 structures that need work; this term the cabinet aims to renovate 60 of them and maintain 59 more, with another 50 projects already being prepared or built.",
-      "Much of the money comes from projects that were planned but not yet started. Twenty-nine of them move to the bottom of the priority list. The cabinet says they are \"not off the radar\", but they have no funding for now. Only 16 new projects are funded this term, including the Nedersaksenlijn rail line between Groningen and Twente and infrastructure for large housing sites in places such as Deventer, Alkmaar and Weert."
+      "Minister Vincent Karremans en staatssecretaris Bertram van Infrastructuur en Waterstaat presenteerden vrijdag 16 oktober een plan om ongeveer 18 miljard euro te besteden aan onderhoud en vernieuwing van de verouderde infrastructuur. Het gaat om 175 wegen, sluizen, bruggen, viaducten en tunnels, het merendeel gebouwd in de jaren vijftig, zestig en zeventig, plus geld voor het spoor. Volgens ingewijden die RTL Nieuws sprak, is 16 miljard bestemd voor onderhoud en vernieuwing. Op de lijst van Rijkswaterstaat staan 169 bouwwerken die aandacht nodig hebben; deze kabinetsperiode wil het kabinet er 60 renoveren en aan 59 onderhoud plegen. Nog eens 50 projecten worden al voorbereid of uitgevoerd.",
+      "Een groot deel van het geld komt van projecten die gepland waren maar nog niet begonnen. Negenentwintig daarvan zakken naar de onderkant van de lijst. Volgens het kabinet zijn ze ‘niet uit beeld’, maar geld is er voorlopig niet. Deze periode worden nog maar 16 nieuwe projecten betaald, waaronder de Nedersaksenlijn tussen Groningen en Twente en infrastructuur voor grote woningbouwlocaties in onder meer Deventer, Alkmaar en Weert."
      ]
     },
     {
-     "heading": "What has to wait",
+     "heading": "Wat moet wachten",
      "paragraphs": [
-      "Friesland is hit hardest. The widening of the Kornwerderzand lock in the Afsluitdijk, which the national government itself pushed for in 2008, will not go ahead, and the faster ferry route to Ameland is not funded. The replacement of the old railway bridge over the Van Harinxmakanaal at Leeuwarden, for which €80 million of national money and €25 million from the region had been set aside, is off the list. The Leeuwarder Courant calculated that the province misses about €635 million in investment.",
-      "In Brabant, the upgrade of the N65 between Den Bosch and Tilburg is postponed despite €81 million reserved for it. In Amsterdam, the northern section of Zuidasdok, the combined expansion of Amsterdam Zuid station and widening of the A10, has no money for now, although work already under way continues. NL Times also lists the Utrecht ring road among the postponed projects."
+      "Friesland wordt het hardst geraakt. De verbreding van de sluis bij Kornwerderzand in de Afsluitdijk, waar het Rijk in 2008 zelf op aandrong, gaat niet door, en de snellere vaarroute naar Ameland krijgt geen geld. Ook de vervanging van de oude spoorbrug over het Van Harinxmakanaal bij Leeuwarden, waarvoor 80 miljoen euro van het Rijk en 25 miljoen van de regio klaarlag, valt van de lijst. De Leeuwarder Courant rekende uit dat de provincie zo’n 635 miljoen euro aan investeringen misloopt.",
+      "In Brabant wordt de opwaardering van de N65 tussen Den Bosch en Tilburg uitgesteld, hoewel er 81 miljoen euro voor gereserveerd was. In Amsterdam heeft het noordelijke deel van de Zuidasdok, de combinatie van een groter station Amsterdam-Zuid en een bredere A10, voorlopig geen geld; werk dat al loopt, gaat wel door. Volgens NL Times is ook de Ring Utrecht uitgesteld."
      ]
     },
     {
-     "heading": "The reaction",
+     "heading": "De reacties",
      "paragraphs": [
-      "Ameland's acting mayor, Tytsy Willemsma, called the decision \"extremely disappointing\", saying it had been clear for more than ten years that the island's ferry connection is not sustainable. Superyacht builder Sijbrand de Vries, who has waited years for a wider lock at Kornwerderzand, called it a hard blow. Brabant's provincial executive Stijn Smeulders told ANP it was \"the sixth time in barely three years\" that the N65 had been delayed. In Leeuwarden, alderman Evert Stellingwerf called the bridge decision disappointing and is pushing for extra money.",
-      "Zeeland, South Holland and the Rotterdam–The Hague metropolitan region said in a joint statement that they had hoped for a longer-term vision and more investment in motorway widening and public transport. Amsterdam alderman Moeskops warned that delaying Zuidasdok could add hundreds of millions of euros to its cost and leave the city with \"a construction site and traffic gridlock for longer\"; he expects to meet the minister soon."
+      "Waarnemend burgemeester Tytsy Willemsma van Ameland noemde het besluit ‘buitengewoon teleurstellend’: al meer dan tien jaar is duidelijk dat de veerverbinding niet houdbaar is. Superjachtbouwer Sijbrand de Vries, die al jaren wacht op een bredere sluis bij Kornwerderzand, sprak van een harde klap. De Brabantse gedeputeerde Stijn Smeulders zei tegen het ANP dat het ‘al de zesde keer in amper drie jaar’ is dat de N65 vertraging oploopt. In Leeuwarden noemde wethouder Evert Stellingwerf het besluit over de spoorbrug teleurstellend; hij lobbyt voor extra geld.",
+      "Zeeland, Zuid-Holland en de Metropoolregio Rotterdam Den Haag zeiden in een gezamenlijke verklaring dat ze op meer toekomstvisie hadden gehoopt, en op meer geld voor verbreding van snelwegen en voor het openbaar vervoer. De Amsterdamse wethouder Moeskops waarschuwde dat uitstel de Zuidasdok honderden miljoenen euro’s duurder kan maken en de stad langer opzadelt met een bouwput en files. Hij verwacht binnenkort met de minister te praten."
      ]
     },
     {
-     "heading": "What comes next",
+     "heading": "Hoe nu verder",
      "paragraphs": [
-      "The Tweede Kamer will debate the plans after the autumn recess. The problem the cabinet is trying to get ahead of is also local: an Omroep Gelderland survey published on Monday found that at least ten Gelderland municipalities do not know whether they own concrete bridges from the 1950s and 1960s with the kind of prestressing steel that can become brittle, the type of failure behind the collapse of the Carolabrücke in Dresden in 2024."
+      "De Tweede Kamer bespreekt de plannen na het herfstreces. Het probleem waar het kabinet voor wil gaan liggen, speelt ook lokaal: uit een rondgang van Omroep Gelderland bleek maandag dat zeker tien Gelderse gemeenten niet weten of ze betonnen bruggen uit de jaren vijftig en zestig hebben met voorspanstaal dat bros kan worden, het soort gebrek waardoor in 2024 de Carolabrücke in Dresden instortte."
      ]
     }
    ],
@@ -71,61 +71,61 @@
      "publisher": "NOS",
      "title": "Frustratie en teleurstelling na bekendmaking infrastructuurplannen kabinet",
      "url": "https://nos.nl/artikel/2635287-frustratie-en-teleurstelling-na-bekendmaking-infrastructuurplannen-kabinet",
-     "publishedAt": "2026-10-16 22:50 CEST",
-     "kind": "Reporting"
+     "publishedAt": "16 oktober 2026, 22.50 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "NL Times",
      "title": "No funding for 29 projects in gov't infrastructure plans, €16 billion for maintenance",
      "url": "https://nltimes.nl/2026/10/16/funding-29-projects-govt-infrastructure-plans-eu16-billion-maintenance",
-     "publishedAt": "2026-10-16 08:38 CEST",
-     "kind": "Reporting"
+     "publishedAt": "16 oktober 2026, 08.38 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "NL Times",
      "title": "Dutch provinces criticize Cabinet's infrastructure budget over delay of key projects",
      "url": "https://nltimes.nl/2026/10/17/dutch-provinces-criticize-cabinets-infrastructure-budget-delay-key-projects",
-     "publishedAt": "2026-10-17 11:25 CEST",
-     "kind": "Reporting"
+     "publishedAt": "17 oktober 2026, 11.25 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "NL Times",
      "title": "Amsterdam alderman warns of rising costs as Cabinet postpones major Zuidasdok project",
      "url": "https://nltimes.nl/2026/10/17/amsterdam-alderman-warns-rising-costs-cabinet-postpones-major-zuidasdok-project",
-     "publishedAt": "2026-10-17 09:15 CEST",
-     "kind": "Reporting"
+     "publishedAt": "17 oktober 2026, 09.15 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "Omroep Leeuwarden",
      "title": "Leeuwarden krijgt geen geld voor vervanging oude spoorbrug over Van Harinxmakanaal",
      "url": "https://omroepleeuwarden.nl/leeuwarden-krijgt-geen-geld-voor-vervanging-oude-spoorbrug-over-van-harinxmakanaal/",
-     "publishedAt": "2026-10-18",
-     "kind": "Reporting"
+     "publishedAt": "18 oktober 2026",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "NL Times",
      "title": "Survey: At least 10 Gelderland municipalities don't know if they have vulnerable bridges",
      "url": "https://nltimes.nl/2026/10/19/survey-least-10-gelderland-municipalities-dont-know-vulnerable-bridges",
-     "publishedAt": "2026-10-19 06:30 CEST",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026, 06.30 uur",
+     "kind": "verslaggeving"
     }
    ],
    "locations": [
     {
-     "label": "Kornwerderzand lock",
+     "label": "Sluis Kornwerderzand",
      "mapLabel": "Kornwerderzand",
      "lon": 5.34,
      "lat": 53.07,
      "anchor": "end"
     },
     {
-     "label": "Ameland ferry",
+     "label": "Veerdienst Ameland",
      "mapLabel": "Ameland",
      "lon": 5.75,
      "lat": 53.45
     },
     {
-     "label": "Leeuwarden rail bridge",
+     "label": "Spoorbrug Leeuwarden",
      "mapLabel": "Leeuwarden",
      "lon": 5.8,
      "lat": 53.2,
@@ -146,59 +146,59 @@
    ],
    "visual": {
     "type": "nl",
-    "title": "Some of the projects put on hold",
+    "title": "Een greep uit de uitgestelde projecten",
     "provinces": [
      "friesland",
-     "north-holland",
-     "north-brabant"
+     "noord-holland",
+     "noord-brabant"
     ],
-    "alt": "A map of the Netherlands highlighting Friesland, North Holland and North Brabant, marking Kornwerderzand, Ameland, Leeuwarden, the Zuidas in Amsterdam and the N65 between Den Bosch and Tilburg, where postponed projects lie.",
-    "caption": "Five of the 29 postponed projects · approximate locations"
+    "alt": "Kaart van Nederland met Friesland, Noord-Holland en Noord-Brabant uitgelicht, en met Kornwerderzand, Ameland, Leeuwarden, de Zuidas in Amsterdam en de N65 tussen Den Bosch en Tilburg gemarkeerd: plekken van uitgestelde projecten.",
+    "caption": "Vijf van de 29 uitgestelde projecten · locaties bij benadering"
    }
   },
   {
-   "id": "ahold-cyberattack-police-report",
-   "threadId": "ahold-cyberattack",
-   "threadTitle": "The Ahold Delhaize cyberattack",
-   "threadSummary": "The attack that took Albert Heijn, Etos and Gall & Gall systems offline, and how the company and investigators respond.",
+   "id": "ahold-doet-aangifte-cyberaanval",
+   "threadId": "cyberaanval-ahold-delhaize",
+   "threadTitle": "De cyberaanval op Ahold Delhaize",
+   "threadSummary": "De aanval die systemen van Albert Heijn, Etos en Gall & Gall platlegde, en hoe het bedrijf en de opsporing erop reageren.",
    "section": "world",
-   "title": "Ahold Delhaize goes to the police a week after its cyberattack; Albert Heijn deliveries due back Friday",
-   "category": "Business & security",
-   "region": "National",
+   "title": "Ahold Delhaize doet na ruim een week aangifte van cyberaanval; bezorging Albert Heijn vrijdag terug",
+   "category": "Bedrijfsleven & veiligheid",
+   "region": "Landelijk",
    "regions": [],
-   "status": "Developing",
+   "status": "In ontwikkeling",
    "eventDate": "2026-10-19",
-   "body": "Ahold Delhaize, the parent company of Albert Heijn, Etos and Gall & Gall, filed a police report on Monday about what it calls \"a malicious action by third parties\", more than a week after it detected suspicious activity and took systems offline. Police and prosecutors had publicly urged it to do so. The Albert Heijn website and app work again, and home delivery, halted since the attack, is due to restart on Friday. The company says it has found no sign so far that sensitive customer, staff or partner data was stolen.",
-   "whatChanged": "The company has now gone to the police, opening the way to a criminal investigation, and has set Friday for home deliveries to restart.",
-   "whyMatters": "Albert Heijn is the country's biggest supermarket chain, and the attack is an early test of the new cybersecurity rules that required the company to report it to the National Cyber Security Centre within 24 hours.",
-   "uncertainty": "Ahold Delhaize has not said whether this was ransomware, how the attackers got in or which brands abroad were affected, and its finding that no sensitive data was taken is provisional.",
-   "watchNext": "Whether deliveries restart on Friday as planned, what the police investigation finds, and whether customers have moved to rivals in the meantime.",
+   "body": "Ahold Delhaize, het moederbedrijf van Albert Heijn, Etos en Gall & Gall, heeft maandag aangifte gedaan van wat het ‘een kwaadwillende actie van derden’ noemt, ruim een week nadat het verdachte activiteit ontdekte en systemen uit de lucht haalde. Politie en Openbaar Ministerie hadden daar publiekelijk op aangedrongen. De website en app van Albert Heijn werken weer; de thuisbezorging, sinds de aanval stilgelegd, moet vrijdag hervatten. Het bedrijf zegt tot nu toe geen aanwijzingen te hebben dat gevoelige gegevens van klanten, medewerkers of partners zijn buitgemaakt.",
+   "whatChanged": "Het bedrijf is nu naar de politie gestapt, waardoor een strafrechtelijk onderzoek mogelijk wordt, en heeft vrijdag genoemd als datum waarop de bezorging terugkeert.",
+   "whyMatters": "Albert Heijn is de grootste supermarktketen van het land, en de aanval is een vroege test voor de nieuwe cyberwet, die het bedrijf verplichtte de aanval binnen 24 uur te melden bij het Nationaal Cyber Security Centrum.",
+   "uncertainty": "Ahold Delhaize zegt niet of het om ransomware ging, hoe de aanvallers binnenkwamen of welke merken in het buitenland zijn geraakt, en de conclusie dat er geen gevoelige gegevens zijn gestolen is voorlopig.",
+   "watchNext": "Of de bezorging vrijdag echt hervat, wat het politieonderzoek oplevert en of klanten in de tussentijd zijn overgestapt naar concurrenten.",
    "keyFacts": [
-    "Suspicious activity was detected early in the week of 12 October and some systems were taken offline",
-    "The National Cyber Security Centre was told within 24 hours, as the law requires",
-    "The police report was filed on 19 October, after police and prosecutors publicly called for one",
-    "The Albert Heijn app and website are back; Etos and Gall & Gall sites returned a week after the incident",
-    "Home delivery is expected to restart on Friday 23 October"
+    "Begin vorige week werd verdachte activiteit ontdekt; een deel van de systemen ging uit de lucht",
+    "Het Nationaal Cyber Security Centrum kreeg binnen 24 uur een melding, zoals de wet voorschrijft",
+    "De aangifte volgde op 19 oktober, nadat politie en OM daar publiekelijk om hadden gevraagd",
+    "App en website van Albert Heijn werken weer; de sites van Etos en Gall & Gall kwamen een week na het incident terug",
+    "De thuisbezorging moet op vrijdag 23 oktober hervatten"
    ],
    "report": [
     {
-     "heading": "What happened",
+     "heading": "Wat er gebeurde",
      "paragraphs": [
-      "Ahold Delhaize detected suspicious activity early last week, brought in outside cyber experts and took some systems offline. The website and app of Albert Heijn became unreachable, as did those of drugstore chain Etos and liquor chain Gall & Gall, and brands elsewhere in Europe and in the United States were also affected, NOS reports. Chief executive Frans Muller said taking the systems offline was the right decision.",
-      "The app and website are working again, but home delivery has stayed suspended. Its restart was postponed again on Sunday and is now expected on Friday. NL Times reports that the Etos and Gall & Gall websites came back online a week after the incident."
+      "Ahold Delhaize zag begin vorige week verdachte activiteit, schakelde externe cyberexperts in en haalde een deel van zijn systemen offline. De website en app van Albert Heijn waren daarna onbereikbaar, net als die van drogisterijketen Etos en slijterijketen Gall & Gall. Volgens de NOS werden ook merken elders in Europa en in de Verenigde Staten getroffen. Topman Frans Muller noemt het offline halen van de systemen de juiste beslissing.",
+      "App en website werken inmiddels weer, maar de thuisbezorging lag nog stil. De herstart werd zondag opnieuw uitgesteld en staat nu voor vrijdag gepland. Volgens NL Times zijn ook de websites van Etos en Gall & Gall een week na het incident weer online."
      ]
     },
     {
-     "heading": "The report to the police",
+     "heading": "De gang naar de politie",
      "paragraphs": [
-      "The company notified the National Cyber Security Centre within 24 hours of discovering the attack, a legal duty under the new cybersecurity law. It waited more than a week, however, before filing a report with the police. Last week the police and the Public Prosecution Service publicly urged it to come forward, saying a report was needed to investigate and prosecute successfully. Ahold Delhaize did not explain why it filed on Monday.",
-      "In its statement the company describes the incident as \"a malicious action by third parties\". It has not said whether a ransom was demanded, and its own investigation is continuing."
+      "Het bedrijf meldde de aanval binnen 24 uur na de ontdekking bij het Nationaal Cyber Security Centrum, een wettelijke plicht onder de nieuwe cyberbeveiligingsregels. Met de aangifte bij de politie wachtte het echter ruim een week. Vorige week riepen politie en OM het bedrijf publiekelijk op aangifte te doen, omdat dat nodig is om succesvol te kunnen opsporen en vervolgen. Waarom Ahold Delhaize juist maandag aangifte deed, lichtte het niet toe.",
+      "In zijn verklaring spreekt het bedrijf van ‘een kwaadwillende actie van derden’. Of er losgeld is geëist, zegt het niet; het eigen onderzoek loopt nog."
      ]
     },
     {
-     "heading": "What is still unclear",
+     "heading": "Wat nog onduidelijk is",
      "paragraphs": [
-      "Ahold Delhaize says it has found no indication so far that sensitive data of customers, employees or partners was stolen. It has not named the foreign brands that were hit, given figures on lost sales, or said how the attackers got in."
+      "Volgens Ahold Delhaize zijn er tot nu toe geen aanwijzingen dat gevoelige gegevens van klanten, medewerkers of partners zijn gestolen. Welke buitenlandse merken zijn getroffen, hoeveel omzet er verloren ging en hoe de aanvallers binnenkwamen, heeft het bedrijf niet bekendgemaakt."
      ]
     }
    ],
@@ -207,99 +207,104 @@
      "publisher": "NOS",
      "title": "Moederbedrijf Albert Heijn doet na ruim een week aangifte van cyberaanval",
      "url": "https://nos.nl/artikel/2635852-moederbedrijf-albert-heijn-doet-na-ruim-een-week-aangifte-van-cyberaanval",
-     "publishedAt": "2026-10-19 17:26 CEST",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026, 17.26 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "NOS",
      "title": "Opstart bezorging door Albert Heijn opnieuw uitgesteld, app en site werken weer",
      "url": "https://nos.nl/artikel/2635476-opstart-bezorging-door-albert-heijn-opnieuw-uitgesteld-app-en-site-werken-weer",
-     "publishedAt": "2026-10-18 14:38 CEST",
-     "kind": "Reporting"
+     "publishedAt": "18 oktober 2026, 14.38 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "NOS",
      "title": "AH moest hack melden vanwege nieuwe cyberwet: 'Verantwoordelijkheid reikt verder'",
      "url": "https://nos.nl/artikel/2635327-ah-moest-hack-melden-vanwege-nieuwe-cyberwet-verantwoordelijkheid-reikt-verder",
-     "publishedAt": "2026-10-17 11:23 CEST",
-     "kind": "Reporting"
+     "publishedAt": "17 oktober 2026, 11.23 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "NL Times",
      "title": "Gall & Gall, Etos websites back online a week after a 'cybersecurity incident'",
      "url": "https://nltimes.nl/2026/10/19/gall-gall-etos-websites-back-online-week-cybersecurity-incident",
-     "publishedAt": "2026-10-19",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026",
+     "kind": "verslaggeving"
     }
-   ]
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-20/ahold-doet-aangifte-cyberaanval.svg",
+    "alt": "Een lege boodschappentas naast een opengebroken hangslot, bij de cyberaanval die de bezorging van Albert Heijn stillegde.",
+    "credit": "Redactionele illustratie"
+   }
   },
   {
-   "id": "asylum-shelter-psychiatric-patients",
-   "threadId": "asylum-reception",
-   "threadTitle": "Asylum reception and the new asylum laws",
-   "threadSummary": "How the Netherlands houses and treats asylum seekers, and how the new asylum laws change the system.",
+   "id": "psychiatrische-patienten-strengste-azc",
+   "threadId": "asielopvang",
+   "threadTitle": "Asielopvang en de nieuwe asielwetten",
+   "threadSummary": "Hoe Nederland asielzoekers opvangt en behandelt, en hoe de nieuwe asielwetten het stelsel veranderen.",
    "section": "world",
-   "title": "Doctors quit as asylum seekers with severe mental illness are sent to the strictest shelter",
-   "category": "Asylum & health",
+   "title": "Artsen stappen op nu asielzoekers met zware psychiatrische problemen in de strengste opvang belanden",
+   "category": "Asiel & zorg",
    "region": "Drenthe · Hoogeveen",
    "regions": [
     "drenthe"
    ],
-   "status": "Developing",
+   "status": "In ontwikkeling",
    "eventDate": "2026-10-19",
-   "body": "The asylum agency COA is increasingly housing people with schizophrenia, psychosis, severe trauma and suicidal thoughts at its \"enforcement and supervision location\" in Hoogeveen, a strict regime meant for residents who cause trouble in other shelters, NRC reported on Monday. Three doctors have quit in the past year, saying their objections were ignored for years. COA and the asylum seekers' health service GZA confirmed that residents with serious mental illness live there and blamed long waiting lists and staff shortages in psychiatric care.",
-   "whatChanged": "COA has confirmed that psychiatric illness no longer automatically rules out placement in the strict shelter, and that residents there often do not get treatment in time.",
-   "whyMatters": "The Hoogeveen site has no psychiatrists or psychiatric nurses, and one of the doctors who left says he fears \"a major incident\"; the account adds to pressure on an asylum system the cabinet is tightening by law.",
-   "uncertainty": "NRC's account rests on three doctors who left and on COA's confirmation; COA has not published how many residents have a psychiatric illness, and the asylum minister has not yet responded.",
-   "watchNext": "A response from Asylum Minister Bart van den Brink, questions in the Tweede Kamer after the recess, and whether COA changes its placement rules.",
+   "body": "Het COA plaatst steeds vaker asielzoekers met schizofrenie, psychoses, zware trauma’s en suïcidale gedachten in de Handhaving- en Toezichtlocatie in Hoogeveen, een streng regime voor bewoners die elders voor problemen zorgen, meldde NRC maandag. Drie artsen zijn het afgelopen jaar vertrokken; ze zeggen dat er jarenlang niet naar hun bezwaren werd geluisterd. Het COA en zorgaanbieder GZA bevestigen dat er bewoners met ernstige psychische problemen wonen en wijzen op lange wachtlijsten en personeelstekorten in de psychiatrie.",
+   "whatChanged": "Het COA bevestigt dat psychiatrische problemen niet langer automatisch een plaatsing in de strenge opvang uitsluiten, en dat bewoners daar vaak niet op tijd behandeld worden.",
+   "whyMatters": "De locatie in Hoogeveen heeft geen psychiaters of psychiatrisch verpleegkundigen, en een van de vertrokken artsen vreest ‘een groot incident’; het komt bovenop de druk op een asielstelsel dat het kabinet per wet aanscherpt.",
+   "uncertainty": "Het verhaal van NRC rust op drie vertrokken artsen en op de bevestiging van het COA; hoeveel bewoners een psychiatrische aandoening hebben, is niet bekendgemaakt en de minister heeft nog niet gereageerd.",
+   "watchNext": "Een reactie van minister van Asiel en Migratie Bart van den Brink, Kamervragen na het reces en of het COA zijn plaatsingsregels aanpast.",
    "keyFacts": [
-    "The Hoogeveen location opened in 2020 for residents who cause problems in other asylum shelters",
-    "Residents must report daily, cannot leave freely and receive their allowance in goods, not cash",
-    "Three doctors have quit in the past year",
-    "The site has no psychiatrists or psychiatric nurses",
-    "COA says residents there \"regularly\" do not receive treatment in time or at all"
+    "De locatie in Hoogeveen ging in 2020 open voor bewoners die in andere azc’s voor problemen zorgen",
+    "Bewoners moeten zich dagelijks melden, mogen niet vrij weg en krijgen hun leefgeld in natura",
+    "Drie artsen zijn het afgelopen jaar opgestapt",
+    "Er werken geen psychiaters of psychiatrisch verpleegkundigen",
+    "Bewoners krijgen volgens het COA ‘regelmatig’ niet op tijd of helemaal geen behandeling"
    ],
    "report": [
     {
-     "heading": "What NRC found",
+     "heading": "Wat NRC ontdekte",
      "paragraphs": [
-      "When the location in Hoogeveen opened in 2020, residents with psychiatric problems were not supposed to be placed there. That is no longer an automatic bar, although it can still be an obstacle. According to NRC, the site now houses people with schizophrenia, psychosis, severe trauma and suicidal tendencies, often despite objections from doctors.",
-      "Three doctors have resigned in the past year. They say they raised concerns with COA for four years and were dismissed. Doctor Marike Ooms left last summer after burning out following a week in which she treated three suicidal residents; she said the site is designed to confront residents with their behaviour, not to provide psychiatric care. Clara Verbeek, also a general practitioner, said she \"couldn't take it anymore\", and that some residents developed mental health problems while in the Dutch asylum system. A third doctor, who left last month after treating several residents in one week who needed a psychiatric hospital bed that could not be found, said: \"Things cannot go on like this.\""
+      "Toen de locatie in Hoogeveen in 2020 openging, was het niet de bedoeling dat er mensen met psychiatrische problemen werden geplaatst. Inmiddels is dat geen automatisch beletsel meer, al kan het nog wel een obstakel zijn. Volgens NRC wonen er nu mensen met schizofrenie, psychoses, zware trauma’s en suïcidale neigingen, vaak tegen het advies van artsen in.",
+      "Het afgelopen jaar stapten drie artsen op. Ze zeggen dat ze vier jaar lang zorgen bij het COA aankaartten en steeds werden weggewuifd. Arts Marike Ooms vertrok afgelopen zomer met een burn-out, na een week waarin ze drie suïcidale bewoners behandelde; volgens haar is de locatie bedoeld om bewoners met hun gedrag te confronteren, niet om psychiatrische zorg te bieden. Huisarts Clara Verbeek zei dat ze ‘het niet meer trok’ en dat sommige bewoners pas in het Nederlandse asielsysteem psychische klachten kregen. Een derde arts vertrok vorige maand, na een week waarin hij meerdere bewoners zag die een plek in een psychiatrisch ziekenhuis nodig hadden die niet te vinden was. ‘Zo kan het niet langer,’ zei hij."
      ]
     },
     {
-     "heading": "The regime",
+     "heading": "Het regime",
      "paragraphs": [
-      "The location is not a detention centre, but its rules are the strictest in Dutch asylum reception. Residents must check in every day, follow a mandatory daily schedule and cannot leave the premises freely. Their allowance is paid in goods. There are two disciplinary rooms for residents who are violent towards others or towards staff. Residents can leave by signing a COA form, but they then lose their right to accommodation."
+      "De locatie is geen detentiecentrum, maar de regels zijn de strengste in de Nederlandse asielopvang. Bewoners moeten zich elke dag melden, een verplicht dagprogramma volgen en mogen het terrein niet vrij verlaten. Hun leefgeld krijgen ze in natura. Er zijn twee afzonderingsruimtes voor bewoners die geweld gebruiken tegen anderen of tegen medewerkers. Wie wil vertrekken, kan een formulier van het COA tekenen, maar verliest dan het recht op opvang."
      ]
     },
     {
-     "heading": "COA's answer",
+     "heading": "Het antwoord van het COA",
      "paragraphs": [
-      "COA and the health service for asylum seekers, GZA, confirmed that the site houses residents with serious mental health problems, often with \"psychiatric comorbidity\". Both point to long waiting lists and staff shortages in specialised psychiatric care, and COA said residents there \"regularly\" do not get treatment in time, or at all."
+      "Het COA en Gezondheidszorg Asielzoekers (GZA) bevestigen dat er bewoners met ernstige psychische problemen wonen, vaak met ‘psychiatrische comorbiditeit’. Beide wijzen op lange wachtlijsten en personeelstekorten in de gespecialiseerde psychiatrie. Het COA erkent dat bewoners er ‘regelmatig’ niet op tijd, of helemaal niet, worden behandeld."
      ]
     },
     {
-     "heading": "The wider system",
+     "heading": "Het bredere stelsel",
      "paragraphs": [
-      "The report comes as the cabinet tightens the asylum system by law. Last week the Eerste Kamer passed a new asylum law that, among other things, ends the penalty payments the immigration service IND owed when it missed decision deadlines; Asylum Minister Bart van den Brink said in September that the IND had paid out close to €100 million in such penalties. The minister has not yet responded to NRC's findings about Hoogeveen."
+      "Het nieuws komt nu het kabinet het asielstelsel per wet aanscherpt. Vorige week nam de Eerste Kamer een nieuwe asielwet aan die onder meer een einde maakt aan de dwangsommen die de IND moest betalen bij het overschrijden van beslistermijnen; volgens minister Bart van den Brink keerde de IND in september bijna 100 miljoen euro aan zulke dwangsommen uit. Op de bevindingen over Hoogeveen heeft de minister nog niet gereageerd."
      ]
     }
    ],
    "sources": [
     {
-     "publisher": "NL Times",
+     "publisher": "NL Times (op basis van NRC)",
      "title": "People with mental health problems housed in strict asylum shelter for problem causers",
      "url": "https://nltimes.nl/2026/10/19/people-mental-health-problems-housed-strict-asylum-shelter-problem-causers",
-     "publishedAt": "2026-10-19 09:20 CEST",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026, 09.20 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "DutchNews.nl",
      "title": "Internationals lose right to IND payouts under new asylum law",
      "url": "https://www.dutchnews.nl/2026/10/internationals-lose-right-to-ind-payouts-under-new-asylum-law/",
-     "publishedAt": "2026-10-14",
-     "kind": "Reporting"
+     "publishedAt": "14 oktober 2026",
+     "kind": "verslaggeving"
     }
    ],
    "locations": [
@@ -321,52 +326,52 @@
     "provinces": [
      "drenthe"
     ],
-    "alt": "A map of Drenthe and its neighbouring provinces marking Hoogeveen, where COA's strict asylum location is, and the provincial capital Assen for reference.",
-    "caption": "Drenthe · approximate locations"
+    "alt": "Kaart van Drenthe en omliggende provincies met Hoogeveen, waar de strenge opvanglocatie van het COA staat, en ter oriëntatie de provinciehoofdstad Assen.",
+    "caption": "Drenthe · locaties bij benadering"
    }
   },
   {
-   "id": "regional-transport-strike-thursday",
-   "threadId": "public-transport-strike",
-   "threadTitle": "The regional public transport strikes",
-   "threadSummary": "The dispute over a new collective agreement for regional bus and train workers, and the weekly strikes it has brought.",
+   "id": "staking-streekvervoer-donderdag",
+   "threadId": "staking-streekvervoer",
+   "threadTitle": "De stakingen in het streekvervoer",
+   "threadSummary": "Het conflict over een nieuwe cao voor het personeel van regionale bussen en treinen, en de wekelijkse stakingen die dat oplevert.",
    "section": "world",
-   "title": "Regional buses and trains strike again on Thursday as pay talks stay stuck",
-   "category": "Work & transport",
-   "region": "National",
+   "title": "Streekvervoer staakt donderdag opnieuw nu cao-overleg muurvast zit",
+   "category": "Werk & vervoer",
+   "region": "Landelijk",
    "regions": [],
-   "status": "This week",
+   "status": "Deze week",
    "eventDate": "2026-10-22",
-   "body": "More than 13,500 regional public transport workers will stop work again on Thursday 22 October, union FNV says, the second strike day in just over a week in a dispute over a new collective agreement. Far fewer regional buses and trains will run. City transport in Amsterdam and Rotterdam, including Rotterdam's metro and trams, is expected to run as normal. FNV and CNV have said they want to strike one day a week until Christmas.",
-   "whatChanged": "A second strike day is confirmed after talks failed to move, turning a one-off stoppage into a weekly pattern.",
-   "whyMatters": "Outside the big cities, regional buses are often the only public transport; on the last strike day FNV says about 90 percent of buses did not run.",
-   "uncertainty": "How many services will be cancelled in each region is not yet known, and the unions and employers' organisation VWOV give different pictures of how many staff take part.",
-   "watchNext": "Operators' timetables for Thursday, any new offer from employers, and whether the unions name the next strike day.",
+   "body": "Ruim 13.500 medewerkers in het streekvervoer leggen donderdag 22 oktober opnieuw het werk neer, meldt FNV: de tweede stakingsdag in iets meer dan een week in het conflict over een nieuwe cao. Er rijden dan veel minder regionale bussen en treinen. Het stadsvervoer in Amsterdam en Rotterdam, inclusief de Rotterdamse metro en tram, rijdt naar verwachting gewoon. FNV en CNV willen tot de kerst elke week een dag staken.",
+   "whatChanged": "Een tweede stakingsdag ligt vast nu het overleg geen beweging toont; een eenmalige actie wordt zo een wekelijks patroon.",
+   "whyMatters": "Buiten de grote steden is de streekbus vaak het enige openbaar vervoer; bij de vorige staking reed volgens FNV zo’n 90 procent van de bussen niet.",
+   "uncertainty": "Hoeveel ritten per regio uitvallen, is nog niet bekend, en vakbonden en werkgeversvereniging VWOV geven een verschillend beeld van hoeveel personeel meedoet.",
+   "watchNext": "De dienstregelingen die vervoerders voor donderdag publiceren, een eventueel nieuw bod van de werkgevers en of de bonden de volgende stakingsdag aankondigen.",
    "keyFacts": [
-    "More than 13,500 regional transport workers are involved, FNV says",
-    "The previous strike day was Wednesday 14 October",
-    "The unions want a pay rise, rosters announced further ahead and better conditions for older staff",
-    "Urban transport in Amsterdam and Rotterdam is expected to run",
-    "FNV and CNV plan one strike day a week until Christmas"
+    "Volgens FNV gaat het om ruim 13.500 medewerkers in het streekvervoer",
+    "De vorige stakingsdag was woensdag 14 oktober",
+    "De bonden willen loonsverhoging, roosters die eerder bekend zijn en betere regelingen voor oudere werknemers",
+    "Het stadsvervoer in Amsterdam en Rotterdam rijdt naar verwachting",
+    "FNV en CNV willen tot de kerst één dag per week staken"
    ],
    "report": [
     {
-     "heading": "The strike",
+     "heading": "De staking",
      "paragraphs": [
-      "Regional transport workers will stop work again on Thursday, FNV announced on Monday, after a strike the previous week. Far fewer regional buses and trains will run that day. Public transport in the big cities, including Amsterdam and Rotterdam, should run as usual; AD reports that Rotterdam's metro and trams will run normally, while in Utrecht buses and trams may be affected, according to DUIC.",
-      "\"The employers are still not listening well enough,\" Marijn van der Gaag, who leads FNV's regional transport section, told NOS. In a press release he said the employers \"will not abandon deteriorations, so striking is the only option left\"."
+      "Medewerkers in het streekvervoer leggen donderdag opnieuw het werk neer, maakte FNV maandag bekend, na een staking vorige week. Op die dag rijden er veel minder regionale bussen en treinen. Het openbaar vervoer in de grote steden, waaronder Amsterdam en Rotterdam, rijdt naar verwachting gewoon; volgens het AD rijden de Rotterdamse metro en tram normaal, terwijl in Utrecht volgens DUIC ook bussen en trams kunnen uitvallen.",
+      "‘De werkgevers luisteren nog altijd niet goed genoeg,’ zei Marijn van der Gaag, bestuurder van FNV Streekvervoer, tegen de NOS. In een persbericht stelt hij dat de werkgevers ‘de verslechteringen niet loslaten, dus staken is de enige optie die overblijft’."
      ]
     },
     {
-     "heading": "What the unions want",
+     "heading": "Wat de bonden willen",
      "paragraphs": [
-      "The talks on a new collective agreement are deadlocked. FNV's demands include a pay rise, work schedules announced further in advance, and better conditions for older employees, including more freedom to choose which days they work."
+      "Het overleg over een nieuwe cao zit vast. FNV vraagt onder meer om loonsverhoging, roosters die verder vooruit bekend zijn en betere voorwaarden voor oudere werknemers, onder wie meer vrijheid om hun werkdagen te kiezen."
      ]
     },
     {
-     "heading": "Last week's strike",
+     "heading": "De staking van vorige week",
      "paragraphs": [
-      "On Wednesday 14 October, FNV says about 90 percent of buses nationwide did not run. Employers' organisation VWOV said half of employees were willing to strike. In Almere some buses ran but trips were cancelled, according to 1Almere, and travellers in Leeuwarden were warned to expect cancellations, Omroep Leeuwarden reported."
+      "Op woensdag 14 oktober reed volgens FNV landelijk ongeveer 90 procent van de bussen niet. Werkgeversvereniging VWOV meldde dat de helft van de medewerkers bereid was te staken. In Almere reden wel bussen, maar vielen er ritten uit, schreef 1Almere, en reizigers in Leeuwarden werden gewaarschuwd voor uitval, meldde Omroep Leeuwarden."
      ]
     }
    ],
@@ -375,97 +380,102 @@
      "publisher": "NL Times",
      "title": "Regional transport workers to strike again Thursday as labor talks remain deadlocked",
      "url": "https://nltimes.nl/2026/10/19/regional-transport-workers-strike-thursday-labor-talks-remain-deadlocked",
-     "publishedAt": "2026-10-19 12:50 CEST",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026, 12.50 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "NOS",
      "title": "Donderdag opnieuw minder openbaar vervoer door staking streekvervoer",
      "url": "https://nos.nl/artikel/2635576-donderdag-opnieuw-minder-openbaar-vervoer-door-staking-streekvervoer",
-     "publishedAt": "2026-10-19 12:26 CEST",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026, 12.26 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "1Almere",
      "title": "1Almere in 1 minuut, 19 oktober 2026",
      "url": "https://1almere.nl/nieuws/artikel/1almere-in-1-minuut-19-oktober-2026",
-     "publishedAt": "2026-10-19",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "DUIC",
      "title": "Donderdag opnieuw staking in streekvervoer: ook in Utrecht kans op uitval van bussen en trams",
      "url": "https://www.duic.nl/algemeen/algemeen/61269/donderdag-opnieuw-staking-in-streekvervoer-ook-in-utrecht-kans-op-uitval-van-bussen-en-trams",
-     "publishedAt": "2026-10-19",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026",
+     "kind": "verslaggeving"
     }
-   ]
+   ],
+   "image": {
+    "asset": "assets/editions/2026-10-20/staking-streekvervoer-donderdag.svg",
+    "alt": "Een lege bushalte met een pauzeteken op het bord en een stilstaande bus in de verte, bij de staking in het streekvervoer.",
+    "credit": "Redactionele illustratie"
+   }
   },
   {
-   "id": "childcare-costs-outpace-allowance",
-   "threadId": "childcare-costs",
-   "threadTitle": "The cost of childcare",
-   "threadSummary": "What parents pay for childcare, how the allowance keeps up, and the planned overhaul of the system.",
+   "id": "kinderopvang-duurder-dan-toeslag",
+   "threadId": "kosten-kinderopvang",
+   "threadTitle": "De kosten van kinderopvang",
+   "threadSummary": "Wat ouders betalen voor kinderopvang, of de toeslag dat bijhoudt, en de geplande herziening van het stelsel.",
    "section": "world",
-   "title": "Childcare prices rise faster than the allowance, and low earners pay the most",
-   "category": "Family & money",
-   "region": "National",
+   "title": "Kinderopvang wordt sneller duurder dan de toeslag stijgt; lage inkomens betalen het meest",
+   "category": "Gezin & geld",
+   "region": "Landelijk",
    "regions": [],
-   "status": "Developing",
+   "status": "In ontwikkeling",
    "eventDate": "2026-10-19",
-   "body": "Childcare providers will charge an average of €11.82 an hour next year, 22 cents above the €11.60 maximum on which the government bases its childcare allowance, according to a survey of 400 providers by parents' group BOinK, reported by NU.nl. Parents pay the difference. For low-income families, whose allowance covers 96 percent of the maximum rate, the cost of an hour of childcare would rise from about 45 cents to about 68 cents.",
-   "whatChanged": "New survey figures show the gap between what providers charge and what the allowance covers widening again for 2027.",
-   "whyMatters": "BOinK warns that low-income families, who already use childcare much less than others, will feel the increase most.",
-   "uncertainty": "The figures are averages from a survey of providers and individual rates vary; the ministry argues that the gap between the maximum and average prices has narrowed since 2023.",
-   "watchNext": "The Tweede Kamer's budget debates after the recess, and the planned 2029 overhaul of the allowance.",
+   "body": "Kinderopvangorganisaties rekenen volgend jaar gemiddeld 11,82 euro per uur, 22 cent boven de 11,60 euro waarop het Rijk de kinderopvangtoeslag baseert, blijkt uit een rondgang van belangenvereniging BOinK langs 400 organisaties, waarover NU.nl berichtte. Het verschil betalen ouders zelf. Voor gezinnen met een laag inkomen, die 96 procent van het maximumtarief vergoed krijgen, stijgt de eigen bijdrage per uur opvang van zo’n 45 naar zo’n 68 cent.",
+   "whatChanged": "Nieuwe cijfers laten zien dat het gat tussen wat aanbieders vragen en wat de toeslag dekt in 2027 weer groter wordt.",
+   "whyMatters": "Volgens BOinK merken gezinnen met een laag inkomen, die nu al veel minder gebruikmaken van kinderopvang, de stijging het sterkst.",
+   "uncertainty": "De cijfers zijn gemiddelden uit een rondgang langs aanbieders en tarieven verschillen per organisatie; het ministerie stelt dat het verschil tussen het maximumtarief en de gemiddelde prijs sinds 2023 kleiner is geworden.",
+   "watchNext": "De begrotingsdebatten in de Tweede Kamer na het reces en de geplande herziening van de toeslag in 2029.",
    "keyFacts": [
-    "Maximum hourly rate for the allowance: €11.23 this year, €11.60 in 2027",
-    "Average provider rate in 2027: €11.82, according to BOinK's survey of 400 organisations",
-    "Low-income parents' own cost: about 45 cents an hour now, about 68 cents in 2027",
-    "From 2029, middle and high incomes are due to get 95.6 percent of the maximum reimbursed; low incomes drop slightly from 96 percent to 95.6"
+    "Maximumuurprijs voor de toeslag: 11,23 euro dit jaar, 11,60 euro in 2027",
+    "Gemiddeld tarief van aanbieders in 2027: 11,82 euro, volgens BOinK’s rondgang langs 400 organisaties",
+    "Eigen bijdrage per uur voor lage inkomens: nu zo’n 45 cent, in 2027 zo’n 68 cent",
+    "Vanaf 2029 krijgen middeninkomens en hogere inkomens 95,6 procent van het maximum vergoed; lage inkomens gaan licht omlaag van 96 naar 95,6 procent"
    ],
    "report": [
     {
-     "heading": "The numbers",
+     "heading": "De cijfers",
      "paragraphs": [
-      "This year the government's maximum hourly rate for daycare is €11.23, and low-income families are reimbursed 96 percent of it, leaving them to pay 45 cents an hour if their provider charges no more than the maximum. Next year the maximum rises to €11.60. But providers will charge €11.82 on average, BOinK found, and parents must pay everything above the maximum themselves. For low-income households that means about 68 cents an hour. Higher-income families pay more as well, but can absorb it more easily.",
-      "\"This is bad news, as childcare usage among low-income groups is already significantly lower,\" BOinK chair Gjalt Jellesma said."
+      "Dit jaar is de maximumuurprijs voor dagopvang 11,23 euro, en gezinnen met een laag inkomen krijgen daarvan 96 procent vergoed; vraagt de opvang niet meer dan het maximum, dan betalen ze 45 cent per uur. Volgend jaar stijgt het maximum naar 11,60 euro. Maar aanbieders vragen volgens BOinK gemiddeld 11,82 euro, en alles boven het maximum betalen ouders zelf. Voor huishoudens met een laag inkomen komt dat neer op zo’n 68 cent per uur. Gezinnen met een hoger inkomen betalen ook meer, maar kunnen dat makkelijker opvangen.",
+      "‘Dit is slecht nieuws, want het gebruik van kinderopvang onder lage inkomens is nu al aanzienlijk lager,’ zegt BOinK-voorzitter Gjalt Jellesma."
      ]
     },
     {
-     "heading": "The ministry's view",
+     "heading": "Het ministerie",
      "paragraphs": [
-      "A spokesperson for the Ministry of Social Affairs and Employment said it is \"not the intention that all costs should be shifted entirely onto the taxpayer\". The ministry says the allowance is deliberately not linked to price rises, because that could encourage providers to raise prices, and argues that childcare is becoming more affordable because the gap between the maximum and average rates has narrowed since 2023."
+      "Een woordvoerder van het ministerie van Sociale Zaken en Werkgelegenheid zegt dat het ‘niet de bedoeling is dat alle kosten volledig bij de belastingbetaler komen te liggen’. Volgens het ministerie is de toeslag bewust niet gekoppeld aan prijsstijgingen, omdat aanbieders dan hun prijzen zouden kunnen opdrijven. Het ministerie vindt bovendien dat kinderopvang betaalbaarder wordt, omdat het verschil tussen de maximumuurprijs en de gemiddelde prijs sinds 2023 kleiner is geworden."
      ]
     },
     {
-     "heading": "What changes in 2029",
+     "heading": "Wat er in 2029 verandert",
      "paragraphs": [
-      "Under the planned new system, middle- and high-income families will be reimbursed 95.6 percent of the benchmark rate. Low-income families will move slightly down, from 96 percent to 95.6 percent."
+      "In het nieuwe stelsel krijgen gezinnen met een middeninkomen of hoger inkomen 95,6 procent van de maximumuurprijs vergoed. Voor lage inkomens daalt de vergoeding licht, van 96 naar 95,6 procent."
      ]
     }
    ],
    "sources": [
     {
-     "publisher": "NL Times",
+     "publisher": "NL Times (op basis van NU.nl)",
      "title": "Parents to pay more for childcare next year as hourly rates outpace gov't allowance",
      "url": "https://nltimes.nl/2026/10/19/parents-pay-childcare-next-year-hourly-rates-outpace-govt-allowance",
-     "publishedAt": "2026-10-19 08:05 CEST",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026, 08.05 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "DutchNews.nl",
      "title": "Daycare prices outpace benefit cap, hitting low earners hardest",
      "url": "https://www.dutchnews.nl/2026/10/daycare-prices-outpace-benefit-cap-hitting-low-earners-hardest/",
-     "publishedAt": "2026-10-19",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026",
+     "kind": "verslaggeving"
     }
    ],
    "visual": {
     "type": "bars",
-    "title": "What low-income parents pay per hour",
-    "measure": "Own cost per hour of daycare for low-income families, BOinK estimate",
-    "unit": "¢",
+    "title": "Eigen bijdrage per uur, lage inkomens",
+    "measure": "Eigen bijdrage per uur dagopvang voor gezinnen met een laag inkomen, schatting BOinK",
+    "unit": " ct",
     "values": [
      {
       "label": "2026",
@@ -477,323 +487,323 @@
      }
     ],
     "sourceUrl": "https://nltimes.nl/2026/10/19/parents-pay-childcare-next-year-hourly-rates-outpace-govt-allowance",
-    "alt": "A bar chart: low-income families pay about 45 cents per hour of daycare in 2026 and about 68 cents in 2027.",
-    "caption": "BOinK survey of 400 providers, via NU.nl and NL Times."
+    "alt": "Staafdiagram: gezinnen met een laag inkomen betalen in 2026 zo’n 45 cent per uur dagopvang en in 2027 zo’n 68 cent.",
+    "caption": "Rondgang van BOinK langs 400 aanbieders, via NU.nl en NL Times."
    }
   },
   {
-   "id": "groningen-gas-standby-bill",
+   "id": "groningen-tegen-gasveld-als-reserve",
    "section": "more",
-   "title": "Groningen and North Drenthe ask JA21 to drop a bill that would keep the gas field on standby",
-   "whatChanged": "The governments of the earthquake region have formally objected to a JA21 plan to reverse the field's permanent closure.",
-   "body": "JA21 MP Daniël van den Berg's bill would make the Groningen field an emergency gas reserve and overturn the 2024 decision to close it for good: wells would stay available, small \"readiness\" extraction would keep the field usable, and emergency extraction would be possible in a gas crisis. Provincial executive Susan Top, speaking for the region's governments, said it \"runs counter to the fresh start promised to residents of Groningen and Noord-Drenthe\" and would unsettle decisions on reinforcing homes, without clarity on damage and liability. The region says it understands the need for secure supply but does not expect extra Groningen gas to move international prices.",
+   "title": "Groningen en Noord-Drenthe vragen JA21 wetsvoorstel in te trekken dat het gasveld als reserve achter de hand houdt",
+   "whatChanged": "De overheden in het aardbevingsgebied maken formeel bezwaar tegen een plan van JA21 om de definitieve sluiting van het gasveld terug te draaien.",
+   "body": "Het wetsvoorstel van JA21-Kamerlid Daniël van den Berg maakt van het Groningenveld een noodreserve en draait het besluit uit 2024 om het veld definitief te sluiten terug: putten blijven beschikbaar, met een kleine ‘gereedheidswinning’ blijft het veld bruikbaar en in een gascrisis moet noodwinning mogelijk zijn. Gedeputeerde Susan Top zegt namens de regio dat het voorstel ‘haaks staat op de nieuwe start die inwoners van Groningen en Noord-Drenthe is beloofd’ en onzekerheid geeft over versterkingsbesluiten, zonder duidelijkheid over schade en aansprakelijkheid. De regio begrijpt de behoefte aan leveringszekerheid, maar verwacht niet dat extra Gronings gas de internationale prijs merkbaar beïnvloedt.",
    "eventDate": "2026-10-19",
-   "category": "Energy & politics",
+   "category": "Energie & politiek",
    "region": "Groningen · Drenthe",
    "regions": [
     "groningen",
     "drenthe"
    ],
-   "status": "Developing",
+   "status": "In ontwikkeling",
    "threadId": "groningen-gas",
-   "threadTitle": "Groningen gas and the earthquake region",
-   "threadSummary": "The closed Groningen gas field, the earthquake damage it left and the promises made to residents.",
+   "threadTitle": "Gronings gas en het aardbevingsgebied",
+   "threadSummary": "Het gesloten Groningenveld, de aardbevingsschade die het achterliet en de beloften aan de inwoners.",
    "sources": [
     {
      "publisher": "OOG Groningen",
      "title": "Overheden Groningen en Noord-Drenthe willen dat JA21 wetsvoorstel over gaswinning intrekt",
      "url": "https://www.oogtv.nl/2026/10/overheden-groningen-en-noord-drenthe-willen-dat-ja21-wetsvoorstel-over-gaswinning-intrekt/",
-     "publishedAt": "2026-10-19 12:08 CEST",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026, 12.08 uur",
+     "kind": "verslaggeving"
     }
    ]
   },
   {
-   "id": "schiphol-egate-failure",
+   "id": "storing-paspoortpoortjes-schiphol",
    "section": "more",
-   "title": "Schiphol's passport gates went down for most of Sunday, and the cause will stay secret",
-   "whatChanged": "The Marechaussee is investigating why all 78 automatic passport gates failed on Sunday, but says it will not publish the findings.",
-   "body": "All 78 e-gates at Schiphol went down at about 6am on Sunday, in the middle of the autumn school holiday, and passengers to and from countries outside the Schengen area had to be checked by hand until the gates came back at about 3pm. Hundreds of people missed flights and waits averaged an hour. The Royal Marechaussee blames an IT fault, says there is \"no indication whatsoever\" of a cyberattack, and will not release its investigation \"for operational reasons\". Experts told De Telegraaf few travellers are likely to get compensation.",
+   "title": "Paspoortpoortjes op Schiphol lagen het grootste deel van zondag plat, de oorzaak blijft geheim",
+   "whatChanged": "De Marechaussee onderzoekt waarom alle 78 automatische paspoortpoortjes zondag uitvielen, maar maakt de uitkomst niet openbaar.",
+   "body": "Alle 78 e-gates op Schiphol vielen zondag rond 06.00 uur uit, midden in de herfstvakantie. Reizigers van en naar landen buiten Schengen moesten met de hand worden gecontroleerd tot de poortjes rond 15.00 uur weer werkten. Honderden mensen misten hun vlucht en de wachttijd was gemiddeld een uur. De Koninklijke Marechaussee spreekt van een IT-storing, ziet ‘geen enkele aanwijzing’ voor een cyberaanval en maakt het onderzoek ‘om operationele redenen’ niet openbaar. Volgens deskundigen in De Telegraaf krijgen weinig reizigers een vergoeding.",
    "eventDate": "2026-10-18",
-   "category": "Travel",
-   "region": "North Holland · Schiphol",
+   "category": "Reizen",
+   "region": "Noord-Holland · Schiphol",
    "regions": [
-    "north-holland"
+    "noord-holland"
    ],
-   "status": "Developing",
-   "threadId": "schiphol-egate-failure",
-   "threadTitle": "Schiphol's passport gates went down for most of Sunday, and the cause will stay secret",
-   "threadSummary": "The Marechaussee is investigating why all 78 automatic passport gates failed on Sunday, but says it will not publish the findings.",
+   "status": "In ontwikkeling",
+   "threadId": "storing-paspoortpoortjes-schiphol",
+   "threadTitle": "Paspoortpoortjes op Schiphol lagen het grootste deel van zondag plat, de oorzaak blijft geheim",
+   "threadSummary": "De Marechaussee onderzoekt waarom alle 78 automatische paspoortpoortjes zondag uitvielen, maar maakt de uitkomst niet openbaar.",
    "sources": [
     {
      "publisher": "DutchNews.nl",
      "title": "Border police won't publish Schiphol e-gate investigation",
      "url": "https://www.dutchnews.nl/2026/10/border-police-wont-publish-schiphol-e-gate-investigation/",
-     "publishedAt": "2026-10-19",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "NL Times",
      "title": "Schiphol restores passport control system after 10-hours; Hundreds miss flights",
      "url": "https://nltimes.nl/2026/10/18/schiphol-restores-passport-control-system-10-hours-hundreds-miss-flights",
-     "publishedAt": "2026-10-18 15:10 CEST",
-     "kind": "Reporting"
+     "publishedAt": "18 oktober 2026, 15.10 uur",
+     "kind": "verslaggeving"
     }
    ]
   },
   {
-   "id": "hajar-amsterdam-investigation",
+   "id": "onderzoek-dood-hajar-amsterdam",
    "section": "more",
-   "title": "Police seek the man seen cycling with Hajar, 29, whose body was found in a suitcase in Amsterdam",
-   "whatChanged": "Police confirmed that Hajar was found in a suitcase in the water at the Amsteldijk; no one has been arrested.",
-   "body": "Hajar was last seen on 4 October near the RAI, cycling with an unidentified man towards Buitenveldert; her family reported her missing the next day. Her body was found on Friday morning in a suitcase in the water at the Amsteldijk in Amsterdam-Zuid. Police say she died as the result of a crime but do not know where, are looking for the man she was seen with, according to NH Nieuws, and have asked residents whether they saw anyone with a suitcase in recent weeks. Her family has asked to grieve in private.",
+   "title": "Politie zoekt man die met Hajar (29) fietste, wier lichaam in een koffer in Amsterdam werd gevonden",
+   "whatChanged": "De politie bevestigt dat Hajar in een koffer in het water bij de Amsteldijk lag; er is nog niemand aangehouden.",
+   "body": "Hajar werd op 4 oktober voor het laatst gezien bij de RAI, fietsend met een onbekende man in de richting van Buitenveldert; haar familie gaf haar de volgende dag als vermist op. Vrijdagochtend werd haar lichaam in een koffer gevonden in het water bij de Amsteldijk in Amsterdam-Zuid. De politie gaat uit van een misdrijf, weet niet waar ze om het leven kwam en zoekt volgens NH Nieuws de man met wie ze werd gezien. Buurtbewoners wordt gevraagd of ze de afgelopen weken iemand met een koffer zagen. Haar familie wil in stilte rouwen.",
    "eventDate": "2026-10-16 / 2026-10-19",
-   "category": "Crime",
-   "region": "North Holland · Amsterdam",
+   "category": "Misdaad",
+   "region": "Noord-Holland · Amsterdam",
    "regions": [
-    "north-holland"
+    "noord-holland"
    ],
-   "status": "Developing",
-   "threadId": "hajar-amsterdam-investigation",
-   "threadTitle": "Police seek the man seen cycling with Hajar, 29, whose body was found in a suitcase in Amsterdam",
-   "threadSummary": "Police confirmed that Hajar was found in a suitcase in the water at the Amsteldijk; no one has been arrested.",
+   "status": "In ontwikkeling",
+   "threadId": "onderzoek-dood-hajar-amsterdam",
+   "threadTitle": "Politie zoekt man die met Hajar (29) fietste, wier lichaam in een koffer in Amsterdam werd gevonden",
+   "threadSummary": "De politie bevestigt dat Hajar in een koffer in het water bij de Amsteldijk lag; er is nog niemand aangehouden.",
    "sources": [
     {
      "publisher": "NOS",
      "title": "Lichaam 29-jarige Hajar werd gevonden in koffer in Amsterdams water",
      "url": "https://nos.nl/artikel/2635842-lichaam-29-jarige-hajar-werd-gevonden-in-koffer-in-amsterdams-water",
-     "publishedAt": "2026-10-19 16:10 CEST",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026, 16.10 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "NL Times",
      "title": "Family of 29-year-old Hajar in shock, wants to grieve in private after her body found",
      "url": "https://nltimes.nl/2026/10/18/family-29-year-old-hajar-shock-wants-grieve-private-body-found",
-     "publishedAt": "2026-10-18 10:35 CEST",
-     "kind": "Reporting"
+     "publishedAt": "18 oktober 2026, 10.35 uur",
+     "kind": "verslaggeving"
     }
    ]
   },
   {
-   "id": "grolsch-tour-caustic-soda",
+   "id": "grolsch-natronloog-proeftap",
    "section": "more",
-   "title": "Grolsch visitors who fell ill had swallowed caustic soda from a tasting tap",
-   "whatChanged": "Investigators confirmed that cleaning fluid containing sodium hydroxide reached a tap where visitors taste brewing water.",
-   "body": "Eleven people fell ill during a brewery tour in Enschede on Saturday. Grolsch says diluted cleaning fluid, used in the three-weekly cleaning of the pipe that feeds the tasting tap, reached the tap because the connection lacked a technical safety lock. Everyone has left hospital, though some still have a sore throat or have lost their sense of taste. Police have ended their inquiry; the Labour Inspectorate is still investigating. Grolsch says no caustic soda got into its beer and is considering compensation.",
+   "title": "Bezoekers Grolsch die onwel werden, kregen natronloog binnen via een proeftap",
+   "whatChanged": "Onderzoek bevestigt dat schoonmaakmiddel met natronloog bij de tap terechtkwam waar bezoekers brouwwater proeven.",
+   "body": "Elf mensen werden zaterdag onwel tijdens een rondleiding door de brouwerij in Enschede. Volgens Grolsch kwam verdund schoonmaakmiddel, gebruikt bij de driewekelijkse reiniging van de leiding naar de proeftap, bij die tap terecht omdat een technische beveiliging ontbrak. Iedereen is het ziekenhuis weer uit, al hebben sommigen nog keelpijn of smaakverlies. De politie heeft haar onderzoek gestaakt; de Arbeidsinspectie onderzoekt de zaak nog. Volgens Grolsch is er geen natronloog in het bier gekomen; het bedrijf overweegt een schadevergoeding.",
    "eventDate": "2026-10-17 / 2026-10-19",
-   "category": "Health & safety",
+   "category": "Gezondheid & veiligheid",
    "region": "Overijssel · Enschede",
    "regions": [
     "overijssel"
    ],
-   "status": "Developing",
-   "threadId": "grolsch-tour-caustic-soda",
-   "threadTitle": "Grolsch visitors who fell ill had swallowed caustic soda from a tasting tap",
-   "threadSummary": "Investigators confirmed that cleaning fluid containing sodium hydroxide reached a tap where visitors taste brewing water.",
+   "status": "In ontwikkeling",
+   "threadId": "grolsch-natronloog-proeftap",
+   "threadTitle": "Bezoekers Grolsch die onwel werden, kregen natronloog binnen via een proeftap",
+   "threadSummary": "Onderzoek bevestigt dat schoonmaakmiddel met natronloog bij de tap terechtkwam waar bezoekers brouwwater proeven.",
    "sources": [
     {
      "publisher": "NOS",
      "title": "Bezoekers Grolsch die onwel werden, kregen inderdaad natronloog binnen",
      "url": "https://nos.nl/artikel/2635785-bezoekers-grolsch-die-onwel-werden-kregen-inderdaad-natronloog-binnen",
-     "publishedAt": "2026-10-19 15:50 CEST",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026, 15.50 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "NOS",
      "title": "Elf mensen onwel na rondleiding in Grolsch-fabriek Enschede",
      "url": "https://nos.nl/artikel/2635420-elf-mensen-onwel-na-rondleiding-in-grolsch-fabriek-enschede",
-     "publishedAt": "2026-10-18 01:16 CEST",
-     "kind": "Reporting"
+     "publishedAt": "18 oktober 2026, 01.16 uur",
+     "kind": "verslaggeving"
     }
    ]
   },
   {
-   "id": "ing-gazprom-ruling",
+   "id": "ing-moet-gazprom-houden",
    "section": "more",
-   "title": "A judge bars ING from dropping Gazprom as a client",
-   "whatChanged": "ING must keep Gazprom's account open until the Russian company finds another European bank, a judge ruled.",
-   "body": "ING ended the relationship at the end of 2023, citing sanctions, money-laundering and reputational risks after Russia's invasion of Ukraine. Gazprom is not on the EU sanctions list, and argued it had no other European account, without which it cannot pay taxes or the wages of its European staff. The judge found no concrete evidence of money-laundering risk. ING is also still struggling to sell its Russian subsidiary.",
+   "title": "Rechter verbiedt ING de bankrelatie met Gazprom te beëindigen",
+   "whatChanged": "ING moet de rekening van Gazprom openhouden tot het Russische bedrijf elders in Europa kan bankieren, oordeelt de rechter.",
+   "body": "ING zegde de relatie eind 2023 op vanwege risico’s rond sancties, witwassen en reputatie na de Russische inval in Oekraïne. Gazprom staat niet op de Europese sanctielijst en voerde aan dat het geen andere Europese rekening heeft, terwijl het zonder zo’n rekening geen belasting kan betalen en geen salarissen aan Europese medewerkers. De rechter zag geen concreet bewijs van witwasrisico’s. ING worstelt daarnaast nog met de verkoop van zijn Russische dochter.",
    "eventDate": "2026-10-19",
-   "category": "Business & law",
-   "region": "National",
+   "category": "Economie & recht",
+   "region": "Landelijk",
    "regions": [],
-   "status": "Developing",
-   "threadId": "ing-gazprom-ruling",
-   "threadTitle": "Dutch business and Russia",
-   "threadSummary": "ING must keep Gazprom's account open until the Russian company finds another European bank, a judge ruled.",
+   "status": "In ontwikkeling",
+   "threadId": "ing-moet-gazprom-houden",
+   "threadTitle": "Nederlandse bedrijven en Rusland",
+   "threadSummary": "ING moet de rekening van Gazprom openhouden tot het Russische bedrijf elders in Europa kan bankieren, oordeelt de rechter.",
    "sources": [
     {
      "publisher": "NOS",
      "title": "Gazprom mag van rechter bij ING blijven bankieren",
      "url": "https://nos.nl/artikel/2635880-gazprom-mag-van-rechter-bij-ing-blijven-bankieren",
-     "publishedAt": "2026-10-19 21:22 CEST",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026, 21.22 uur",
+     "kind": "verslaggeving"
     }
    ]
   },
   {
-   "id": "floradorp-unrest",
+   "id": "onrust-floradorp",
    "section": "more",
-   "title": "Another night of unrest in Amsterdam's Floradorp over a banned bonfire",
-   "whatChanged": "Stones and bottles were thrown at police on Monday night after the mayor rejected a smaller alternative to the neighbourhood's traditional bonfire.",
-   "body": "Residents gathered on Sneeuwbalstraat in the late afternoon, setting off fireworks and lighting small fires in the road and in underground bins; later, stones and glass bottles were thrown at police and riot police were called in. A 39-year-old man was arrested on suspicion of throwing fireworks at officers, and a 14-year-old boy for public violence. The unrest followed a letter from Mayor Femke Halsema turning down residents' proposal for a small fire in an open container, on the fire service's advice; the bonfire was banned last year. Het Parool reports that a death in the neighbourhood also plays a part.",
+   "title": "Opnieuw onrust in het Amsterdamse Floradorp om verboden vreugdevuur",
+   "whatChanged": "Maandagavond werden stenen en flessen naar de politie gegooid, nadat de burgemeester een kleiner alternatief voor het traditionele vreugdevuur afwees.",
+   "body": "Bewoners verzamelden zich in de namiddag in de Sneeuwbalstraat, staken vuurwerk af en stookten kleine vuurtjes op straat en in ondergrondse containers. Later op de avond werden stenen en glazen flessen naar agenten gegooid en moest de ME ingrijpen. Een 39-jarige man werd aangehouden omdat hij vuurwerk naar agenten zou hebben gegooid, een jongen van 14 voor openlijke geweldpleging. De onrust volgde op een brief van burgemeester Femke Halsema, die op advies van de brandweer het voorstel van bewoners voor een klein vuur in een open container afwees; het vreugdevuur werd vorig jaar al verboden. Volgens Het Parool speelt ook een sterfgeval in de buurt een rol.",
    "eventDate": "2026-10-19",
-   "category": "Public order",
-   "region": "North Holland · Amsterdam-Noord",
+   "category": "Openbare orde",
+   "region": "Noord-Holland · Amsterdam-Noord",
    "regions": [
-    "north-holland"
+    "noord-holland"
    ],
-   "status": "Developing",
-   "threadId": "floradorp-unrest",
-   "threadTitle": "Another night of unrest in Amsterdam's Floradorp over a banned bonfire",
-   "threadSummary": "Stones and bottles were thrown at police on Monday night after the mayor rejected a smaller alternative to the neighbourhood's traditional bonfire.",
+   "status": "In ontwikkeling",
+   "threadId": "onrust-floradorp",
+   "threadTitle": "Opnieuw onrust in het Amsterdamse Floradorp om verboden vreugdevuur",
+   "threadSummary": "Maandagavond werden stenen en flessen naar de politie gegooid, nadat de burgemeester een kleiner alternatief voor het traditionele vreugdevuur afwees.",
    "sources": [
     {
      "publisher": "NOS",
      "title": "Opnieuw onrustig in Amsterdamse Floradorp: stenen en glas naar politie gegooid",
      "url": "https://nos.nl/artikel/2635889-opnieuw-onrustig-in-amsterdamse-floradorp-stenen-en-glas-naar-politie-gegooid",
-     "publishedAt": "2026-10-20 00:40 CEST",
-     "kind": "Reporting"
+     "publishedAt": "20 oktober 2026, 00.40 uur",
+     "kind": "verslaggeving"
     }
    ]
   },
   {
-   "id": "coos-huijsen-dies",
+   "id": "coos-huijsen-overleden",
    "section": "more",
-   "title": "Coos Huijsen, the first openly gay member of parliament, has died at 87",
-   "whatChanged": "Huijsen, who came out when he took his seat in the Tweede Kamer in 1976, died at home after a short illness.",
-   "body": "Huijsen entered the Tweede Kamer for the CHU in 1972, left the party months later over its refusal to back the Den Uyl cabinet, and returned as an independent in 1976, when he came out; he and his family say he was the first openly gay member of any parliament. He later taught history and led the Gerrit van der Veen College in Amsterdam, earned a doctorate on the House of Orange, and co-founded Het Blauwe Fonds for gay emancipation. His husband, Lank Bos, was with him.",
+   "title": "Coos Huijsen, het eerste openlijk homoseksuele parlementslid, op 87-jarige leeftijd overleden",
+   "whatChanged": "Huijsen, die in 1976 bij zijn terugkeer in de Tweede Kamer uit de kast kwam, is na een kort ziekbed thuis overleden.",
+   "body": "Huijsen kwam in 1972 voor de CHU in de Tweede Kamer, brak een halfjaar later met zijn partij omdat die het kabinet-Den Uyl niet wilde steunen, en keerde in 1976 als onafhankelijk Kamerlid terug; toen kwam hij uit de kast. Volgens hemzelf en zijn familie was hij daarmee het eerste openlijk homoseksuele parlementslid ter wereld. Later was hij geschiedenisleraar en rector van het Gerrit van der Veen College in Amsterdam, promoveerde hij op het Oranjeverhaal en richtte hij mede Het Blauwe Fonds voor homo-emancipatie op. Zijn man Lank Bos was bij hem.",
    "eventDate": "2026-10-19",
-   "category": "Politics & history",
-   "region": "National",
+   "category": "Politiek & geschiedenis",
+   "region": "Landelijk",
    "regions": [],
-   "status": "Obituary",
-   "threadId": "coos-huijsen-dies",
-   "threadTitle": "Coos Huijsen, the first openly gay member of parliament, has died at 87",
-   "threadSummary": "Huijsen, who came out when he took his seat in the Tweede Kamer in 1976, died at home after a short illness.",
+   "status": "In memoriam",
+   "threadId": "coos-huijsen-overleden",
+   "threadTitle": "Coos Huijsen, het eerste openlijk homoseksuele parlementslid, op 87-jarige leeftijd overleden",
+   "threadSummary": "Huijsen, die in 1976 bij zijn terugkeer in de Tweede Kamer uit de kast kwam, is na een kort ziekbed thuis overleden.",
    "sources": [
     {
      "publisher": "NOS",
      "title": "Eerste openlijk homoseksuele parlementslid, Coos Huijsen (87), overleden",
      "url": "https://nos.nl/artikel/2635877-eerste-openlijk-homoseksuele-parlementslid-coos-huijsen-87-overleden",
-     "publishedAt": "2026-10-19 21:04 CEST",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026, 21.04 uur",
+     "kind": "verslaggeving"
     }
    ]
   },
   {
-   "id": "data-centres-grid-queue",
+   "id": "datacenters-wachtrij-stroomnet",
    "section": "frontiers",
    "field": "Energy",
-   "threadId": "grid-congestion",
-   "threadTitle": "A full power grid",
-   "threadSummary": "Why so many homes, firms and public services wait for a grid connection, and who gets one first.",
-   "title": "Data centres take up nearly a third of the queue for the power grid",
-   "category": "Energy & grid",
-   "region": "National",
+   "threadId": "vol-stroomnet",
+   "threadTitle": "Een vol stroomnet",
+   "threadSummary": "Waarom zoveel woningen, bedrijven en voorzieningen wachten op een aansluiting, en wie er als eerste een krijgt.",
+   "title": "Datacenters nemen bijna een derde van de wachtrij voor het stroomnet in beslag",
+   "category": "Energie & stroomnet",
+   "region": "Landelijk",
    "regions": [],
-   "status": "This week",
+   "status": "Deze week",
    "eventDate": "2026-10-16",
-   "body": "Grid operators told NOS's Nieuwsuur that data centres account for almost a third of the capacity requested on the waiting list for new or bigger grid connections. The whole list adds up to about 15 gigawatts, roughly the combined connection capacity of all Dutch households. Netbeheer Nederland, the grid operators' association, wants the government to decide how many data centres the country should host, and where.",
-   "whatChanged": "Grid operators have put a figure on the data-centre share of the grid queue and asked the government to choose between users.",
-   "whyMatters": "Expanding the grid is estimated to cost more than €200 billion and take years, so capacity given to data centres is capacity that factories, housing and public services wait longer for.",
-   "hook": "A full grid turns every new data centre into a choice about who else has to wait.",
-   "uncertainty": "The figures do not fully reconcile: the 15 GW total is well above the 9,986 MW that businesses requested through regional operators, and the scope of each number is not explained.",
-   "watchNext": "State Secretary Jo-Annes de Bat's measures to free up capacity faster, and whether the cabinet sets limits on where data centres may go.",
+   "body": "Datacenters zijn goed voor bijna een derde van het vermogen dat bedrijven op de wachtlijst voor een nieuwe of zwaardere netaansluiting aanvragen, zeggen netbeheerders tegen Nieuwsuur. De hele wachtlijst telt zo’n 15 gigawatt, ongeveer het gezamenlijke aansluitvermogen van alle Nederlandse huishoudens. Netbeheer Nederland wil dat het Rijk beslist hoeveel datacenters Nederland nog wil, en waar.",
+   "whatChanged": "De netbeheerders hebben becijferd hoe groot het aandeel van datacenters in de wachtrij is, en vragen het Rijk om te kiezen.",
+   "whyMatters": "Uitbreiding van het net kost naar schatting meer dan 200 miljard euro en duurt jaren; capaciteit die naar datacenters gaat, is capaciteit waar fabrieken, woningbouw en voorzieningen langer op wachten.",
+   "hook": "Bij een vol stroomnet is elk nieuw datacenter een keuze over wie er langer moet wachten.",
+   "uncertainty": "De cijfers sluiten niet helemaal op elkaar aan: de 15 gigawatt in totaal ligt ver boven de 9.986 megawatt die bedrijven bij regionale netbeheerders aanvroegen, en het verschil in reikwijdte wordt niet uitgelegd.",
+   "watchNext": "De maatregelen van staatssecretaris Jo-Annes de Bat om sneller netcapaciteit vrij te maken, en of het kabinet grenzen stelt aan waar datacenters mogen komen.",
    "keyFacts": [
-    "About 15 GW of capacity is on the waiting list in total",
-    "15,498 businesses were waiting for large connections through regional operators in the first half of 2026, asking for 9,986 MW",
-    "There are almost 200 large and about 300 smaller data centres, with about 200 more expected",
-    "The largest uses about as much electricity as 1 percent of Dutch households",
-    "Expanding the grid is estimated to cost more than €200 billion"
+    "Op de wachtlijst staat in totaal zo’n 15 gigawatt",
+    "In de eerste helft van 2026 wachtten 15.498 bedrijven via regionale netbeheerders op een grote aansluiting, samen goed voor 9.986 megawatt",
+    "Nederland telt bijna 200 grote en zo’n 300 kleinere datacenters; er komen er ongeveer 200 bij",
+    "Het grootste datacenter verbruikt ongeveer evenveel stroom als 1 procent van alle huishoudens",
+    "Uitbreiding van het stroomnet kost naar schatting meer dan 200 miljard euro"
    ],
    "report": [
     {
-     "heading": "The queue",
+     "heading": "De wachtrij",
      "paragraphs": [
-      "Companies that want a new or heavier grid connection join a waiting list. According to the grid operators, data centres account for almost one third of the capacity on it. In total, about 15 gigawatts is requested, roughly the combined connection capacity of every Dutch household. In the first half of 2026, 15,498 businesses were waiting for large connections through regional grid operators, together requesting 9,986 megawatts, up from 9,305 MW at the end of 2025.",
-      "The Netherlands has almost 200 large and around 300 smaller data centres, and about 200 more are expected. The largest uses about as much electricity as roughly 1 percent of Dutch households."
+      "Bedrijven die een nieuwe of zwaardere aansluiting willen, belanden op een wachtlijst. Volgens de netbeheerders is bijna een derde van het aangevraagde vermogen daarop voor datacenters. In totaal gaat het om zo’n 15 gigawatt, ongeveer het gezamenlijke aansluitvermogen van alle Nederlandse huishoudens. In de eerste helft van 2026 wachtten 15.498 bedrijven via regionale netbeheerders op een grote aansluiting, samen goed voor 9.986 megawatt, tegen 9.305 megawatt eind 2025.",
+      "Nederland telt bijna 200 grote en zo’n 300 kleinere datacenters, en er worden er nog ongeveer 200 verwacht. Het grootste verbruikt ongeveer evenveel stroom als 1 procent van alle Nederlandse huishoudens."
      ]
     },
     {
-     "heading": "Why operators want a choice",
+     "heading": "Waarom netbeheerders een keuze willen",
      "paragraphs": [
-      "Grid operators have to decide years in advance where to lay cables and build substations, and say the queue makes that planning hard when they cannot tell which projects will go ahead. \"We live in a time of scarcity: not everything can be everywhere,\" said Joris de Groot of Alliander, speaking for Netbeheer Nederland, comparing the problem to the nitrogen debate. \"The government must therefore make choices about where we still want data centers.\"",
-      "The pressure shows up in unexpected places. In Almere, a full grid is delaying the switch to new rubbish trucks; the city expects to rent vehicles for the next four years, 1Almere reported on Monday."
+      "Netbeheerders moeten jaren vooruit beslissen waar ze kabels leggen en stations bouwen, en zeggen dat de wachtrij die planning bemoeilijkt zolang onduidelijk is welke projecten doorgaan. ‘We leven in een tijd van schaarste: niet alles kan overal,’ zegt Joris de Groot van Alliander namens Netbeheer Nederland, die de kwestie vergelijkt met het stikstofdebat. ‘De overheid moet dus keuzes maken over waar we nog datacenters willen.’",
+      "De krapte duikt op onverwachte plekken op. In Almere vertraagt het volle stroomnet de overstap op nieuwe vuilniswagens; de gemeente verwacht de komende vier jaar wagens te moeten huren, meldde 1Almere maandag."
      ]
     },
     {
-     "heading": "What the government is doing",
+     "heading": "Wat het Rijk doet",
      "paragraphs": [
-      "State Secretary for Climate and Green Growth Jo-Annes de Bat recently announced measures to free up grid capacity faster, after the Tweede Kamer pushed for a nationwide plan. Netbeheer Nederland says that is not enough without firmer decisions on how many data centres the country should accommodate and where they may operate."
+      "Staatssecretaris van Klimaat en Groene Groei Jo-Annes de Bat kondigde onlangs maatregelen aan om sneller netcapaciteit vrij te maken, nadat de Tweede Kamer aandrong op een landelijk plan. Volgens Netbeheer Nederland is dat niet genoeg zonder harde besluiten over hoeveel datacenters Nederland nog kan hebben en waar ze mogen staan."
      ]
     }
    ],
    "sources": [
     {
-     "publisher": "NL Times",
+     "publisher": "NL Times (op basis van Nieuwsuur)",
      "title": "Data centers account for nearly a third of Dutch electricity grid waiting list",
      "url": "https://nltimes.nl/2026/10/16/data-centers-account-nearly-third-dutch-electricity-grid-waiting-list",
-     "publishedAt": "2026-10-16 11:10 CEST",
-     "kind": "Reporting"
+     "publishedAt": "16 oktober 2026, 11.10 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "1Almere",
      "title": "1Almere in 1 minuut, 19 oktober 2026",
      "url": "https://1almere.nl/nieuws/artikel/1almere-in-1-minuut-19-oktober-2026",
-     "publishedAt": "2026-10-19",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026",
+     "kind": "verslaggeving"
     }
    ],
    "image": {
-    "asset": "assets/editions/2026-10-20/data-centres-grid-queue.svg",
-    "alt": "A row of server racks plugged into a power cable that ends at a long queue of small waiting houses and factories, for data centres taking up much of the grid waiting list.",
-    "credit": "Editorial illustration"
+    "asset": "assets/editions/2026-10-20/datacenters-wachtrij-stroomnet.svg",
+    "alt": "Twee serverkasten aan een stroomkabel, met daarachter een rij gestippelde huizen en fabrieken die wachten: datacenters in de wachtrij voor het stroomnet.",
+    "credit": "Redactionele illustratie"
    }
   },
   {
-   "id": "us-server-seizure-amsterdam",
+   "id": "server-in-beslag-op-verzoek-vs",
    "section": "frontiers",
    "field": "Tech",
-   "threadId": "digital-sovereignty",
-   "threadTitle": "Digital sovereignty",
-   "threadSummary": "Who controls the data and digital services the Netherlands depends on, and how far foreign governments can reach into them.",
-   "title": "A server seized in Amsterdam at Washington's request tests Dutch digital sovereignty",
-   "category": "Cloud & law",
-   "region": "North Holland · Amsterdam",
+   "threadId": "digitale-soevereiniteit",
+   "threadTitle": "Digitale soevereiniteit",
+   "threadSummary": "Wie de data en digitale diensten beheert waar Nederland op draait, en hoe ver buitenlandse overheden daarin kunnen reiken.",
+   "title": "Server in Amsterdam in beslag genomen op verzoek van de VS: een test voor de Nederlandse digitale soevereiniteit",
+   "category": "Cloud & recht",
+   "region": "Noord-Holland · Amsterdam",
    "regions": [],
-   "status": "This week",
+   "status": "Deze week",
    "eventDate": "2026-10-16",
-   "body": "Police seized a server at Amsterdam Science Park belonging to Autistici/Inventati, an Italian email and hosting provider for activists that the United States has designated a terrorist organisation, at the request of the US authorities. The Dutch Cloud Community, the sector's trade association, has sent the police a letter demanding to know the legal basis, warning that without a clear Dutch review \"the Netherlands loses trust\" as a place to store data. Prosecutors say the seizure followed the Dutch–US mutual legal assistance treaty and that the data has not yet been shared.",
-   "whatChanged": "A US request has led Dutch police to seize a European provider's server, and the cloud sector is openly questioning whether Dutch law checked it.",
-   "whyMatters": "The Dutch data-centre and cloud industry sells itself on the protection of Dutch and European law; the case lands days after the government again blocked the sale of DigiD supplier Solvinity to a US company over similar fears.",
-   "hook": "If a foreign request can reach a server in Amsterdam without a clear Dutch check, data stored here is only as safe as that check.",
-   "uncertainty": "The prosecution has not published its assessment, the data-centre operator has not been named, and it is not known what the US is seeking from the data.",
-   "watchNext": "The police and prosecution's answer to the Dutch Cloud Community, whether the data is handed over, and questions in parliament after the recess.",
+   "body": "De politie heeft op Amsterdam Science Park een server in beslag genomen van Autistici/Inventati, een Italiaanse aanbieder van e-mail en hosting voor activisten die de Verenigde Staten als terroristische organisatie aanmerken, op verzoek van de Amerikaanse autoriteiten. Branchevereniging Dutch Cloud Community stuurde de politie een brandbrief met de vraag op welke wettelijke grond dat gebeurde, en waarschuwt dat Nederland ‘zonder een heldere Nederlandse toets vertrouwen verliest’. Volgens het OM gebeurde de inbeslagname op grond van het rechtshulpverdrag met de VS en zijn de gegevens nog niet gedeeld.",
+   "whatChanged": "Een Amerikaans verzoek heeft ertoe geleid dat de Nederlandse politie de server van een Europese aanbieder in beslag nam, en de cloudsector trekt openlijk in twijfel of Nederlands recht daarbij goed is getoetst.",
+   "whyMatters": "De Nederlandse datacenter- en cloudsector verkoopt zich met de bescherming van Nederlands en Europees recht; de zaak volgt kort nadat het kabinet om vergelijkbare redenen opnieuw de verkoop van DigiD-leverancier Solvinity aan een Amerikaans bedrijf blokkeerde.",
+   "hook": "Als een buitenlands verzoek zonder heldere Nederlandse toets een server in Amsterdam kan bereiken, zijn data hier maar zo veilig als die toets.",
+   "uncertainty": "Het OM heeft zijn afweging niet openbaar gemaakt, de naam van het datacenter is niet bekend en het is onduidelijk wat de VS in de gegevens zoeken.",
+   "watchNext": "Het antwoord van politie en OM aan de Dutch Cloud Community, of de gegevens worden overgedragen, en Kamervragen na het reces.",
    "keyFacts": [
-    "The server was seized in Amsterdam-Oost, at Amsterdam Science Park",
-    "Autistici/Inventati offered free email and hosting to about 20,000 activists and organisations for some 25 years, and dissolved itself after US sanctions in late August",
-    "Prosecutors say the seizure was made under the Dutch–US mutual legal assistance treaty and found no ground for refusal",
-    "On 13 October the government blocked US firm Kyndryl's purchase of DigiD supplier Solvinity for the second time"
+    "De server werd in Amsterdam-Oost in beslag genomen, op Amsterdam Science Park",
+    "Autistici/Inventati bood zo’n 25 jaar gratis e-mail en hosting aan ongeveer 20.000 activisten en organisaties, en hief zichzelf op na Amerikaanse sancties eind augustus",
+    "Volgens het OM gebeurde de inbeslagname op grond van het rechtshulpverdrag tussen Nederland en de VS en was er geen weigeringsgrond",
+    "Op 13 oktober blokkeerde het kabinet voor de tweede keer de overname van DigiD-leverancier Solvinity door het Amerikaanse Kyndryl"
    ],
    "report": [
     {
-     "heading": "The seizure",
+     "heading": "De inbeslagname",
      "paragraphs": [
-      "The server belongs to Autistici/Inventati (A/I), an Italian provider that describes itself as anti-capitalist and anti-fascist. For about 25 years it offered free email and web hosting, mainly to activists and civil-rights groups, reaching around 20,000 organisations and individuals worldwide. The United States designated it a terrorist organisation, alleging it serves \"extreme left-wing organisations\", including \"Antifa cells\". After US sanctions in late August, A/I lost its domain, its PayPal account and its bank account, and dissolved itself more than a week later. Its Italian bank, Banca Etica, closed the account for fear of US secondary sanctions while condemning the US action.",
-      "Dutch police then seized one of its servers at Amsterdam Science Park at the request of the US authorities. In a statement to ANP, the Public Prosecution Service said the seizure was carried out under the mutual legal assistance treaty between the Netherlands and the United States, that there was no ground for refusal, and that the data has not been shared with the US yet."
+      "De server is van Autistici/Inventati (A/I), een Italiaanse aanbieder die zichzelf antikapitalistisch en antifascistisch noemt. Zo’n 25 jaar bood A/I gratis e-mail en webhosting aan, vooral aan activisten en burgerrechtenorganisaties, met wereldwijd ongeveer 20.000 gebruikers. De Verenigde Staten merkten A/I aan als terroristische organisatie, omdat het ‘extreemlinkse organisaties’ zou bedienen, waaronder ‘antifacellen’. Na Amerikaanse sancties eind augustus raakte A/I zijn domeinnaam, zijn PayPal-account en zijn bankrekening kwijt en hief het zichzelf ruim een week later op. Zijn Italiaanse bank, Banca Etica, sloot de rekening uit angst voor Amerikaanse secundaire sancties, maar veroordeelde tegelijk het Amerikaanse optreden.",
+      "De Nederlandse politie nam daarna op verzoek van de Amerikaanse autoriteiten een van de servers in beslag op Amsterdam Science Park. In een verklaring aan het ANP zegt het Openbaar Ministerie dat dat gebeurde op grond van het verdrag over wederzijdse rechtshulp in strafzaken tussen Nederland en de VS, dat er geen weigeringsgrond was en dat de gegevens nog niet met de VS zijn gedeeld."
      ]
     },
     {
-     "heading": "The sector's objection",
+     "heading": "Het bezwaar van de sector",
      "paragraphs": [
-      "The Dutch Cloud Community sent the police a letter asking for the legal basis of the seizure and how it was carried out. It says the case appears to give the US a free pass to request data without clear, independent Dutch legal review, and warns that international cooperation against crime must not be used to suppress political expression. \"Without a clear Dutch review, the Netherlands loses trust,\" the association said."
+      "De Dutch Cloud Community vroeg de politie in een brandbrief naar de wettelijke grondslag van de inbeslagname en de manier waarop die werd uitgevoerd. Volgens de vereniging lijkt de zaak de VS een vrijbrief te geven om gegevens op te vragen zonder heldere, onafhankelijke Nederlandse rechtstoets. Internationale samenwerking tegen misdaad is belangrijk, schrijft de vereniging, maar mag niet worden misbruikt om politieke meningsuiting te onderdrukken. ‘Zonder een heldere Nederlandse toets verliest Nederland het vertrouwen.’"
      ]
     },
     {
-     "heading": "A pattern of concern",
+     "heading": "Een bredere zorg",
      "paragraphs": [
-      "The case follows a government decision on 13 October to block, for the second time, the sale of Solvinity, which runs infrastructure for part of the DigiD login system, to the American company Kyndryl. State Secretary for Digital Economy Willemijn Aerdts concluded the takeover could threaten the public interest; members of parliament fear US rules could allow Washington to shut DigiD down."
+      "De zaak volgt op het besluit van het kabinet van 13 oktober om voor de tweede keer de verkoop te blokkeren van Solvinity, dat een deel van de infrastructuur voor het inlogsysteem DigiD levert, aan het Amerikaanse bedrijf Kyndryl. Staatssecretaris van Digitale Economie Willemijn Aerdts concludeerde dat de overname het publieke belang kan bedreigen; Kamerleden vrezen dat Amerikaanse regels Washington in staat stellen DigiD uit te schakelen."
      ]
     }
    ],
@@ -802,709 +812,709 @@
      "publisher": "NOS",
      "title": "Nederlandse cloudsector eist opheldering over inbeslagname server op verzoek VS",
      "url": "https://nos.nl/artikel/2635259-nederlandse-cloudsector-eist-opheldering-over-inbeslagname-server-op-verzoek-vs",
-     "publishedAt": "2026-10-16 19:00 CEST",
-     "kind": "Reporting"
+     "publishedAt": "16 oktober 2026, 19.00 uur",
+     "kind": "verslaggeving"
     },
     {
      "publisher": "NL Times",
      "title": "Dutch government again blocks sale of DigiD provider Solvinity to U.S. company",
      "url": "https://nltimes.nl/2026/10/13/dutch-government-blocks-sale-digid-provider-solvinity-us-company",
-     "publishedAt": "2026-10-13 19:30 CEST",
-     "kind": "Reporting"
+     "publishedAt": "13 oktober 2026, 19.30 uur",
+     "kind": "verslaggeving"
     }
    ],
    "image": {
-    "asset": "assets/editions/2026-10-20/us-server-seizure-amsterdam.svg",
-    "alt": "A single server lifted out of a rack by a long arm reaching in from across the frame, for a server in Amsterdam seized at the request of the United States.",
-    "credit": "Editorial illustration"
+    "asset": "assets/editions/2026-10-20/server-in-beslag-op-verzoek-vs.svg",
+    "alt": "Een server die door een lange arm van buiten het beeld uit een serverkast wordt gehaald, met Amsterdamse grachtenpanden op de achtergrond: een server in Amsterdam in beslag genomen op verzoek van de VS.",
+    "credit": "Redactionele illustratie"
    }
   },
   {
-   "id": "retatrutide-illegal-sales",
+   "id": "illegaal-afslankmiddel-retatrutide",
    "section": "frontiers",
    "field": "Health",
-   "threadId": "weight-loss-drugs",
-   "threadTitle": "The new weight-loss drugs",
-   "threadSummary": "Demand for new weight-loss medicines, who can get them, and the risks of buying them outside the pharmacy.",
-   "title": "An unapproved weight-loss drug spreads through TikTok, and doctors warn of the risks",
-   "category": "Medicines",
-   "region": "National",
+   "threadId": "nieuwe-afslankmiddelen",
+   "threadTitle": "De nieuwe afslankmiddelen",
+   "threadSummary": "De vraag naar nieuwe afslankmedicijnen, wie ze kan krijgen en de risico’s van kopen buiten de apotheek.",
+   "title": "Niet-goedgekeurd afslankmiddel verspreidt zich via TikTok, artsen waarschuwen voor de risico’s",
+   "category": "Geneesmiddelen",
+   "region": "Landelijk",
    "regions": [],
-   "status": "This week",
+   "status": "Deze week",
    "eventDate": "2026-10-19",
-   "body": "Hundreds of people in the Netherlands are estimated to be injecting retatrutide, an experimental weight-loss drug not approved in Europe, De Telegraaf reports. It found ten TikTok accounts selling jars of powder, and one seller said sales grew from a few jars a day in January to more than 100. The European Medicines Agency has received no application to approve the drug. The health inspectorate IGJ says people in the Netherlands have been hospitalised, and some have died, after using illegal medication.",
-   "whatChanged": "An experimental drug still in research is being sold openly online in the Netherlands, mixed at home by buyers.",
-   "whyMatters": "Demand for newer weight-loss drugs is running ahead of approval and access; buyers get powders of unknown content and purity and dose them themselves, where a simple miscalculation can mean an overdose.",
-   "hook": "Demand for the next weight-loss drug is running ahead of the evidence, and buyers are doing their own dosing.",
-   "uncertainty": "User numbers are estimates from De Telegraaf's reporting, and the IGJ's figures on hospital admissions and deaths concern illegal medication in general, not retatrutide specifically.",
-   "watchNext": "Whether the IGJ or customs act against the sellers, and whether TikTok removes the accounts.",
+   "body": "Naar schatting honderden mensen in Nederland spuiten retatrutide, een experimenteel afslankmiddel dat in Europa niet is toegelaten, meldt De Telegraaf. De krant vond tien TikTok-accounts die potjes poeder verkopen, en een verkoper zag zijn omzet stijgen van een paar potjes per dag in januari naar meer dan honderd. Bij het Europees Geneesmiddelenbureau EMA is geen aanvraag voor toelating binnengekomen. Volgens de Inspectie Gezondheidszorg en Jeugd zijn mensen in Nederland in het ziekenhuis beland, en sommigen overleden, na gebruik van illegale medicijnen.",
+   "whatChanged": "Een experimenteel middel dat nog wordt onderzocht, wordt in Nederland openlijk online verkocht en door kopers thuis aangemaakt.",
+   "whyMatters": "De vraag naar nieuwe afslankmiddelen loopt voor op toelating en toegang; kopers krijgen poeder van onbekende samenstelling en zuiverheid en doseren zelf, waarbij één rekenfout tot een overdosis kan leiden.",
+   "hook": "De vraag naar het volgende afslankmiddel loopt voor op het bewijs, en kopers doseren zelf.",
+   "uncertainty": "Het aantal gebruikers is een schatting op basis van de verslaggeving van De Telegraaf, en de cijfers van de IGJ over ziekenhuisopnames en sterfgevallen gaan over illegale medicijnen in het algemeen, niet specifiek over retatrutide.",
+   "watchNext": "Of de IGJ of de douane optreedt tegen de verkopers, en of TikTok de accounts verwijdert.",
    "keyFacts": [
-    "Retatrutide is experimental and not approved for the European market",
-    "Hundreds of people in the Netherlands are estimated to use it, mostly bought via TikTok",
-    "De Telegraaf found ten TikTok accounts selling it as powder",
-    "One seller reports sales rising from a few jars a day in January to over 100 a day, sourced from China and sold as a \"research peptide\""
+    "Retatrutide is experimenteel en niet toegelaten op de Europese markt",
+    "Naar schatting honderden mensen in Nederland gebruiken het, meestal gekocht via TikTok",
+    "De Telegraaf vond tien TikTok-accounts die het als poeder verkopen",
+    "Eén verkoper ziet de verkoop stijgen van een paar potjes per dag in januari naar meer dan honderd per dag; hij koopt in China in en verkoopt het als ‘onderzoekspeptide’"
    ],
    "report": [
     {
-     "heading": "What is being sold",
+     "heading": "Wat er wordt verkocht",
      "paragraphs": [
-      "Retatrutide is still being researched as an obesity treatment and is not approved in Europe; the EMA has not received an application. Users told De Telegraaf it is cheaper and more effective than the alternatives they can get. The paper found ten TikTok accounts selling jars of the powder. One seller who uses his own website said his sales grew from a few jars a day in January to more than 100 a day. He buys stock from China and markets it as a \"research peptide\"."
+      "Retatrutide wordt nog onderzocht als middel tegen obesitas en is in Europa niet toegelaten; de EMA heeft geen aanvraag ontvangen. Gebruikers vertelden De Telegraaf dat het goedkoper en effectiever is dan de alternatieven die zij kunnen krijgen. De krant vond tien TikTok-accounts die potjes van het poeder verkopen. Een verkoper met een eigen website zag zijn verkoop groeien van een paar potjes per dag in januari tot meer dan honderd per dag. Hij koopt in China in en verkoopt het middel als ‘onderzoekspeptide’."
      ]
     },
     {
-     "heading": "The risks",
+     "heading": "De risico’s",
      "paragraphs": [
-      "\"No one knows exactly what is inside the containers they order,\" said Gijs van Acker, medical director of the Dutch Obesity Clinic. The powder may not have been made under sterile conditions, and buyers mix it themselves, so a small miscalculation can lead to an overdose. \"Essentially, you are gambling with your life,\" he said.",
-      "The IGJ warns about illegal weight-loss products and says people in the Netherlands have been hospitalised, and some have died, after using illegal medication. It advises anyone seeking help with weight loss to see their GP and to get medication only from a licensed pharmacy."
+      "‘Niemand weet precies wat er in de potjes zit die ze bestellen,’ zegt Gijs van Acker, medisch directeur van de Nederlandse Obesitas Kliniek. Het poeder is mogelijk niet steriel gemaakt, en kopers lossen het zelf op, zodat een kleine rekenfout tot een overdosis kan leiden. ‘Eigenlijk speel je met je leven,’ zegt hij.",
+      "De IGJ waarschuwt voor illegale afslankproducten en zegt dat mensen in Nederland in het ziekenhuis zijn beland, en dat sommigen zijn overleden, na gebruik van illegale medicijnen. De inspectie raadt iedereen die hulp zoekt bij afvallen aan naar de huisarts te gaan en medicijnen alleen via een erkende apotheek te halen."
      ]
     }
    ],
    "sources": [
     {
-     "publisher": "NL Times",
+     "publisher": "NL Times (op basis van De Telegraaf)",
      "title": "Illegal weight-loss drug retatrutide on the rise in the Netherlands",
      "url": "https://nltimes.nl/2026/10/19/illegal-weight-loss-drug-retatrutide-rise-netherlands",
-     "publishedAt": "2026-10-19 09:56 CEST",
-     "kind": "Reporting"
+     "publishedAt": "19 oktober 2026, 09.56 uur",
+     "kind": "verslaggeving"
     }
    ],
    "image": {
-    "asset": "assets/editions/2026-10-20/retatrutide-illegal-sales.svg",
-    "alt": "An unlabelled jar of white powder next to a syringe and a phone screen showing a shopping bag, for an unapproved weight-loss drug sold through social media.",
-    "credit": "Editorial illustration"
+    "asset": "assets/editions/2026-10-20/illegaal-afslankmiddel-retatrutide.svg",
+    "alt": "Een potje wit poeder zonder etiket naast een injectiespuit en een telefoon met een boodschappentas op het scherm: een niet-goedgekeurd afslankmiddel dat via sociale media wordt verkocht.",
+    "credit": "Redactionele illustratie"
    }
   },
   {
-   "id": "nitrogen-farmers-confidence",
+   "id": "veehouders-verliezen-vertrouwen-stikstof",
    "section": "still",
-   "threadId": "nitrogen",
-   "threadTitle": "Nitrogen, farming and nature",
-   "threadSummary": "The long struggle to cut nitrogen emissions to protect nature, and what it means for livestock farmers.",
-   "title": "Nitrogen: most livestock farmers say the new rules have cost them faith in the future",
-   "category": "Farming & nature",
-   "region": "National",
+   "threadId": "stikstof",
+   "threadTitle": "Stikstof, landbouw en natuur",
+   "threadSummary": "De lange strijd om de stikstofuitstoot te verlagen om de natuur te beschermen, en wat dat betekent voor veehouders.",
+   "title": "Stikstof: de meeste veehouders hebben door de nieuwe regels minder vertrouwen in de toekomst",
+   "category": "Landbouw & natuur",
+   "region": "Landelijk",
    "regions": [],
-   "status": "Continuing",
+   "status": "Doorlopend",
    "eventDate": "2026-10-15",
-   "body": "Eighty-seven percent of livestock farmers say the cabinet's new nitrogen plans have reduced their confidence in the future of their farms, according to a survey of nearly 600 farmers by RTL and the trade magazine Boerderij. Six in ten dairy farmers think they cannot meet the stricter standard, and only 6 percent trust the current cabinet. Yet most are open to cleaner feed and new technology, and the Tweede Kamer is preparing an emergency law to cut emissions quickly.",
-   "whatChanged": "A large survey shows how far trust has fallen as the cabinet prepares faster, stricter nitrogen rules.",
-   "whyMatters": "Nitrogen limits decide whether farms can stay, whether nature areas recover and whether housing and roads get permits; without farmers' cooperation the targets are hard to reach.",
-   "uncertainty": "The survey reached nearly 600 farmers who chose to respond, and the details of the cabinet's plan and the emergency law are still being worked out.",
-   "watchNext": "The emergency nitrogen law in the Tweede Kamer, and how Agriculture Minister Jaimi van Essen responds to farmers' doubts.",
+   "body": "Zevenentachtig procent van de veehouders zegt dat de nieuwe stikstofplannen van het kabinet hun vertrouwen in de toekomst van hun bedrijf hebben aangetast, blijkt uit een enquête van RTL en vakblad Boerderij onder bijna zeshonderd veehouders. Zes op de tien melkveehouders denken niet aan de strengere norm te kunnen voldoen, en maar 6 procent heeft vertrouwen in het kabinet. Toch staan de meesten open voor schoner voer en nieuwe technieken, en de Tweede Kamer werkt aan een spoedwet om de uitstoot snel te verlagen.",
+   "whatChanged": "Een grote enquête laat zien hoe ver het vertrouwen is gedaald nu het kabinet snellere en strengere stikstofregels voorbereidt.",
+   "whyMatters": "Stikstofgrenzen bepalen of boerenbedrijven kunnen blijven, of natuurgebieden herstellen en of woningbouw en wegen een vergunning krijgen; zonder medewerking van boeren zijn de doelen moeilijk te halen.",
+   "uncertainty": "De enquête bereikte bijna zeshonderd veehouders die zelf reageerden, en de uitwerking van het kabinetsplan en de spoedwet ligt nog niet vast.",
+   "watchNext": "De stikstofspoedwet in de Tweede Kamer en hoe landbouwminister Jaimi van Essen reageert op de twijfels van boeren.",
    "keyFacts": [
-    "87 percent say the new nitrogen plans have reduced their confidence in their farm's future",
-    "Six in ten dairy farmers think they cannot meet the stricter standard; 4 percent expect to meet it without major changes",
-    "63 percent may invest in emission-cutting technology; nearly three-quarters are open to lower-protein feed",
-    "6 percent trust the current cabinet and 7 percent trust Agriculture Minister Jaimi van Essen"
+    "87 procent zegt dat de nieuwe stikstofplannen hun vertrouwen in de toekomst van hun bedrijf hebben aangetast",
+    "Zes op de tien melkveehouders denken niet aan de strengere norm te kunnen voldoen; 4 procent verwacht dat zonder grote aanpassingen wel",
+    "63 procent wil mogelijk investeren in emissiearme techniek; bijna driekwart staat open voor eiwitarmer voer",
+    "6 procent vertrouwt het kabinet, 7 procent landbouwminister Jaimi van Essen"
    ],
    "report": [
     {
-     "heading": "What farmers say",
+     "heading": "Wat boeren zeggen",
      "paragraphs": [
-      "RTL and Boerderij surveyed nearly 600 livestock farmers. Eighty-seven percent said the cabinet's new nitrogen plans had reduced their confidence in the future of their farms. Six in ten dairy farmers believe they cannot meet the stricter standard; only 4 percent expect to meet it without major changes, and one in five think it is possible only with extra investment. One farmer wrote that meeting the requirements would mean investing more than €2.1 million, roughly doubling the mortgage.",
-      "Trust in government is very low: 6 percent have confidence in the current cabinet and 7 percent in Agriculture Minister Jaimi van Essen. Two-thirds say farmer protests should stay public-friendly, but one in five consider intimidating politicians and officials acceptable."
+      "RTL en Boerderij ondervroegen bijna zeshonderd veehouders. Zevenentachtig procent zegt dat de nieuwe stikstofplannen van het kabinet hun vertrouwen in de toekomst van hun bedrijf hebben aangetast. Zes op de tien melkveehouders denken de strengere norm niet te kunnen halen; slechts 4 procent verwacht dat zonder grote aanpassingen te kunnen, en een op de vijf alleen met extra investeringen. Een boer schreef dat hij daarvoor meer dan 2,1 miljoen euro moet investeren, ongeveer een verdubbeling van zijn hypotheek.",
+      "Het vertrouwen in de politiek is zeer laag: 6 procent heeft vertrouwen in het kabinet en 7 procent in landbouwminister Jaimi van Essen. Twee derde vindt dat boerenacties publieksvriendelijk moeten blijven, maar een op de vijf vindt intimidatie van politici en bestuurders toelaatbaar."
      ]
     },
     {
-     "heading": "Room for change",
+     "heading": "Ruimte voor verandering",
      "paragraphs": [
-      "The survey also shows willingness to act. Sixty-three percent are potentially willing to invest in technology that cuts emissions, and nearly three-quarters are open to lower-protein feed, which can limit ammonia emissions. Many say the problem is the pace and the constant changes: \"Every four years there are different rules,\" one farmer, Maaike, told RTL."
+      "De enquête laat ook bereidheid zien. Drieënzestig procent wil mogelijk investeren in techniek die de uitstoot verlaagt, en bijna driekwart staat open voor eiwitarmer voer, waarmee de ammoniakuitstoot kan dalen. Veel boeren zeggen dat vooral het tempo en de steeds wisselende regels het probleem zijn. ‘Elke vier jaar zijn er andere regels,’ zei veehouder Maaike tegen RTL."
      ]
     },
     {
-     "heading": "What comes next",
+     "heading": "Hoe nu verder",
      "paragraphs": [
-      "The Tweede Kamer is preparing an emergency law to reduce nitrogen emissions quickly. Farmers say that pace may be impossible to meet."
+      "De Tweede Kamer werkt aan een spoedwet om de stikstofuitstoot snel te verlagen. Volgens boeren is dat tempo mogelijk niet haalbaar."
      ]
     }
    ],
    "sources": [
     {
-     "publisher": "NL Times",
+     "publisher": "NL Times (op basis van RTL en Boerderij)",
      "title": "87% of Dutch livestock farmers lose faith in future over nitrogen rules",
      "url": "https://nltimes.nl/2026/10/15/87-dutch-livestock-farmers-lose-faith-future-nitrogen-rules",
-     "publishedAt": "2026-10-15 21:10 CEST",
-     "kind": "Reporting"
+     "publishedAt": "15 oktober 2026, 21.10 uur",
+     "kind": "verslaggeving"
     }
    ],
    "visual": {
     "type": "bars",
-    "title": "Livestock farmers on the new nitrogen rules",
-    "measure": "Share of nearly 600 surveyed livestock farmers (RTL / Boerderij)",
+    "title": "Veehouders over de nieuwe stikstofregels",
+    "measure": "Aandeel van bijna 600 ondervraagde veehouders (RTL / Boerderij)",
     "unit": "%",
     "values": [
      {
-      "label": "Less confident",
+      "label": "Minder vertrouwen",
       "value": 87
      },
      {
-      "label": "Open to new tech",
+      "label": "Open voor techniek",
       "value": 63
      },
      {
-      "label": "Trust cabinet",
+      "label": "Vertrouwt kabinet",
       "value": 6
      }
     ],
     "sourceUrl": "https://nltimes.nl/2026/10/15/87-dutch-livestock-farmers-lose-faith-future-nitrogen-rules",
-    "alt": "A bar chart: 87 percent of surveyed livestock farmers are less confident about their future, 63 percent are open to emission-cutting technology, and 6 percent trust the cabinet.",
-    "caption": "RTL and Boerderij survey of nearly 600 livestock farmers, via NL Times."
+    "alt": "Staafdiagram: 87 procent van de ondervraagde veehouders heeft minder vertrouwen in de toekomst, 63 procent staat open voor emissiearme techniek en 6 procent vertrouwt het kabinet.",
+    "caption": "Enquête van RTL en Boerderij onder bijna 600 veehouders, via NL Times."
    }
   }
  ],
  "watch": [
   {
-   "title": "Regional transport · October 22",
-   "text": "The second strike day in the regional bus and train dispute; watch how many services run outside the big cities and whether employers make a new offer."
+   "title": "Streekvervoer · 22 oktober",
+   "text": "De tweede stakingsdag in het conflict over de cao; let op hoeveel bussen en treinen buiten de grote steden rijden en of de werkgevers met een nieuw bod komen."
   },
   {
-   "title": "Albert Heijn · October 23",
-   "text": "Home deliveries are due to restart after the cyberattack; a further delay would suggest the systems are not yet fully restored."
+   "title": "Albert Heijn · 23 oktober",
+   "text": "De thuisbezorging moet na de cyberaanval hervatten; nieuw uitstel zou erop wijzen dat de systemen nog niet volledig hersteld zijn."
   },
   {
-   "title": "Tweede Kamer · after the recess",
-   "text": "MPs debate the infrastructure plan; watch whether a majority tries to rescue projects such as the Afsluitdijk lock, the Ameland ferry or the N65."
+   "title": "Tweede Kamer · na het reces",
+   "text": "Debat over het infrastructuurplan; let op of een meerderheid projecten probeert te redden, zoals de sluis in de Afsluitdijk, de veerdienst naar Ameland of de N65."
   }
  ],
  "regions": {
   "groningen": {
-   "summary": "The region's governments object to a JA21 plan to keep the gas field on standby, while the Nedersaksenlijn rail link to Twente keeps its funding. In the city, a party wants an inquiry into two deaths in a squalid care building.",
+   "summary": "De overheden in de regio verzetten zich tegen een plan van JA21 om het gasveld achter de hand te houden, terwijl de Nedersaksenlijn naar Twente zijn geld behoudt. In de stad wil een partij onderzoek naar twee sterfgevallen in een vervuild zorgpand.",
    "briefs": [
     {
-     "title": "City party wants inquiry into deaths in a Vinkhuizen care building",
-     "eventDate": "October 19, 2026",
-     "text": "Stadspartij 100% voor Groningen wants an independent investigation into care at a building on Smaragdstraat, where a 26-year-old and a 42-year-old resident died within five days of each other in August 2025, as DvhN reported earlier this year. The municipality says it was not responsible for overseeing the care, which it says fell to health insurer Menzis.",
+     "title": "Stadspartij wil onderzoek naar sterfgevallen in zorgpand in Vinkhuizen",
+     "eventDate": "2026-10-19",
+     "text": "Stadspartij 100% voor Groningen wil een onafhankelijk onderzoek naar de zorg in een pand aan de Smaragdstraat, waar in augustus 2025 binnen vijf dagen een bewoner van 26 en een van 42 overleden, zoals DvhN eerder dit jaar meldde. De gemeente zegt niet verantwoordelijk te zijn voor het toezicht op die zorg; dat lag volgens haar bij zorgverzekeraar Menzis.",
      "sources": [
       {
        "publisher": "OOG Groningen",
        "title": "Stadspartij wil onafhankelijk onderzoek naar gang van zaken rond overleden bewoners in zorgpand Vinkhuizen",
        "url": "https://www.oogtv.nl/2026/10/stadspartij-wil-onafhankelijk-onderzoek-naar-zorg-rond-overleden-bewoners-zorgpand-smaragdstraat/",
-       "publishedAt": "2026-10-19 13:38 CEST",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026, 13.38 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "University of Groningen gets €1 million to study health in climate lawsuits",
-     "eventDate": "October 19, 2026",
-     "text": "Researchers from the University of Groningen and Columbia Law School received €1 million from the Wellcome Trust to study how health damage features in climate cases worldwide, and to expand a database of about 4,000 climate cases from more than 55 countries.",
+     "title": "RUG krijgt miljoen euro voor onderzoek naar gezondheid in klimaatzaken",
+     "eventDate": "2026-10-19",
+     "text": "Onderzoekers van de Rijksuniversiteit Groningen en Columbia Law School krijgen een miljoen euro van het Wellcome Trust om te onderzoeken hoe gezondheidsschade een rol speelt in klimaatrechtszaken wereldwijd, en om een database van zo’n vierduizend klimaatzaken uit meer dan 55 landen uit te breiden.",
      "sources": [
       {
        "publisher": "OOG Groningen",
        "title": "RUG krijgt miljoen euro voor onderzoek naar gezondheid in rechtszaken over klimaat",
        "url": "https://www.oogtv.nl/2026/10/rug-krijgt-miljoen-euro-voor-onderzoek-naar-gezondheid-in-rechtszaken-over-klimaat/",
-       "publishedAt": "2026-10-19 12:55 CEST",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026, 12.55 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "The Nedersaksenlijn survives the infrastructure cuts",
-     "eventDate": "October 16, 2026",
-     "text": "The planned rail line between Groningen and Twente is one of only 16 new projects the cabinet still funds this term, while 29 others were postponed.",
+     "title": "Nedersaksenlijn overleeft de bezuinigingen op infrastructuur",
+     "eventDate": "2026-10-16",
+     "text": "De geplande spoorlijn tussen Groningen en Twente is een van de slechts zestien nieuwe projecten die het kabinet deze periode nog betaalt, terwijl 29 andere zijn uitgesteld.",
      "sources": [
       {
        "publisher": "NL Times",
        "title": "No funding for 29 projects in gov't infrastructure plans, €16 billion for maintenance",
        "url": "https://nltimes.nl/2026/10/16/funding-29-projects-govt-infrastructure-plans-eu16-billion-maintenance",
-       "publishedAt": "2026-10-16 08:38 CEST",
-       "kind": "Reporting"
+       "publishedAt": "16 oktober 2026, 08.38 uur",
+       "kind": "verslaggeving"
       }
      ]
     }
    ]
   },
   "friesland": {
-   "summary": "Friesland is the biggest loser in the cabinet's infrastructure choices: no wider Afsluitdijk lock, no faster Ameland ferry and no new rail bridge at Leeuwarden. The province also lost its longest-serving councillor.",
+   "summary": "Friesland is de grootste verliezer van de infrastructuurkeuzes van het kabinet: geen bredere sluis in de Afsluitdijk, geen snellere boot naar Ameland en geen nieuwe spoorbrug in Leeuwarden. De provincie verloor ook haar langstzittende raadslid.",
    "briefs": [
     {
-     "title": "Leeuwarden loses €105 million for a new rail bridge over the Van Harinxmakanaal",
-     "eventDate": "October 18, 2026",
-     "text": "Minister Karremans has withdrawn the €80 million of national money that, with €25 million from the region, was to replace the old rail bridge with an aqueduct. A skipper's wheelhouse was torn off when the bridge closed on his barge in 2023. Alderman Evert Stellingwerf called the decision disappointing; inland shipping operators are angry.",
+     "title": "Leeuwarden loopt 105 miljoen mis voor nieuwe spoorbrug over het Van Harinxmakanaal",
+     "eventDate": "2026-10-18",
+     "text": "Minister Karremans heeft de 80 miljoen euro aan rijksgeld ingetrokken waarmee, samen met 25 miljoen van de regio, de oude spoorbrug door een aquaduct zou worden vervangen. In 2023 werd bij een binnenvaartschipper de stuurhut van zijn schip gerukt toen de brug halverwege dichtging. Wethouder Evert Stellingwerf noemt het besluit teleurstellend; de binnenvaart is boos.",
      "sources": [
       {
        "publisher": "Omroep Leeuwarden",
        "title": "Leeuwarden krijgt geen geld voor vervanging oude spoorbrug over Van Harinxmakanaal",
        "url": "https://omroepleeuwarden.nl/leeuwarden-krijgt-geen-geld-voor-vervanging-oude-spoorbrug-over-van-harinxmakanaal/",
-       "publishedAt": "2026-10-18",
-       "kind": "Reporting"
+       "publishedAt": "18 oktober 2026",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Rinze Visser, the country's longest-serving councillor, dies at 87",
-     "eventDate": "October 18, 2026",
-     "text": "Visser, known as Fryslân's oldest communist, was first elected to the Lemsterland council in 1970 and was re-elected 14 times in a row, later in De Fryske Marren. He stepped down before the March 2026 elections; with no successor, communism no longer has an elected seat in Frisian politics.",
+     "title": "Rinze Visser, het langstzittende raadslid van Nederland, overleden",
+     "eventDate": "2026-10-18",
+     "text": "Visser, bekend als Fryslâns oudste communist, werd in 1970 voor het eerst in de gemeenteraad van Lemsterland gekozen en daarna veertien keer op rij herkozen, later in De Fryske Marren. Hij stopte voor de verkiezingen van maart 2026; omdat er geen opvolger was, heeft het communisme geen gekozen vertegenwoordiger meer in de Friese politiek.",
      "sources": [
       {
        "publisher": "NOS",
        "title": "'Fryslâns oudste communist' en langstzittende raadslid Rinze Visser (87) overleden",
        "url": "https://nos.nl/artikel/2635469-fryslans-oudste-communist-en-langstzittende-raadslid-rinze-visser-87-overleden",
-       "publishedAt": "2026-10-18 14:00 CEST",
-       "kind": "Reporting"
+       "publishedAt": "18 oktober 2026, 14.00 uur",
+       "kind": "verslaggeving"
       }
      ]
     }
    ]
   },
   "drenthe": {
-   "summary": "Doctors have quit the strict asylum location in Hoogeveen, North Drenthe joins Groningen against keeping the gas field on standby, and the Zuidlaardermarkt horse fair is under way.",
+   "summary": "Artsen zijn vertrokken bij de strenge opvanglocatie in Hoogeveen, Noord-Drenthe sluit zich aan bij Groningen tegen het achter de hand houden van het gasveld, en de Zuidlaardermarkt is in volle gang.",
    "briefs": [
     {
-     "title": "A Qbuzz bus burns out at Hoogersmilde; everyone gets off in time",
-     "eventDate": "October 19, 2026",
-     "text": "A diesel bus on the Assen–Steenwijk line caught fire on the N371 on Monday morning. The driver and all passengers got out unhurt; the cause is not yet known.",
+     "title": "Lijnbus van Qbuzz brandt uit bij Hoogersmilde; iedereen op tijd eruit",
+     "eventDate": "2026-10-19",
+     "text": "Een dieselbus op de lijn Assen–Steenwijk vloog maandagochtend op de N371 in brand. De chauffeur en alle passagiers kwamen ongedeerd naar buiten; de oorzaak is nog onbekend.",
      "sources": [
       {
        "publisher": "NOS",
        "title": "Lijnbus uitgebrand in Hoogersmilde, passagiers komen met de schrik vrij",
        "url": "https://nos.nl/artikel/2635583-lijnbus-uitgebrand-in-hoogersmilde-passagiers-komen-met-de-schrik-vrij",
-       "publishedAt": "2026-10-19 13:21 CEST",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026, 13.21 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Extra night buses for the Zuidlaardermarkt",
-     "eventDate": "October 19–20, 2026",
-     "text": "The Zuidlaardermarkt, the oldest and largest horse market in the Netherlands, runs on 19 and 20 October, with extra night buses between Zuidlaren and Assen, Vries, Eelde, Groningen, Hoogezand, Veendam and Gieten.",
+     "title": "Extra nachtbussen voor de Zuidlaardermarkt",
+     "eventDate": "2026-10-19 / 2026-10-20",
+     "text": "De Zuidlaardermarkt, de oudste en grootste paardenmarkt van Nederland, is op 19 en 20 oktober. Er rijden extra (nacht)bussen tussen Zuidlaren en Assen, Vries, Eelde, Groningen, Hoogezand, Veendam en Gieten.",
      "sources": [
       {
        "publisher": "Vries.nu",
        "title": "Extra (nacht)bussen voor Zuidlaardermarkt",
        "url": "https://www.vries.nu/voorpagina/extra-nachtbussen-voor-zuidlaardermarkt/",
-       "publishedAt": "2026-10-16",
-       "kind": "Reporting"
+       "publishedAt": "16 oktober 2026",
+       "kind": "verslaggeving"
       }
      ]
     }
    ]
   },
   "overijssel": {
-   "summary": "The illness on a Grolsch tour in Enschede was caused by caustic soda, Dutch and German police target heavy fireworks smuggled over the border, and the Nedersaksenlijn and a Deventer housing site keep their funding.",
+   "summary": "De mensen die onwel werden bij Grolsch in Enschede kregen natronloog binnen, Nederlandse en Duitse politie jagen samen op zwaar vuurwerk dat over de grens komt, en de Nedersaksenlijn en een woningbouwlocatie in Deventer houden hun geld.",
    "briefs": [
     {
-     "title": "Dutch and German police step up the hunt for heavy fireworks in the border region",
-     "eventDate": "October 19, 2026",
-     "text": "Explosives and heavy fireworks used in attacks in cities such as Amsterdam and Rotterdam come into the country via Germany and Belgium, AD reports. Police on both sides of the border are starting a new approach with more investigations, checks and seizures.",
+     "title": "Nederlandse en Duitse politie jagen samen op zwaar vuurwerk in de grensstreek",
+     "eventDate": "2026-10-19",
+     "text": "Explosieven en zwaar vuurwerk waarmee in steden als Amsterdam en Rotterdam aanslagen worden gepleegd, komen via Duitsland en België het land in, meldt het AD. De politie aan beide kanten van de grens begint een nieuwe aanpak met meer onderzoek, controles en inbeslagnames.",
      "sources": [
       {
        "publisher": "AD",
        "title": "Nederlandse en Duitse politie jagen in grensregio op zwaar vuurwerk: 'Explosieven uit handen georganiseerde misdaad'",
        "url": "https://www.ad.nl/enschede/nederlandse-en-duitse-politie-jagen-in-grensregio-op-zwaar-vuurwerk-explosieven-uit-handen-georganiseerde-misdaad~a4172b23/",
-       "publishedAt": "2026-10-19 23:55 CEST",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026, 23.55 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Twente rail link and a Deventer housing site keep their money",
-     "eventDate": "October 16, 2026",
-     "text": "The Nedersaksenlijn between Groningen and Twente and infrastructure for a large housing site in Deventer are among the 16 new projects the cabinet still funds this term.",
+     "title": "Spoorlijn naar Twente en woningbouw in Deventer houden hun geld",
+     "eventDate": "2026-10-16",
+     "text": "De Nedersaksenlijn tussen Groningen en Twente en infrastructuur voor een grote woningbouwlocatie in Deventer behoren tot de zestien nieuwe projecten die het kabinet deze periode nog betaalt.",
      "sources": [
       {
        "publisher": "NL Times",
        "title": "No funding for 29 projects in gov't infrastructure plans, €16 billion for maintenance",
        "url": "https://nltimes.nl/2026/10/16/funding-29-projects-govt-infrastructure-plans-eu16-billion-maintenance",
-       "publishedAt": "2026-10-16 08:38 CEST",
-       "kind": "Reporting"
+       "publishedAt": "16 oktober 2026, 08.38 uur",
+       "kind": "verslaggeving"
       }
      ]
     }
    ]
   },
   "flevoland": {
-   "summary": "The state will move businesses and farmers to make room for F-35 fighters at Lelystad Airport, and residents of Almere and Lelystad feel less safe in their neighbourhoods than elsewhere in the Amsterdam region.",
+   "summary": "Het Rijk verplaatst bedrijven en boeren om ruimte te maken voor F-35’s op Lelystad Airport, en inwoners van Almere en Lelystad voelen zich in hun buurt vaker onveilig dan elders in de regio Amsterdam.",
    "briefs": [
     {
-     "title": "Six companies and four farmers must move for F-35s at Lelystad Airport",
-     "eventDate": "October 16, 2026",
-     "text": "Defence will expand Lelystad Airport by 240 hectares, 200 for military facilities and 40 for a longer runway, to station F-35 fighter jets there. State Secretary Derk Boswijk said he understands the project has significant consequences for those affected.",
+     "title": "Zes bedrijven en vier boeren moeten wijken voor F-35’s op Lelystad Airport",
+     "eventDate": "2026-10-16",
+     "text": "Defensie breidt Lelystad Airport uit met 240 hectare, 200 voor militaire voorzieningen en 40 voor een langere landingsbaan, om er F-35-straaljagers te stationeren. Staatssecretaris Derk Boswijk zegt te begrijpen dat het project grote gevolgen heeft voor de betrokkenen.",
      "sources": [
       {
        "publisher": "NL Times",
        "title": "Gov't forcing 6 companies, 4 farmers to move to expand Lelystad Airport for F-35 use",
        "url": "https://nltimes.nl/2026/10/16/govt-forcing-6-companies-4-farmers-move-expand-lelystad-airport-f-35-use",
-       "publishedAt": "2026-10-16 17:00 CEST",
-       "kind": "Reporting"
+       "publishedAt": "16 oktober 2026, 17.00 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Almere and Lelystad residents feel less safe than the regional average",
-     "eventDate": "October 19, 2026",
-     "text": "According to the Economic Outlook for the Amsterdam Metropolitan Area 2026, people in Almere and Lelystad feel unsafe in their own neighbourhood more often than the regional average, and have less trust in other people and in institutions.",
+     "title": "Inwoners van Almere en Lelystad voelen zich vaker onveilig dan gemiddeld",
+     "eventDate": "2026-10-19",
+     "text": "Volgens de Economische Verkenningen Metropoolregio Amsterdam 2026 voelen inwoners van Almere en Lelystad zich vaker onveilig in hun eigen buurt dan gemiddeld in de regio, en hebben ze minder vertrouwen in andere mensen en in instanties.",
      "sources": [
       {
        "publisher": "1Almere",
        "title": "Inwoners Almere en Lelystad voelen zich vaker onveilig in eigen buurt",
        "url": "https://1almere.nl/nieuws/artikel/inwoners-almere-en-lelystad-voelen-zich-vaker-onveilig-in-eigen-buurt",
-       "publishedAt": "2026-10-19",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Charging-point firm Blue Marble left €1.4 million in debts",
-     "eventDate": "October 19, 2026",
-     "text": "The Almere company, declared bankrupt with three sister firms at the end of September, has more than €1.4 million in known debts, according to the receiver's first report cited by De Stentor. Separately, Flevoland says it sees little room for more asylum places and that other regions should take their turn.",
+     "title": "Failliet laadpalenbedrijf Blue Marble laat 1,4 miljoen schuld achter",
+     "eventDate": "2026-10-19",
+     "text": "Het Almeerse bedrijf, eind september met drie zusterbedrijven failliet verklaard, heeft volgens het eerste verslag van de curator, aangehaald door De Stentor, ruim 1,4 miljoen euro aan bekende schulden. Los daarvan ziet Flevoland weinig ruimte voor extra asielopvang en vindt de provincie dat andere regio’s aan zet zijn.",
      "sources": [
       {
        "publisher": "1Almere",
        "title": "1Almere in 1 minuut, 19 oktober 2026",
        "url": "https://1almere.nl/nieuws/artikel/1almere-in-1-minuut-19-oktober-2026",
-       "publishedAt": "2026-10-19",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026",
+       "kind": "verslaggeving"
       }
      ]
     }
    ]
   },
   "gelderland": {
-   "summary": "Trains between Arnhem and Utrecht stop for 12 days from today, at least ten municipalities cannot say whether their bridges are brittle, and wolves are changing how deer and boar behave on the Veluwe.",
+   "summary": "Vanaf vandaag rijden er twaalf dagen geen treinen tussen Arnhem en Utrecht, zeker tien gemeenten weten niet of hun bruggen bros zijn, en de wolf verandert het gedrag van herten en zwijnen op de Veluwe.",
    "briefs": [
     {
-     "title": "No trains between Arnhem and Driebergen-Zeist until Friday",
-     "eventDate": "October 20–31, 2026",
-     "text": "ProRail is maintaining track and building a railway underpass near Wolfheze. Until 23 October no trains run between Driebergen-Zeist and Arnhem Centraal or Rhenen; from 24 to 31 October the gap is Arnhem–Ede-Wageningen. NS runs replacement buses and suggests travelling via 's-Hertogenbosch or Deventer.",
+     "title": "Tot vrijdag geen treinen tussen Arnhem en Driebergen-Zeist",
+     "eventDate": "2026-10-20 / 2026-10-31",
+     "text": "ProRail doet onderhoud aan het spoor en bouwt een onderdoorgang bij Wolfheze. Tot en met 23 oktober rijden er geen treinen tussen Driebergen-Zeist en Arnhem Centraal of Rhenen; van 24 tot en met 31 oktober ligt het traject Arnhem–Ede-Wageningen stil. NS zet bussen in en raadt aan om via ’s-Hertogenbosch of Deventer te reizen.",
      "sources": [
       {
        "publisher": "NL Times",
        "title": "Trains between Arnhem and Utrecht to be suspended for 12 days starting October 20",
        "url": "https://nltimes.nl/2026/10/18/trains-arnhem-utrecht-suspended-12-days-starting-october-20",
-       "publishedAt": "2026-10-18 17:15 CEST",
-       "kind": "Reporting"
+       "publishedAt": "18 oktober 2026, 17.15 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "At least ten municipalities don't know whether they have brittle bridges",
-     "eventDate": "October 19, 2026",
-     "text": "An Omroep Gelderland survey found that municipalities including Doetinchem, Lochem, Druten, Wijchen, Winterswijk and Tiel do not know whether they own 1950s and 1960s concrete bridges with prestressing steel that can become brittle. Most will not investigate; Druten and Wijchen will. TU Delft professor Hans Ramler called it striking.",
+     "title": "Zeker tien gemeenten weten niet of ze brosse bruggen hebben",
+     "eventDate": "2026-10-19",
+     "text": "Uit een rondgang van Omroep Gelderland blijkt dat onder meer Doetinchem, Lochem, Druten, Wijchen, Winterswijk en Tiel niet weten of ze betonnen bruggen uit de jaren vijftig en zestig hebben met voorspanstaal dat bros kan worden. De meeste gemeenten gaan niet verder zoeken; Druten en Wijchen wel. TU Delft-hoogleraar Hans Ramler noemt het opvallend.",
      "sources": [
       {
        "publisher": "NL Times",
        "title": "Survey: At least 10 Gelderland municipalities don't know if they have vulnerable bridges",
        "url": "https://nltimes.nl/2026/10/19/survey-least-10-gelderland-municipalities-dont-know-vulnerable-bridges",
-       "publishedAt": "2026-10-19 06:30 CEST",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026, 06.30 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Wolves make the Veluwe's deer and boar more alert",
-     "eventDate": "October 17, 2026",
-     "text": "With just under a hundred wolves now on the Veluwe, wild boar move in larger groups and roe deer graze more at night, the Gelderland wildlife management unit says. The wolf slows the growth of boar numbers but not enough to stop the need for culling.",
+     "title": "De wolf maakt herten en zwijnen op de Veluwe alerter",
+     "eventDate": "2026-10-17",
+     "text": "Nu er net geen honderd wolven op de Veluwe leven, trekken wilde zwijnen in grotere groepen op en grazen reeën vaker ’s nachts, zegt de Faunabeheereenheid Gelderland. De wolf remt de groei van het aantal zwijnen, maar niet genoeg om afschot overbodig te maken.",
      "sources": [
       {
        "publisher": "NOS",
        "title": "Wolf maakt zwijnen en herten op Veluwe alerter: 'Vroeger zat er weinig pit in'",
        "url": "https://nos.nl/artikel/2635314-wolf-maakt-zwijnen-en-herten-op-veluwe-alerter-vroeger-zat-er-weinig-pit-in",
-       "publishedAt": "2026-10-17 08:20 CEST",
-       "kind": "Reporting"
+       "publishedAt": "17 oktober 2026, 08.20 uur",
+       "kind": "verslaggeving"
       }
      ]
     }
    ]
   },
   "utrecht": {
-   "summary": "Train works cut the Utrecht–Arnhem line from today, the city's audit office says its road-safety policy lacks direction, and schools face cuts in money for pupils at risk of falling behind.",
+   "summary": "Werk aan het spoor knipt vanaf vandaag de lijn Utrecht–Arnhem door, de rekenkamer vindt dat de stad haar verkeersveiligheidsbeleid te weinig stuurt, en scholen krijgen minder geld voor leerlingen met een achterstand.",
    "briefs": [
     {
-     "title": "Audit office: Utrecht must steer its road-safety policy more clearly",
-     "eventDate": "October 19, 2026",
-     "text": "The Rekenkamer Utrecht concludes that the city needs to direct its road-safety approach more clearly and carry it out more consistently. The number of traffic casualties is falling, but residents are less satisfied with road safety.",
+     "title": "Rekenkamer: Utrecht moet verkeersveiligheid beter aansturen",
+     "eventDate": "2026-10-19",
+     "text": "De Rekenkamer Utrecht concludeert dat de stad haar aanpak van verkeersveiligheid duidelijker moet aansturen en consequenter moet uitvoeren. Het aantal verkeersslachtoffers daalt, maar inwoners zijn minder tevreden over de verkeersveiligheid.",
      "sources": [
       {
        "publisher": "Mobiliteit.nl",
        "title": "Utrecht moet aanpak verkeersveiligheid beter aansturen en uitvoeren",
        "url": "https://www.mobiliteit.nl/beleid/2026/10/19/utrecht-moet-aanpak-verkeersveiligheid-beter-aansturen-en-uitvoeren/",
-       "publishedAt": "2026-10-19",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Amersfoort school could lose a third of its disadvantage funding",
-     "eventDate": "October 19, 2026",
-     "text": "A national redistribution of money for pupils at risk of falling behind may cost Amersfoort's Vlinderslag school more than €100,000, nearly a third of what it now receives. The city of Utrecht expects to lose €7.2 million a year from 2027 for the same reason.",
+     "title": "Amersfoortse school dreigt een derde van haar achterstandsgeld kwijt te raken",
+     "eventDate": "2026-10-19",
+     "text": "Door een landelijke herverdeling van het geld voor onderwijsachterstanden kan kindcentrum Vlinderslag in Amersfoort ruim een ton mislopen, bijna een derde van wat het nu krijgt. De gemeente Utrecht verwacht om dezelfde reden vanaf 2027 jaarlijks 7,2 miljoen euro minder.",
      "sources": [
       {
        "publisher": "RTV Utrecht",
        "title": "Minder geld voor Vlinderslag in Amersfoort: 'Dit raakt kinderen die het echt nodig hebben'",
        "url": "https://www.rtvutrecht.nl/nieuws/4106143/minder-geld-voor-vlinderslag-in-amersfoort-dit-raakt-kinderen-die-het-echt-nodig-hebben",
-       "publishedAt": "2026-10-19 20:17 CEST",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026, 20.17 uur",
+       "kind": "verslaggeving"
       },
       {
        "publisher": "DUIC",
        "title": "Utrecht verliest miljoenen voor onderwijs en kampt met groeiend tekort voor schoolgebouwen",
        "url": "https://www.duic.nl/algemeen/algemeen/61220/utrecht-verliest-miljoenen-voor-onderwijs-en-kampt-met-groeiend-tekort-voor-schoolgebouwen",
-       "publishedAt": "2026-10-13 14:02 CEST",
-       "kind": "Reporting"
+       "publishedAt": "13 oktober 2026, 14.02 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "UMC Utrecht team wins €50,000 to give voiceless patients their own voice back",
-     "eventDate": "October 19, 2026",
-     "text": "The ReVoice project, started by Boudewijn Faber, who lost his voice to laryngeal cancer, uses AI to turn speech through a voice prosthesis into a voice resembling the patient's own, built from a few seconds of old recordings. The prize money will fund a first prototype.",
+     "title": "UMC Utrecht wint 50.000 euro om stemloze patiënten hun eigen stem terug te geven",
+     "eventDate": "2026-10-19",
+     "text": "Het project ReVoice, bedacht door Boudewijn Faber, die zijn stem verloor door strottenhoofdkanker, gebruikt AI om spraak via een stemprothese om te zetten in een stem die lijkt op die van de patiënt zelf, op basis van een paar seconden oude opnames. Met het prijzengeld wordt een eerste prototype gebouwd.",
      "sources": [
       {
        "publisher": "DUIC",
        "title": "UMC Utrecht werkt aan techniek waarmee patiënten na stemverlies hun eigen stem terugkrijgen",
        "url": "https://www.duic.nl/nieuws/wetenschap/61268/umc-utrecht-werkt-aan-techniek-waarmee-patienten-na-stemverlies-hun-eigen-stem-terugkrijgen",
-       "publishedAt": "2026-10-19 14:36 CEST",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026, 14.36 uur",
+       "kind": "verslaggeving"
       }
      ]
     }
    ]
   },
-  "north-holland": {
-   "summary": "Police are looking for a man seen with Hajar before she disappeared, Floradorp had another night of unrest, and Amsterdam's festivals say rising taxes are pricing out international guests.",
+  "noord-holland": {
+   "summary": "De politie zoekt een man die met Hajar werd gezien voor ze verdween, het Floradorp beleefde opnieuw een onrustige avond, en Amsterdamse festivals zeggen dat hogere belastingen internationale gasten wegjagen.",
    "briefs": [
     {
-     "title": "Amsterdam festivals say higher taxes are hurting culture",
-     "eventDate": "October 19, 2026",
-     "text": "IDFA, De Balie and the Holland Festival say rising hotel and travel costs make it harder to bring in international guests. Amsterdam plans to raise its tourist tax from 12.5 percent of the room price to 16 percent, and eventually 20, after a national VAT rise on overnight stays.",
+     "title": "Amsterdamse festivals: hogere belastingen schaden de cultuur",
+     "eventDate": "2026-10-19",
+     "text": "IDFA, De Balie en het Holland Festival zeggen dat stijgende hotel- en reiskosten het moeilijker maken internationale gasten te laten komen. Amsterdam wil de toeristenbelasting verhogen van 12,5 procent van de kamerprijs naar 16 procent, en later 20 procent, na een landelijke btw-verhoging op overnachtingen.",
      "sources": [
       {
        "publisher": "NL Times",
        "title": "Higher taxes further damaging Amsterdam culture sector, ADE, IDFA & other festivals warn",
        "url": "https://nltimes.nl/2026/10/19/higher-taxes-damaging-amsterdam-culture-sector-ade-idfa-festivals-warn",
-       "publishedAt": "2026-10-19 12:00 CEST",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026, 12.00 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Man, 81, dies after a home robbery in Schagen; suspect caught in Obdam",
-     "eventDate": "October 16–17, 2026",
-     "text": "The man was seriously injured in a robbery at his home on Groenling and died shortly after reaching hospital. Police boxed in the fleeing car between Heerhugowaard and Obdam and arrested a 36-year-old man with no fixed address.",
+     "title": "Man (81) overleden na woningoverval in Schagen; verdachte in Obdam gepakt",
+     "eventDate": "2026-10-16 / 2026-10-17",
+     "text": "De man raakte bij een overval in zijn huis aan de Groenling zwaargewond en overleed kort na aankomst in het ziekenhuis. De politie sneed de vluchtauto af tussen Heerhugowaard en Obdam en hield een 36-jarige man zonder vaste woon- of verblijfplaats aan.",
      "sources": [
       {
        "publisher": "NOS",
        "title": "Man (81) overleden na woningoverval in Schagen, verdachte opgepakt",
        "url": "https://nos.nl/artikel/2635340-man-81-overleden-na-woningoverval-in-schagen-verdachte-opgepakt",
-       "publishedAt": "2026-10-17 12:51 CEST",
-       "kind": "Reporting"
+       "publishedAt": "17 oktober 2026, 12.51 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Zuidasdok delay could cost hundreds of millions, alderman warns",
-     "eventDate": "October 17, 2026",
-     "text": "Amsterdam alderman Moeskops says postponing the northern part of Zuidasdok leaves the city with a building site and traffic jams for longer and risks losing the investment already made. He expects to meet Minister Karremans soon.",
+     "title": "Uitstel Zuidasdok kan honderden miljoenen kosten, waarschuwt wethouder",
+     "eventDate": "2026-10-17",
+     "text": "Volgens de Amsterdamse wethouder Moeskops zit de stad door het uitstel van het noordelijke deel van de Zuidasdok langer met een bouwput en files, en dreigt de investering die al is gedaan verloren te gaan. Hij verwacht binnenkort met minister Karremans te praten.",
      "sources": [
       {
        "publisher": "NL Times",
        "title": "Amsterdam alderman warns of rising costs as Cabinet postpones major Zuidasdok project",
        "url": "https://nltimes.nl/2026/10/17/amsterdam-alderman-warns-rising-costs-cabinet-postpones-major-zuidasdok-project",
-       "publishedAt": "2026-10-17 09:15 CEST",
-       "kind": "Reporting"
+       "publishedAt": "17 oktober 2026, 09.15 uur",
+       "kind": "verslaggeving"
       }
      ]
     }
    ]
   },
-  "south-holland": {
-   "summary": "A final report finds a Leiden lab technician fathered 16 children with his own sperm, a car went off the Dordrecht ferry ramp for the fourth time since 2020, and the Calandbrug in the port is shut by another fault.",
+  "zuid-holland": {
+   "summary": "Een eindrapport toont dat een Leidse laborant met zijn eigen zaad zestien kinderen verwekte, voor de vierde keer sinds 2020 reed een auto bij Dordrecht van de veerstoep, en de Calandbrug in de haven ligt opnieuw stil door een storing.",
    "briefs": [
     {
-     "title": "Leiden lab technician fathered 16 children, not 11, final report finds",
-     "eventDate": "October 17, 2026",
-     "text": "MC Kinderwens' final report says the technician at its predecessor clinic used his own sperm between 1979 and 1984 under other donors' names, and carried two genetic conditions. Donor children told Omroep West the report plays down the risks.",
+     "title": "Leidse laborant verwekte niet elf maar zestien kinderen, blijkt uit eindrapport",
+     "eventDate": "2026-10-17",
+     "text": "Volgens het eindrapport van MC Kinderwens gebruikte de laborant van de voorganger van de kliniek tussen 1979 en 1984 zijn eigen zaad onder de namen van andere donoren; hij was drager van twee erfelijke aandoeningen. Donorkinderen zeggen tegen Omroep West dat het rapport de risico’s bagatelliseert.",
      "sources": [
       {
        "publisher": "NOS",
        "title": "Leidse laborant verwekte niet 11 maar 16 kinderen met eigen zaad",
        "url": "https://nos.nl/artikel/2635333-leidse-laborant-verwekte-niet-11-maar-16-kinderen-met-eigen-zaad",
-       "publishedAt": "2026-10-17 12:01 CEST",
-       "kind": "Reporting"
+       "publishedAt": "17 oktober 2026, 12.01 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Man dies after car goes into the water at the Dordrecht ferry ramp",
-     "eventDate": "October 18, 2026",
-     "text": "Three occupants were pulled from the car at the ferry to Werkendam on Sunday evening; a 63-year-old man died in hospital. A woman died at the same spot in December 2024, and cars also went into the water there in 2020 and 2022. The road runs straight onto the ramp with no barrier.",
+     "title": "Man overleden nadat auto bij veerstoep Dordrecht te water raakt",
+     "eventDate": "2026-10-18",
+     "text": "Bij het pontje naar Werkendam werden zondagavond drie inzittenden uit de auto gehaald; een man van 63 overleed in het ziekenhuis. Op dezelfde plek kwam in december 2024 een vrouw om het leven, en ook in 2020 en 2022 raakten er auto’s te water. De weg loopt recht door op de veerstoep, zonder slagboom.",
      "sources": [
       {
        "publisher": "NOS",
        "title": "Opnieuw fataal ongeluk bij veerpontoprit Dordrecht, man (63) overleden",
        "url": "https://nos.nl/artikel/2635580-opnieuw-fataal-ongeluk-bij-veerpontoprit-dordrecht-man-63-overleden",
-       "publishedAt": "2026-10-19 12:55 CEST",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026, 12.55 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Calandbrug closed again after another fault",
-     "eventDate": "October 19–20, 2026",
-     "text": "The rail and road bridge at Rozenburg in the Rotterdam port, closed for several days last week, broke down again; it was still shut to traffic and shipping on Tuesday morning. ProRail says it is unclear when the problem will be fixed.",
+     "title": "Calandbrug opnieuw dicht na storing",
+     "eventDate": "2026-10-19 / 2026-10-20",
+     "text": "De spoor- en verkeersbrug bij Rozenburg in de Rotterdamse haven, vorige week al dagen dicht, kreeg opnieuw een storing en was dinsdagochtend nog gesloten voor weg- en scheepvaartverkeer. Volgens ProRail is onduidelijk wanneer het probleem is verholpen.",
      "sources": [
       {
        "publisher": "AD",
        "title": "Weer een storing bij de Calandbrug: onduidelijk wanneer de problemen zijn opgelost",
        "url": "https://www.ad.nl/voorne-aan-zee/weer-een-storing-bij-de-calandbrug-onduidelijk-wanneer-de-problemen-zijn-opgelost~adfefd73/",
-       "publishedAt": "2026-10-20 00:04 CEST",
-       "kind": "Reporting"
+       "publishedAt": "20 oktober 2026, 00.04 uur",
+       "kind": "verslaggeving"
       }
      ]
     }
    ]
   },
   "zeeland": {
-   "summary": "A man died in a flat fire in Terneuzen, a Belgian appeals court jailed the man who left four-year-old Dean's body on Neeltje Jans, and a powder found near the Covra nuclear-waste site proved harmless.",
+   "summary": "Bij een flatbrand in Terneuzen kwam een man om, een Belgisch hof veroordeelde de man die het lichaam van de vierjarige Dean op Neeltje Jans achterliet, en verdacht poeder bij het terrein van Covra bleek onschuldig.",
    "briefs": [
     {
-     "title": "Man, 50, dies in a Terneuzen flat fire",
-     "eventDate": "October 17, 2026",
-     "text": "The fire broke out on Saturday evening in a second-floor flat on Diepenbrockstraat and was under control within half an hour. All residents were evacuated and several homes are temporarily uninhabitable; the cause has not been made public.",
+     "title": "Man (50) komt om bij flatbrand in Terneuzen",
+     "eventDate": "2026-10-17",
+     "text": "De brand brak zaterdagavond uit in een flat op de tweede verdieping aan de Diepenbrockstraat en was binnen een halfuur onder controle. Alle bewoners werden geëvacueerd en enkele woningen zijn tijdelijk onbewoonbaar; over de oorzaak is niets bekendgemaakt.",
      "sources": [
       {
        "publisher": "NOS",
        "title": "Dode bij woningbrand Terneuzen, meerdere appartementen onbewoonbaar",
        "url": "https://nos.nl/artikel/2635451-dode-bij-woningbrand-terneuzen-meerdere-appartementen-onbewoonbaar",
-       "publishedAt": "2026-10-18 11:07 CEST",
-       "kind": "Reporting"
+       "publishedAt": "18 oktober 2026, 11.07 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Thirty years for Dave De K., who left Dean's body on Neeltje Jans",
-     "eventDate": "October 19, 2026",
-     "text": "The court in Ghent sentenced him to 30 years in prison and 15 years of TBS for killing and kidnapping four-year-old Dean. His Dutch ex-girlfriend Romy W. was acquitted of kidnapping but convicted over images of child abuse.",
+     "title": "Dertig jaar cel voor Dave De K., die het lichaam van Dean op Neeltje Jans achterliet",
+     "eventDate": "2026-10-19",
+     "text": "Het hof in Gent veroordeelde hem tot dertig jaar cel en vijftien jaar tbs voor het doden en ontvoeren van de vierjarige Dean. Zijn Nederlandse ex-vriendin Romy W. werd vrijgesproken van ontvoering, maar veroordeeld voor bezit en verspreiding van beelden van kindermisbruik.",
      "sources": [
       {
        "publisher": "NOS",
        "title": "Dave De K. krijgt 30 jaar cel voor dood en ontvoering van 4-jarige Dean",
        "url": "https://nos.nl/artikel/2635679-dave-de-k-krijgt-30-jaar-cel-voor-dood-en-ontvoering-van-4-jarige-dean",
-       "publishedAt": "2026-10-19 15:37 CEST",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026, 15.37 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Suspicious powder near the Covra site in Nieuwdorp proves harmless",
-     "eventDate": "October 19, 2026",
-     "text": "Police, customs and the fire service closed the Italiëweg opposite Covra, the national radioactive-waste store, after a powder was found on Monday morning. Tests showed it was harmless and the road reopened in the early afternoon.",
+     "title": "Verdacht poeder bij Covra in Nieuwdorp blijkt onschuldig",
+     "eventDate": "2026-10-19",
+     "text": "Politie, douane en brandweer sloten maandagochtend de Italiëweg af tegenover Covra, de nationale opslag voor radioactief afval, nadat er een poeder was gevonden. Onderzoek wees uit dat het onschuldig was; begin van de middag ging de weg weer open.",
      "sources": [
       {
        "publisher": "HVZeeland",
        "title": "Onderzoek na aantreffen verdachte stof bij Nieuwdorp",
        "url": "https://www.hvzeeland.nl/nieuws/70638-onderzoek-na-aantreffen-verdachte-stof-bij-nieuwdorp/",
-       "publishedAt": "2026-10-19 11:54 CEST",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026, 11.54 uur",
+       "kind": "verslaggeving"
       }
      ]
     }
    ]
   },
-  "north-brabant": {
-   "summary": "The N65 upgrade is delayed for the sixth time, police say the suspect and the victim in the Beek en Donk killing were a couple, and a man fell into an open bin pit in Den Bosch.",
+  "noord-brabant": {
+   "summary": "De opwaardering van de N65 loopt voor de zesde keer vertraging op, verdachte en slachtoffer in de zaak in Beek en Donk hadden een relatie, en in Den Bosch viel een man in de put van een ondergrondse container.",
    "briefs": [
     {
-     "title": "Beek en Donk: suspect and victim were in a relationship",
-     "eventDate": "October 17–19, 2026",
-     "text": "The body of a 50-year-old woman from Tilburg was found in a house in Beek en Donk early on Saturday. Police confirmed that the 56-year-old suspect and the woman were a couple; he is expected to be brought before a judge on Tuesday.",
+     "title": "Beek en Donk: verdachte en slachtoffer hadden een relatie",
+     "eventDate": "2026-10-17 / 2026-10-19",
+     "text": "Zaterdagnacht werd in een woning in Beek en Donk het lichaam gevonden van een 50-jarige vrouw uit Tilburg. De politie bevestigt dat de 56-jarige verdachte en de vrouw een relatie hadden; hij wordt naar verwachting dinsdag voorgeleid.",
      "sources": [
       {
        "publisher": "NOS",
        "title": "Dode vrouw in woning Beek en Donk, man (56) aangehouden",
        "url": "https://nos.nl/artikel/2635296-dode-vrouw-in-woning-beek-en-donk-man-56-aangehouden",
-       "publishedAt": "2026-10-17 04:05 CEST",
-       "kind": "Reporting"
+       "publishedAt": "17 oktober 2026, 04.05 uur",
+       "kind": "verslaggeving"
       },
       {
        "publisher": "ZeelandNet / ANP",
        "title": "Verdachte en slachtoffer Beek en Donk hadden een relatie",
        "url": "https://www.zeelandnet.nl/nieuws/verdachte-en-slachtoffer-beek-en-donk-hadden-een-relatie",
-       "publishedAt": "2026-10-19 14:17 CEST",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026, 14.17 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Man falls into a three-metre bin pit in Den Bosch",
-     "eventDate": "October 19, 2026",
-     "text": "An older man fell into the hole of an underground waste container that was being emptied on Monday morning and lay there for more than half an hour before being taken to hospital in Tilburg, Omroep Brabant reports.",
+     "title": "Man valt in drie meter diepe containerput in Den Bosch",
+     "eventDate": "2026-10-19",
+     "text": "Een oudere man viel maandagochtend in de put van een ondergrondse container die werd geleegd, en lag er ruim een halfuur voordat hij naar het ziekenhuis in Tilburg werd gebracht, meldt Omroep Brabant.",
      "sources": [
       {
        "publisher": "NOS",
        "title": "Oudere man valt in metersdiep gat van straatcontainer in Den Bosch",
        "url": "https://nos.nl/artikel/2635571-oudere-man-valt-in-metersdiep-gat-van-straatcontainer-in-den-bosch",
-       "publishedAt": "2026-10-19 11:23 CEST",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026, 11.23 uur",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Wedding ring lost in 1942 found in Odiliapeel",
-     "eventDate": "October 17, 2026",
-     "text": "A metal detectorist found the ring Jo Nabuurs lost while threshing behind the family farm in the winter of 1942–43, about 20 centimetres underground, and returned it to his son.",
+     "title": "Trouwring uit 1942 teruggevonden in Odiliapeel",
+     "eventDate": "2026-10-17",
+     "text": "Een man met een metaaldetector vond op zo’n twintig centimeter diepte de ring die Jo Nabuurs in de winter van 1942 op 1943 verloor bij het dorsen achter de ouderlijke boerderij, en gaf hem terug aan zijn zoon.",
      "sources": [
       {
        "publisher": "NOS",
        "title": "Trouwring na 83 jaar teruggevonden in Brabants dorp: 'Nog in goede staat'",
        "url": "https://nos.nl/artikel/2635376-trouwring-na-83-jaar-teruggevonden-in-brabants-dorp-nog-in-goede-staat",
-       "publishedAt": "2026-10-17 17:39 CEST",
-       "kind": "Reporting"
+       "publishedAt": "17 oktober 2026, 17.39 uur",
+       "kind": "verslaggeving"
       }
      ]
     }
    ]
   },
   "limburg": {
-   "summary": "Two people were hurt in a jewellery robbery in Maastricht, Brightlands was named the world's Intelligent Community of the Year, and five A76 viaducts keep their renewal money.",
+   "summary": "Bij een overval op een juwelier in Maastricht raakten twee mensen gewond, Brightlands werd uitgeroepen tot slimste regio van de wereld, en vijf viaducten van de A76 houden hun geld voor vernieuwing.",
    "briefs": [
     {
-     "title": "Two injured in robbery at a Maastricht jeweller",
-     "eventDate": "October 19, 2026",
-     "text": "Jeweller Steiner on Stokstraat was robbed at about 10:40 on Monday and two people were injured. Police say the two men fled towards Onze Lieve Vrouweplein and the Maas.",
+     "title": "Twee gewonden bij overval op juwelier in Maastricht",
+     "eventDate": "2026-10-19",
+     "text": "Juwelier Steiner aan de Stokstraat werd maandag rond 10.40 uur overvallen; twee mensen raakten gewond. Volgens de politie vluchtten de twee mannen richting het Onze Lieve Vrouweplein en de Maas.",
      "sources": [
       {
        "publisher": "L1 Nieuws",
        "title": "L1 Nieuws, 19 oktober 2026",
        "url": "https://limburg.headliner.nl/item/l1-nieuws-19-oktober-2026-l1-49827",
-       "publishedAt": "2026-10-19",
-       "kind": "Reporting"
+       "publishedAt": "19 oktober 2026",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Brightlands named Intelligent Community of the Year",
-     "eventDate": "October 16, 2026",
-     "text": "The Intelligent Community Forum chose Limburg's four Brightlands campuses in Maastricht, Heerlen, Sittard-Geleen and Venlo, citing cooperation between government, business and research and the region's recovery since the mines closed. The Chemelot campus is now preparing to join a European pilot for faster permits and lower energy prices, L1 reports.",
+     "title": "Brightlands uitgeroepen tot Intelligent Community of the Year",
+     "eventDate": "2026-10-16",
+     "text": "Het Intelligent Community Forum koos de vier Brightlands-campussen in Maastricht, Heerlen, Sittard-Geleen en Venlo, vanwege de samenwerking tussen overheid, bedrijven en onderzoek en het herstel van de regio sinds de sluiting van de mijnen. De campus Chemelot bereidt zich nu voor op deelname aan een Europese proef voor snellere vergunningen en lagere energieprijzen, meldt L1.",
      "sources": [
       {
        "publisher": "Brightlands",
        "title": "Limburg named Intelligent Community of the Year 2026",
        "url": "https://www.brightlands.com/en/news/limburg-named-intelligent-community-year-2026",
-       "publishedAt": "2026-10-16",
-       "kind": "Press release"
+       "publishedAt": "16 oktober 2026",
+       "kind": "persbericht"
       },
       {
        "publisher": "DutchNews.nl",
        "title": "Limburg named the world's \"most intelligent region\"",
        "url": "https://www.dutchnews.nl/2026/10/limburg-named-the-worlds-most-intelligent-region/",
-       "publishedAt": "2026-10-16",
-       "kind": "Reporting"
+       "publishedAt": "16 oktober 2026",
+       "kind": "verslaggeving"
       }
      ]
     },
     {
-     "title": "Five A76 viaducts in South Limburg keep their funding",
-     "eventDate": "October 16, 2026",
-     "text": "The renewal of five viaducts on the A76 is among the projects the cabinet still pays for in its new infrastructure plan, as is infrastructure for a large housing site in Weert.",
+     "title": "Vijf viaducten van de A76 in Zuid-Limburg houden hun geld",
+     "eventDate": "2026-10-16",
+     "text": "De vernieuwing van vijf viaducten op de A76 hoort bij de projecten die het kabinet in zijn nieuwe infrastructuurplan nog betaalt, net als infrastructuur voor een grote woningbouwlocatie in Weert.",
      "sources": [
       {
        "publisher": "NL Times",
        "title": "No funding for 29 projects in gov't infrastructure plans, €16 billion for maintenance",
        "url": "https://nltimes.nl/2026/10/16/funding-29-projects-govt-infrastructure-plans-eu16-billion-maintenance",
-       "publishedAt": "2026-10-16 08:38 CEST",
-       "kind": "Reporting"
+       "publishedAt": "16 oktober 2026, 08.38 uur",
+       "kind": "verslaggeving"
       }
      ]
     }

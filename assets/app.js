@@ -5,7 +5,7 @@
   const $ = s => document.querySelector(s);
   const $$ = s => [...document.querySelectorAll(s)];
   const escape = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  const pretty = value => new Date(value + 'T12:00:00Z').toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric',timeZone:'UTC'});
+  const pretty = value => new Date(value + 'T12:00:00Z').toLocaleDateString('nl-NL',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'});
   const toast = text => { const box = $('.toast'); box.textContent=text;box.hidden=false;clearTimeout(toast.timer);toast.timer=setTimeout(()=>box.hidden=true,3500); };
   let lastFocus;
   function openDialog(dialog) { lastFocus=document.activeElement; dialog.showModal(); dialog.scrollTop=0; dialog.querySelector('.close').focus(); }
@@ -32,15 +32,15 @@
   }));
   $('#share-edition')?.addEventListener('click',async()=>{
     const url=new URL(`${prefix}editions/${edition.date}/`,location.href).href;
-    try {await navigator.clipboard.writeText(url);toast('Edition link copied.');}
-    catch {toast('Copy this edition’s link from your address bar.');}
+    try {await navigator.clipboard.writeText(url);toast('Link naar de editie gekopieerd.');}
+    catch {toast('Kopieer de link naar deze editie uit je adresbalk.');}
   });
   const progress=()=>{const max=document.documentElement.scrollHeight-innerHeight;$('.progress').style.width=(max>0?Math.min(100,scrollY/max*100):0)+'%';};
   addEventListener('scroll',progress,{passive:true});addEventListener('resize',progress);progress();
   const note=$('#stale-note');
   if(note && !location.pathname.includes('/editions/')){
     const age=Date.now()-new Date(edition.cutoff).getTime();
-    if(age>40*3600000){note.hidden=false;note.textContent=`The latest published edition is ${pretty(edition.date)}. This page is an edition, not a live news feed.`;}
+    if(age>40*3600000){note.hidden=false;note.textContent=`De laatst verschenen editie is van ${pretty(edition.date)}. Dit is een editie, geen live nieuwsfeed.`;}
   }
   // Catch me up: choose how long you were away; stories are grouped by thread, biggest first.
   const VISIT_KEY='hetgetij:lastVisit';
@@ -51,13 +51,13 @@
   writeVisit();
   const RANGES=[1,3,7,14,30];
   let choice=awayDays==null?'7':String(RANGES.find(n=>n>=Math.max(1,awayDays))||30);
-  const welcomeText=awayDays>=2?`Welcome back. You were last here ${awayDays} days ago.`:'';
+  const welcomeText=awayDays>=2?`Welkom terug. Je was hier ${awayDays} dagen geleden voor het laatst.`:'';
   const banner=$('#welcome-back');
   if(banner&&welcomeText&&!location.pathname.includes('/editions/')){banner.hidden=false;banner.querySelector('span').textContent=welcomeText;}
-  if(welcomeText){const w=$('#catchup-welcome');w.hidden=false;w.textContent=welcomeText+' Here is what changed.';}
+  if(welcomeText){const w=$('#catchup-welcome');w.hidden=false;w.textContent=welcomeText+' Dit is er veranderd.';}
   const dayDiff=(a,b)=>Math.round((new Date(a+'T12:00:00Z')-new Date(b+'T12:00:00Z'))/86400000);
   const WEIGHT={world:3,still:2,ai:2,frontiers:2,more:1};
-  const sectionName=s=>s==='ai'||s==='frontiers'?'Frontiers':s==='more'?'More that changed':s==='still'?'Still matters':'World';
+  const sectionName=s=>s==='ai'||s==='frontiers'?'Voorhoede':s==='more'?'Wat er nog veranderde':s==='still'?'Blijft belangrijk':'Nederland';
   function groupThreads(list,latestDate){
     const groups=new Map();
     list.forEach(ed=>ed.stories.forEach(s=>{
@@ -72,8 +72,8 @@
   function threadCard(g,primer){
     const last=g.items.at(-1),s=last.story,n=g.items.length;
     const earlier=g.items.slice(0,-1).reverse();
-    const older=earlier.length?`<details class="cu-earlier"><summary>${earlier.length} more report${earlier.length>1?'s':''}</summary>${earlier.map(i=>`<p><small>${escape(pretty(i.date))}</small> <strong>${escape(i.story.t)}.</strong> ${escape(i.story.w)}</p>`).join('')}</details>`:'';
-    const meta=primer?sectionName(s.s):`${sectionName(s.s)} · ${n} report${n>1?'s':''}`;
+    const older=earlier.length?`<details class="cu-earlier"><summary>${earlier.length} eerder${earlier.length>1?'e berichten':' bericht'}</summary>${earlier.map(i=>`<p><small>${escape(pretty(i.date))}</small> <strong>${escape(i.story.t)}.</strong> ${escape(i.story.w)}</p>`).join('')}</details>`:'';
+    const meta=primer?sectionName(s.s):`${sectionName(s.s)} · ${n} ${n>1?'berichten':'bericht'}`;
     const lead=primer&&s.hs?`<p class="cu-summary">${escape(s.hs)}</p>`:'';
     return `<article class="cu-thread"><span class="eyebrow">${escape(meta)}</span><h3><a href="${prefix}threads/${encodeURIComponent(g.h)}/">${escape(s.ht)} ↗</a></h3>${lead}<p class="cu-latest"><small>${escape(pretty(last.date))}</small> <a href="${prefix}stories/${encodeURIComponent(s.id)}/">${escape(s.t)}</a>. ${escape(s.u||s.w)}</p>${older}</article>`;
   }
@@ -81,7 +81,7 @@
   async function catchup(){
     const ticket=++request,target=$('#catchup-results');
     $$('[data-days]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.days===choice)));
-    target.innerHTML='<p>Gathering the stories…</p>';
+    target.innerHTML='<p>De verhalen worden verzameld…</p>';
     try{
       dataPromise ||= fetch(prefix+'data/catchup.json').then(r=>{if(!r.ok)throw Error('Unavailable');return r.json();});
       const data=await dataPromise;if(ticket!==request)return;
@@ -89,18 +89,18 @@
       if(choice==='new'){
         const list=data.editions.filter(x=>dayDiff(latestDate,x.date)<14);
         const top=groupThreads(list,latestDate).slice(0,6);
-        target.innerHTML='<p class="cu-intro">New here? These are the biggest stories we’re following. Each one opens a timeline of everything we’ve reported on it.</p>'+top.map(g=>threadCard(g,true)).join('');
+        target.innerHTML='<p class="cu-intro">Nieuw hier? Dit zijn de grootste verhalen die we volgen. Elk opent een tijdlijn van alles wat we erover meldden.</p>'+top.map(g=>threadCard(g,true)).join('');
         return;
       }
       const days=Number(choice);
       const list=data.editions.filter(x=>dayDiff(latestDate,x.date)<days);
-      if(!list.length){target.innerHTML='<h3>You’re up to date.</h3><p>Nothing new has been published in that time.</p>';return;}
+      if(!list.length){target.innerHTML='<h3>Je bent helemaal bij.</h3><p>In die periode is niets nieuws verschenen.</p>';return;}
       const groups=groupThreads(list,latestDate),shown=groups.slice(0,10),rest=groups.slice(10);
-      const young=dayDiff(latestDate,data.first)+1<days?` Het Getij began on ${escape(pretty(data.first))}, so this covers everything so far.`:'';
-      const intro=`<p class="cu-intro">${list.length} edition${list.length>1?'s':''} · ${groups.length} stor${groups.length>1?'ies':'y'}, biggest first.${young}</p>`;
-      const more=rest.length?`<details class="cu-more"><summary>${rest.length} more stor${rest.length>1?'ies':'y'}</summary>${rest.map(g=>threadCard(g,false)).join('')}</details>`:'';
+      const young=dayDiff(latestDate,data.first)+1<days?` Het Getij begon op ${escape(pretty(data.first))}, dus dit is alles tot nu toe.`:'';
+      const intro=`<p class="cu-intro">${list.length} ${list.length>1?'edities':'editie'} · ${groups.length} ${groups.length>1?'verhalen':'verhaal'}, grootste eerst.${young}</p>`;
+      const more=rest.length?`<details class="cu-more"><summary>Nog ${rest.length} ${rest.length>1?'verhalen':'verhaal'}</summary>${rest.map(g=>threadCard(g,false)).join('')}</details>`:'';
       target.innerHTML=intro+shown.map(g=>threadCard(g,false)).join('')+more;
-    }catch{dataPromise=null;target.innerHTML=`<p>The catch-up view could not load. <a href="${prefix}archive/"><u>Browse the archive instead →</u></a></p>`;}
+    }catch{dataPromise=null;target.innerHTML=`<p>Bijpraten kon niet worden geladen. <a href="${prefix}archive/"><u>Blader liever door het archief →</u></a></p>`;}
   }
   $$('[data-days]').forEach(b=>b.addEventListener('click',()=>{choice=b.dataset.days;catchup();}));
 

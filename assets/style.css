@@ -263,3 +263,7 @@ body.quick .more-details,body.quick .more-item .card-more{display:none}
 .atlas svg image{pointer-events:none}
 @media(min-width:1000px){.ai-section .story-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:480px){.navlinks a{white-space:nowrap}.catchup{white-space:nowrap}}
+/* No tall empty gaps in the card grids: cards keep their own height and the Follow / Full report row sits right under the text */
+.world-grid{align-items:start}
+.world-grid .story-card:not(.lead) .card-foot,.ai-section .story-card .card-foot{margin-top:18px}
+.ai-section .story-grid{align-items:start}

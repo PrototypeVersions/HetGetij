@@ -71,28 +71,39 @@ def map_svg(story, visual):
         if not (west<=point['lon']<=east and south<=point['lat']<=north): continue
         x,y=project(point['lon'],point['lat']); anchor='end' if x>860 else 'start'; offset=-15 if anchor=='end' else 15
         body+=f'<circle cx="{x:.1f}" cy="{y:.1f}" r="12" fill="#f0954a" fill-opacity=".15"/><circle cx="{x:.1f}" cy="{y:.1f}" r="5" fill="#f6ad6c" stroke="#09131d" stroke-width="2"/><text x="{x+offset:.1f}" y="{y-15:.1f}" text-anchor="{anchor}" fill="#d8e7f5" stroke="#0b1825" stroke-width="5" paint-order="stroke" font-family="Arial,sans-serif" font-size="30">{ESC(point.get("mapLabel",point["label"]))}</text>'
-    body+=f'<text x="54" y="62" fill="#f0954a" font-family="Arial,sans-serif" font-size="22" letter-spacing="3">{ESC(visual["title"].upper())}</text><path d="M54 738H1146" stroke="#2b4052"/><circle cx="62" cy="768" r="5" fill="#f0954a"/><text x="80" y="775" fill="#9fb5c9" font-family="Arial,sans-serif" font-size="18">Approximate reporting locations · country outlines simplified</text>'
+    body+=f'<text x="54" y="62" fill="#f0954a" font-family="Arial,sans-serif" font-size="22" letter-spacing="3">{ESC(visual["title"].upper())}</text><path d="M54 738H1146" stroke="#2b4052"/><circle cx="62" cy="768" r="5" fill="#f0954a"/><text x="80" y="775" fill="#9fb5c9" font-family="Arial,sans-serif" font-size="18">Locaties bij benadering · landsgrenzen vereenvoudigd</text>'
     return svg_shell(visual['title'],visual['alt'],body)
 
+def nl_num(x):
+    """Dutch number formatting: 11,6 rather than 11.6."""
+    return f'{x:g}'.replace('.', ',')
+
+def nice_step(top):
+    raw = top / 3
+    mag = 10 ** math.floor(math.log10(raw)) if raw > 0 else 1
+    for m in (1, 2, 2.5, 5, 10):
+        if m * mag >= raw: return m * mag
+    return 10 * mag
+
 def bar_svg(visual):
-    values=visual['values']; ceiling=math.ceil(max(v['value'] for v in values)/5)*5
-    if ceiling==0: ceiling=1
+    values=visual['values']; step=nice_step(max(v['value'] for v in values) or 1); ceiling=step*3
     body=f'<text x="70" y="90" fill="#c5d9f1" font-family="Georgia,serif" font-size="48">{ESC(visual["title"])}</text>'
     for i in range(4):
-        value=ceiling*i/3; y=630-value/ceiling*395
-        body+=f'<path d="M100 {y:.1f}H1110" stroke="#2b4052"/><text x="82" y="{y+7:.1f}" text-anchor="end" fill="#9fb5c9" font-family="Arial,sans-serif" font-size="20">{value:g}{ESC(visual["unit"])}</text>'
+        value=step*i; y=630-value/ceiling*395
+        body+=f'<path d="M100 {y:.1f}H1110" stroke="#2b4052"/><text x="82" y="{y+7:.1f}" text-anchor="end" fill="#9fb5c9" font-family="Arial,sans-serif" font-size="20">{nl_num(value)}{ESC(visual["unit"])}</text>'
     width=min(240,700/len(values)); stride=940/len(values)
     for i,item in enumerate(values):
         x=130+i*stride+(stride-width)/2;height=item['value']/ceiling*395;y=630-height
         color='#f0954a' if i==len(values)-1 else '#668aa7'
-        body+=f'<rect x="{x:.1f}" y="{y:.1f}" width="{width:.1f}" height="{height:.1f}" fill="{color}"/><text x="{x+width/2:.1f}" y="{y-23:.1f}" text-anchor="middle" fill="#d8e7f5" font-family="Georgia,serif" font-size="60">{item["value"]:g}{ESC(visual["unit"])}</text><text x="{x+width/2:.1f}" y="678" text-anchor="middle" fill="#b9cfe2" font-family="Arial,sans-serif" font-size="40">{ESC(item["label"])}</text>'
+        size=min(40, int((stride-24)/(0.55*max(1,len(item['label'])))))
+        body+=f'<rect x="{x:.1f}" y="{y:.1f}" width="{width:.1f}" height="{height:.1f}" fill="{color}"/><text x="{x+width/2:.1f}" y="{y-23:.1f}" text-anchor="middle" fill="#d8e7f5" font-family="Georgia,serif" font-size="60">{nl_num(item["value"])}{ESC(visual["unit"])}</text><text x="{x+width/2:.1f}" y="678" text-anchor="middle" fill="#b9cfe2" font-family="Arial,sans-serif" font-size="{size}">{ESC(item["label"])}</text>'
     body+=f'<text x="70" y="753" fill="#9fb5c9" font-family="Arial,sans-serif" font-size="28">{ESC(visual["measure"])}</text>'
     return svg_shell(visual['title'],visual['alt'],body)
 
 # ---------------------------------------------------------------- Netherlands
 PROVINCE_SLUGS = {'Groningen': 'groningen', 'Fryslân': 'friesland', 'Drenthe': 'drenthe', 'Overijssel': 'overijssel',
-                  'Flevoland': 'flevoland', 'Gelderland': 'gelderland', 'Utrecht': 'utrecht', 'Noord-Holland': 'north-holland',
-                  'Zuid-Holland': 'south-holland', 'Zeeland': 'zeeland', 'Noord-Brabant': 'north-brabant', 'Limburg': 'limburg'}
+                  'Flevoland': 'flevoland', 'Gelderland': 'gelderland', 'Utrecht': 'utrecht', 'Noord-Holland': 'noord-holland',
+                  'Zuid-Holland': 'zuid-holland', 'Zeeland': 'zeeland', 'Noord-Brabant': 'noord-brabant', 'Limburg': 'limburg'}
 
 def province_polygons():
     scale = NL['transform']['scale']; translate = NL['transform']['translate']
@@ -130,7 +141,7 @@ def nl_overview_svg(width=520, height=620):
     for slug, polys in PROVINCES:
         d = ' '.join('M'+' L'.join(f'{x:.1f},{y:.1f}' for x, y in (nl_project(lon, lat, width, height) for lon, lat in r))+' Z' for poly in polys for r in poly)
         paths += f'<path data-province="{slug}" d="{d}"/>'
-    return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}"><title>The Netherlands by province</title>'
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}"><title>Nederland per provincie</title>'
             f'<g fill="#1c3449" stroke="#6f8aa1" stroke-width=".9" stroke-linejoin="round" fill-rule="evenodd">{paths}</g></svg>')
 
 def nl_map_svg(story, visual):
@@ -164,7 +175,7 @@ def nl_map_svg(story, visual):
         body += (f'<circle cx="{x:.1f}" cy="{y:.1f}" r="12" fill="#f0954a" fill-opacity=".15"/><circle cx="{x:.1f}" cy="{y:.1f}" r="5" fill="#f6ad6c" stroke="#09131d" stroke-width="2"/>'
                  f'<text x="{x+offset:.1f}" y="{ly:.1f}" text-anchor="{anchor}" fill="#d8e7f5" stroke="#0b1825" stroke-width="5" paint-order="stroke" font-family="Arial,sans-serif" font-size="28">{ESC(point.get("mapLabel", point["label"]))}</text>')
     body += (f'<text x="54" y="62" fill="#f0954a" font-family="Arial,sans-serif" font-size="22" letter-spacing="3">{ESC(visual["title"].upper())}</text><path d="M54 738H1146" stroke="#2b4052"/>'
-             f'<circle cx="62" cy="768" r="5" fill="#f0954a"/><text x="80" y="775" fill="#9fb5c9" font-family="Arial,sans-serif" font-size="18">Approximate reporting locations · province outlines: CBS / Kadaster</text>')
+             f'<circle cx="62" cy="768" r="5" fill="#f0954a"/><text x="80" y="775" fill="#9fb5c9" font-family="Arial,sans-serif" font-size="18">Locaties bij benadering · provinciegrenzen: CBS / Kadaster</text>')
     return svg_shell(visual['title'], visual['alt'], body)
 
 def prepare_visuals(edition, out):
@@ -179,11 +190,11 @@ def prepare_visuals(edition, out):
                 d=' '.join('M'+' L'.join(f'{(lon+180)*2.2:.1f},{(84-lat)*2.45:.1f}' for lon,lat in ring)+' Z' for ring in poly)
                 paths+=f'<path d="{d}"/>'
         overview.parent.mkdir(parents=True,exist_ok=True)
-        overview.write_text(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 355"><title>World overview, Natural Earth geography</title><g fill="#1c3449" stroke="#6f8aa1" stroke-width=".5" fill-rule="evenodd">{paths}</g></svg>')
+        overview.write_text(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 355"><title>Wereldkaart, Natural Earth</title><g fill="#1c3449" stroke="#6f8aa1" stroke-width=".5" fill-rule="evenodd">{paths}</g></svg>')
     for story in edition['stories']:
         visual=story.get('visual')
         if not visual: continue
         kind=visual['type']; svg=nl_map_svg(story,visual) if kind=='nl' else map_svg(story,visual) if kind=='map' else bar_svg(visual)
         asset=f'assets/visuals/{edition["date"]}/{story["id"]}.svg'
         target=out/asset;target.parent.mkdir(parents=True,exist_ok=True);target.write_text(svg)
-        story['image']={'asset':asset,'alt':visual['alt'],'credit':'Map data: CBS / Kadaster' if kind=='nl' else 'Map data: Natural Earth' if kind=='map' else visual['caption']}
+        story['image']={'asset':asset,'alt':visual['alt'],'credit':'Kaartgegevens: CBS / Kadaster' if kind=='nl' else 'Kaartgegevens: Natural Earth' if kind=='map' else visual['caption']}
