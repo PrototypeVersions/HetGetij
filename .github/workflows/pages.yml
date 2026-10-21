@@ -25,6 +25,8 @@ jobs:
           python-version: '3.12'
       - name: Validate and build the publication
         run: python scripts/build.py
+      - name: Add temporary site-development notice
+        run: python scripts/add_pause_notice.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
