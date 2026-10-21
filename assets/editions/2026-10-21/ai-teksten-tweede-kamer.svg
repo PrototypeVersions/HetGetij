@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Een spreekgestoelte met een microfoon en een tekstvel waarop een deel van de regels oranje oplicht met een klein sterretje, bij het onderzoek naar Kamerleden die hun spreekteksten met AI schrijven.">
+<title>Een spreekgestoelte met een microfoon en een tekstvel waarop een deel van de regels oranje oplicht met een klein sterretje, bij het onderzoek naar Kamerleden die hun spreekteksten met AI schrijven.</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#102335"/><stop offset="1" stop-color="#09131d"/></linearGradient>
+<radialGradient id="vig" cx=".5" cy=".45" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".5"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1200" height="800" fill="url(#bg)"/>
+<path d="M0 640 H1200 V800 H0 Z" fill="#0b1824"/><path d="M0 640 H1200" stroke="#2a4155" stroke-width="3"/><path d="M450 640 L480 400 H720 L750 640 Z" fill="#1d3b57" stroke="#b3c6d6" stroke-width="6" stroke-linejoin="round"/>
+<path d="M420 400 H780 L760 350 H440 Z" fill="#16304a" stroke="#b3c6d6" stroke-width="5" stroke-linejoin="round"/>
+<path d="M650 350 Q660 260 590 230" fill="none" stroke="#5a7791" stroke-width="7" stroke-linecap="round"/>
+<rect x="560" y="205" width="40" height="60" rx="20" fill="#2f4a62" stroke="#b3c6d6" stroke-width="4" transform="rotate(-30 580 235)"/>
+<circle cx="560" cy="250" r="120" fill="#f0954a" opacity=".1" filter="url(#glow)"/>
+<rect x="470" y="300" width="160" height="52" fill="#d9e5ee" transform="rotate(-6 550 326)"/>
+<path d="M485 318 H575 M485 334 H600" stroke="#f0954a" stroke-width="5" transform="rotate(-6 550 326)"/>
+<path d="M850 230 l12 30 l30 12 l-30 12 l-12 30 l-12 -30 l-30 -12 l30 -12 Z" fill="#f6ad6c"/>
+<path d="M920 320 l6 15 l15 6 l-15 6 l-6 15 l-6 -15 l-15 -6 l15 -6 Z" fill="#f0954a" opacity=".8"/>
+<rect width="1200" height="800" fill="url(#vig)"/>
+</svg>

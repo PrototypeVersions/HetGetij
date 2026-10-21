@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Een racedrone met één camera die met hoge snelheid door een oplichtende poort vliegt, bij de Delftse drone die met één camera menselijke wereldkampioenen versloeg.">
+<title>Een racedrone met één camera die met hoge snelheid door een oplichtende poort vliegt, bij de Delftse drone die met één camera menselijke wereldkampioenen versloeg.</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#102335"/><stop offset="1" stop-color="#09131d"/></linearGradient>
+<radialGradient id="vig" cx=".5" cy=".45" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".5"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1200" height="800" fill="url(#bg)"/>
+<path d="M0 640 H1200 V800 H0 Z" fill="#0b1824"/><path d="M0 640 H1200" stroke="#2a4155" stroke-width="3"/><rect x="330" y="180" width="540" height="420" rx="16" fill="none" stroke="#f0954a" stroke-width="18"/>
+<rect x="330" y="180" width="540" height="420" rx="16" fill="none" stroke="#f0954a" stroke-width="30" opacity=".3" filter="url(#glow)"/>
+<path d="M360 600 V640 M840 600 V640" stroke="#5a7791" stroke-width="12"/>
+<path d="M80 470 H360 M120 420 H380 M60 520 H340" stroke="#3f5f7a" stroke-width="5" stroke-linecap="round" opacity=".7"/>
+<path d="M520 360 L700 440 M520 440 L700 360" stroke="#5a7791" stroke-width="12" stroke-linecap="round"/>
+<rect x="560" y="370" width="100" height="60" rx="14" fill="#1d3b57" stroke="#b3c6d6" stroke-width="5"/>
+<circle cx="666" cy="400" r="16" fill="#09131d" stroke="#f6ad6c" stroke-width="5"/>
+<ellipse cx="520" cy="355" rx="70" ry="14" fill="none" stroke="#b3c6d6" stroke-width="4" opacity=".7"/><circle cx="520" cy="355" r="9" fill="#5a7791"/><ellipse cx="700" cy="355" rx="70" ry="14" fill="none" stroke="#b3c6d6" stroke-width="4" opacity=".7"/><circle cx="700" cy="355" r="9" fill="#5a7791"/><ellipse cx="520" cy="445" rx="70" ry="14" fill="none" stroke="#b3c6d6" stroke-width="4" opacity=".7"/><circle cx="520" cy="445" r="9" fill="#5a7791"/><ellipse cx="700" cy="445" rx="70" ry="14" fill="none" stroke="#b3c6d6" stroke-width="4" opacity=".7"/><circle cx="700" cy="445" r="9" fill="#5a7791"/>
+<rect width="1200" height="800" fill="url(#vig)"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Een bezorgtas voor maaltijden naast een lange kassabon, waarvan de onderste regels oranje oplichten: de extra kosten die Thuisbezorgd en Uber Eats pas aan het eind lieten zien.">
+<title>Een bezorgtas voor maaltijden naast een lange kassabon, waarvan de onderste regels oranje oplichten: de extra kosten die Thuisbezorgd en Uber Eats pas aan het eind lieten zien.</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#102335"/><stop offset="1" stop-color="#09131d"/></linearGradient>
+<radialGradient id="vig" cx=".5" cy=".45" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".5"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1200" height="800" fill="url(#bg)"/>
+<path d="M0 640 H1200 V800 H0 Z" fill="#0b1824"/><path d="M0 640 H1200" stroke="#2a4155" stroke-width="3"/><rect x="230" y="320" width="320" height="300" rx="22" fill="#1d3b57" stroke="#b3c6d6" stroke-width="6"/>
+<path d="M300 320 Q300 240 390 240 Q480 240 480 320" fill="none" stroke="#5a7791" stroke-width="12"/>
+<path d="M230 420 H550" stroke="#3f5f7a" stroke-width="4"/>
+<circle cx="880" cy="470" r="120" fill="#f0954a" opacity=".12" filter="url(#glow)"/>
+<path d="M760 190 H1000 V560 L976 580 L952 560 L928 580 L904 560 L880 580 L856 560 L832 580 L808 560 L784 580 L760 560 Z" fill="#16304a" stroke="#b3c6d6" stroke-width="5" stroke-linejoin="round"/>
+<path d="M790 230 H930" stroke="#5a7791" stroke-width="8" stroke-linecap="round"/><path d="M790 270 H960" stroke="#5a7791" stroke-width="8" stroke-linecap="round"/><path d="M790 310 H900" stroke="#5a7791" stroke-width="8" stroke-linecap="round"/><path d="M790 350 H950" stroke="#5a7791" stroke-width="8" stroke-linecap="round"/><path d="M790 390 H920" stroke="#5a7791" stroke-width="8" stroke-linecap="round"/><path d="M790 425 H970" stroke="#2f4a62" stroke-width="3" stroke-dasharray="10 8"/><path d="M790 460 H940" stroke="#f0954a" stroke-width="8" stroke-linecap="round"/><path d="M790 500 H910" stroke="#f0954a" stroke-width="8" stroke-linecap="round"/>
+<rect width="1200" height="800" fill="url(#vig)"/>
+</svg>

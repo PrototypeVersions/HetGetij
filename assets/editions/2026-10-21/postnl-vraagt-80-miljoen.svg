@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Een straatbrievenbus met één enkele envelop in de gleuf, bij de vraag van PostNL om geld voor de postbezorging nu er steeds minder post is.">
+<title>Een straatbrievenbus met één enkele envelop in de gleuf, bij de vraag van PostNL om geld voor de postbezorging nu er steeds minder post is.</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#102335"/><stop offset="1" stop-color="#09131d"/></linearGradient>
+<radialGradient id="vig" cx=".5" cy=".45" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".5"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1200" height="800" fill="url(#bg)"/>
+<path d="M0 640 H1200 V800 H0 Z" fill="#0b1824"/><path d="M0 640 H1200" stroke="#2a4155" stroke-width="3"/><circle cx="600" cy="330" r="150" fill="#f0954a" opacity=".12" filter="url(#glow)"/>
+<path d="M600 520 V640" stroke="#5a7791" stroke-width="16"/>
+<rect x="470" y="230" width="260" height="300" rx="26" fill="#1d3b57" stroke="#b3c6d6" stroke-width="6"/>
+<path d="M470 290 Q600 230 730 290" fill="none" stroke="#3f5f7a" stroke-width="4"/>
+<rect x="515" y="320" width="170" height="22" rx="11" fill="#09131d" stroke="#5a7791" stroke-width="3"/>
+<rect x="545" y="275" width="110" height="60" rx="4" fill="#f6ad6c" stroke="#f0954a" stroke-width="3" transform="rotate(-8 600 305)"/>
+<path d="M548 280 L600 312 L652 272" fill="none" stroke="#c9733a" stroke-width="3" transform="rotate(-8 600 305)"/>
+<rect x="520" y="400" width="160" height="90" rx="8" fill="none" stroke="#2f4a62" stroke-width="4"/>
+<rect width="1200" height="800" fill="url(#vig)"/>
+</svg>

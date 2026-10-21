@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Een afgelegen huis achter een omheining met een oplichtende stroomdraad, bij de mishandeling van jongeren in het gezinshuis Huize Soria in Spanje.">
+<title>Een afgelegen huis achter een omheining met een oplichtende stroomdraad, bij de mishandeling van jongeren in het gezinshuis Huize Soria in Spanje.</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#102335"/><stop offset="1" stop-color="#09131d"/></linearGradient>
+<radialGradient id="vig" cx=".5" cy=".45" r=".78"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".5"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1200" height="800" fill="url(#bg)"/>
+<path d="M0 640 H1200 V800 H0 Z" fill="#0b1824"/><path d="M0 640 H1200" stroke="#2a4155" stroke-width="3"/><path d="M120 470 H1080" stroke="#f0954a" stroke-width="16" opacity=".35" filter="url(#glow)"/>
+<path d="M430 360 L600 230 L770 360 Z" fill="#16304a" stroke="#b3c6d6" stroke-width="5" stroke-linejoin="round"/>
+<rect x="460" y="360" width="280" height="200" fill="#1d3b57" stroke="#b3c6d6" stroke-width="5"/>
+<rect x="495" y="395" width="60" height="60" rx="4" fill="#0f2233" stroke="#3f5f7a" stroke-width="3"/>
+<rect x="645" y="395" width="60" height="60" rx="4" fill="#0f2233" stroke="#3f5f7a" stroke-width="3"/>
+<rect x="570" y="470" width="60" height="90" rx="3" fill="#0f2233" stroke="#3f5f7a" stroke-width="3"/>
+<path d="M440 560 H760" stroke="#2f4a62" stroke-width="4"/><path d="M140 640 V430" stroke="#5a7791" stroke-width="10" stroke-linecap="round"/><path d="M260 640 V430" stroke="#5a7791" stroke-width="10" stroke-linecap="round"/><path d="M380 640 V430" stroke="#5a7791" stroke-width="10" stroke-linecap="round"/><path d="M500 640 V430" stroke="#5a7791" stroke-width="10" stroke-linecap="round"/><path d="M620 640 V430" stroke="#5a7791" stroke-width="10" stroke-linecap="round"/><path d="M740 640 V430" stroke="#5a7791" stroke-width="10" stroke-linecap="round"/><path d="M860 640 V430" stroke="#5a7791" stroke-width="10" stroke-linecap="round"/><path d="M980 640 V430" stroke="#5a7791" stroke-width="10" stroke-linecap="round"/><path d="M120 470 H1080" stroke="#f0954a" stroke-width="5" /><path d="M120 530 H1080" stroke="#3f5f7a" stroke-width="4" /><path d="M120 590 H1080" stroke="#3f5f7a" stroke-width="4" />
+<rect width="1200" height="800" fill="url(#vig)"/>
+</svg>
